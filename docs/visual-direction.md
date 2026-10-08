@@ -130,3 +130,26 @@ globe.postProcessingComposer().addPass(
 ## 4. Quick asset list
 - Night texture: `//unpkg.com/three-globe/example/img/earth-night.jpg` (verified 200)
 - Countries GeoJSON: `ne_110m_admin_0_countries.geojson`. The hexed-polygons example loads it from `../datasets/` (I confirmed this in its source: https://github.com/vasturiano/globe.gl/blob/master/example/hexed-polygons/index.html), so it should be at https://vasturiano.github.io/globe.gl/example/datasets/ne_110m_admin_0_countries.geojson, though I didn't fetch that URL itself. Better to vendor a copy into the repo. The example uses margin 0.3; 0.6–0.7 gives sparser, GitHub-like dots.
+
+---
+
+## 5. Night Mail v2 — chosen direction (2026-10-07)
+
+User picked A "Night Mail". Additional product references and refinements:
+
+| Product | Borrow |
+|---|---|
+| Shopify BFCM Live Globe (shopify.engineering/how-we-built-shopifys-bfcm-2023-globe) | Arcs dissolve with noise after landing (age 0→1 travel, 1→2 trail dissolves); billboarded gl.POINTS city dots glow better at horizon; camera flies via spherical interpolation and tilts phi down to frame city on horizon (fix camera.up each frame); one small firework on special events; instanced arcs → thousands in one draw call |
+| Flighty Passport (developer.apple.com/news/?id=970ncww4) | Airport-board rule: one line per item, 50 years of signage conventions; shareable Passport artwork with lifetime stats; "boringly obvious" status |
+| Polarsteps Unpacked (polarsteps.com/news/polarsteps-unpacked-and-2025-travel-report-the-year-in-travel) | Year recap as swipeable story slides, each with one stat |
+| rsmb Flights | Personal stats side panel, filters, deep links |
+| COBE (cobe.vercel.app) | 5KB dotted WebGL globe; candidate for a lightweight hero/loading globe |
+| Arrive (Shopify, defunct) / Parcel / Deliveries | Delivery confetti; day counter; route lines between scan cities |
+
+### Refinements to adopt
+1. Departure-board list: each row = carrier · mono tracking tail · origin→dest city codes · status · ETA/days counter (Flighty/airport board).
+2. Three arc states: in transit (amber comet), out-for-delivery (arc fully lit + home pulse faster), delivered (lands with small amber firework/ring burst, then teal, noise-dissolve fade over 30 days).
+3. Camera: on select, fly with horizon framing (Shopify technique) instead of top-down.
+4. City dots: hubs the parcel passed through as billboarded glowing points sized by visit count over the year.
+5. Year in Parcels as 5–6 story slides (Polarsteps/Wrapped), last slide = poster card with postmark.
+6. Empty state: slowly rotating globe with home glowing + "Paste a tracking number".
