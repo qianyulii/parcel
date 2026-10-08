@@ -5,7 +5,9 @@ import { STATUS_COLOR, STATUS_LABEL } from '../lib/palette';
 const fmt = (iso: string) =>
   new Date(iso).toLocaleString(undefined, { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' });
 
-export default function Detail({ s, home, onClose }: { s: Shipment; home: Home; onClose: () => void }) {
+interface Props { s: Shipment; home: Home; onClose: () => void; onRemove: () => void; onSimulate?: () => void }
+
+export default function Detail({ s, home, onClose, onRemove, onSimulate }: Props) {
   const col = STATUS_COLOR[s.status];
   const km = Math.round(totalKm(legs(s, home)));
   return (
@@ -21,7 +23,10 @@ export default function Detail({ s, home, onClose }: { s: Shipment; home: Home; 
         <span style={{ color: col }}>{STATUS_LABEL[s.status]}</span>
         <span className="text-dim tnum">{km.toLocaleString()} km</span>
       </div>
-      <ol className="mt-4 space-y-3 border-l border-white/10 pl-4">
+      {s.events.length === 0 && (
+        <p className="mt-4 text-[13px] text-dim">Not checked yet. It will appear on the globe after the first scan comes back.</p>
+      )}
+      <ol className="mt-4 space-y-3 border-l border-white/10 pl-4 empty:hidden">
         {[...s.events].reverse().map((e, i) => (
           <li key={e.id} className="relative">
             <span className="absolute -left-[21px] top-1.5 h-2 w-2 rounded-full" style={{ background: i === 0 ? col : '#2A3654' }} />
@@ -32,6 +37,10 @@ export default function Detail({ s, home, onClose }: { s: Shipment; home: Home; 
           </li>
         ))}
       </ol>
+      <div className="mt-5 flex justify-between border-t border-white/5 pt-3 font-mono text-[11px] tracking-wider">
+        <button onClick={onRemove} className="text-dim hover:text-alert">REMOVE</button>
+        {onSimulate && <button onClick={onSimulate} className="text-teal/80 hover:text-teal" data-testid="simulate">SIMULATE DELIVERY ✦</button>}
+      </div>
     </div>
   );
 }

@@ -24,7 +24,7 @@ export const STATUS_LABEL: Record<Status, string> = {
   DELIVERED: 'DELIVERED',
   EXCEPTION: 'DELAYED',
   RETURNED: 'RETURNED',
-  UNKNOWN: 'NO INFO',
+  UNKNOWN: 'NOT CHECKED',
 };
 
 export const STATUS_COLOR: Record<Status, string> = {

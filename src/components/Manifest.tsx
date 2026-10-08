@@ -6,9 +6,10 @@ const CARRIER_TAG = { ups: 'UPS', fedex: 'FDX', usps: 'USPS' } as const;
 
 const GROUPS: { title: string; match: Status[] }[] = [
   { title: 'Out for delivery', match: ['OUT_FOR_DELIVERY'] },
-  { title: 'In transit', match: ['IN_TRANSIT', 'PRE_TRANSIT', 'UNKNOWN'] },
+  { title: 'In transit', match: ['IN_TRANSIT', 'PRE_TRANSIT'] },
   { title: 'Needs attention', match: ['EXCEPTION', 'RETURNED'] },
   { title: 'Delivered · 30 days', match: ['DELIVERED'] },
+  { title: 'Waiting for first scan', match: ['UNKNOWN'] },
 ];
 
 function when(s: Shipment, now: Date): string {
@@ -30,10 +31,12 @@ interface Props {
   onSelect: (id: string | null) => void;
   now: Date;
   demo: boolean;
+  onAdd: () => void;
 }
 
-export default function Manifest({ shipments, home, selectedId, onSelect, now, demo }: Props) {
-  const moving = shipments.filter((s) => s.status !== 'DELIVERED').length;
+export default function Manifest({ shipments, home, selectedId, onSelect, now, demo, onAdd }: Props) {
+  const moving = shipments.filter((s) => !['DELIVERED', 'UNKNOWN'].includes(s.status)).length;
+  const home_ = shipments.filter((s) => s.status === 'DELIVERED').length;
   return (
     <aside className="glass pointer-events-auto absolute left-4 top-4 flex max-h-[calc(100%-2rem)] w-[400px] flex-col overflow-hidden rounded-2xl max-md:inset-x-0 max-md:top-auto max-md:bottom-0 max-md:h-[44%] max-md:w-auto max-md:rounded-b-none">
       <header className="flex items-baseline justify-between border-b border-white/5 px-5 pt-4 pb-3">
@@ -41,8 +44,16 @@ export default function Manifest({ shipments, home, selectedId, onSelect, now, d
           <span className="font-mono text-[13px] font-semibold tracking-[0.18em] text-spark">PARCEL GLOBE</span>
           {demo && <span className="rounded border border-gold/30 px-1.5 py-px font-mono text-[10px] tracking-widest text-gold/80">DEMO</span>}
         </div>
-        <span className="font-mono text-[11px] tracking-wider text-dim tnum">
-          {moving} MOVING · {shipments.length - moving} HOME
+        <span className="flex items-center gap-3">
+          <span className="font-mono text-[11px] tracking-wider text-dim tnum">
+            {moving} MOVING · {home_} HOME
+          </span>
+          <button
+            onClick={onAdd}
+            aria-label="Add parcels"
+            data-testid="add-button"
+            className="flex h-7 w-7 items-center justify-center rounded-full bg-amber text-[18px] leading-none font-medium text-void shadow-[0_0_18px_rgba(255,138,61,0.45)] transition-transform hover:scale-105 active:scale-95"
+          >+</button>
         </span>
       </header>
       <div className="grid grid-cols-[40px_minmax(0,1fr)_88px_62px] gap-x-3 px-5 pt-3 pb-1 font-mono text-[10px] tracking-[0.16em] text-dim/70">
@@ -57,7 +68,7 @@ export default function Manifest({ shipments, home, selectedId, onSelect, now, d
               <h3 className="px-5 pt-2 pb-1 font-mono text-[10px] uppercase tracking-[0.2em] text-dim">{g.title}</h3>
               {rows.map((s) => {
                 const { visited, final } = stops(s, home);
-                const from = visited[0]?.code ?? '···';
+                const from = visited[0]?.code ?? visited[0]?.city?.slice(0, 3).toUpperCase() ?? '···';
                 const km = Math.round(totalKm(legs(s, home)));
                 const sel = s.id === selectedId;
                 const col = STATUS_COLOR[s.status];
@@ -79,7 +90,7 @@ export default function Manifest({ shipments, home, selectedId, onSelect, now, d
                     </span>
                     <span className="font-mono text-[12px] tracking-wider text-ink/90 tnum">
                       {from}<span className="px-1 text-dim">→</span>{final.code ?? '···'}
-                      <span className="block text-[10px] text-dim">{km.toLocaleString()} km</span>
+                      <span className="block text-[10px] text-dim">{km ? `${km.toLocaleString()} km` : 'awaiting scan'}</span>
                     </span>
                     <span className="text-right font-mono text-[12px] tracking-wider tnum" style={{ color: s.status === 'DELIVERED' ? C.dim : C.spark }}>
                       {when(s, now)}

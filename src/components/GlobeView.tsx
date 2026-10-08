@@ -7,6 +7,7 @@ import type { Home, Shipment } from '../lib/types';
 import { currentPosition, deliveredOpacity, hubs, legs, type Leg } from '../lib/route';
 import { interpolate } from '../lib/geo';
 import { C, rgba } from '../lib/palette';
+import Firework, { type Burst } from './Firework';
 
 interface ArcDatum {
   key: string;
@@ -26,6 +27,7 @@ interface Props {
   selectedId: string | null;
   onSelect: (id: string | null) => void;
   now: Date;
+  bursts: Burst[];
 }
 
 function arcsFor(s: Shipment, home: Home, now: Date, focus: number): ArcDatum[] {
@@ -77,7 +79,7 @@ function arcsFor(s: Shipment, home: Home, now: Date, focus: number): ArcDatum[] 
   return out;
 }
 
-export default function GlobeView({ shipments, home, selectedId, onSelect, now }: Props) {
+export default function GlobeView({ shipments, home, selectedId, onSelect, now, bursts }: Props) {
   const el = useRef<HTMLDivElement>(null);
   const globe = useRef<GlobeInstance | null>(null);
   const onSelectRef = useRef(onSelect);
@@ -204,5 +206,17 @@ export default function GlobeView({ shipments, home, selectedId, onSelect, now }
     g.pointOfView({ lat: mid.lat, lng: mid.lng, altitude: Math.min(2.6, Math.max(0.9, span / 6000)) }, 1400);
   }, [selectedId, shipments, home]);
 
-  return <div ref={el} className="absolute inset-0" data-testid="globe" />;
+  const project = (lat: number, lng: number) => {
+    const g = globe.current;
+    if (!g) return null;
+    const p = g.getScreenCoords(lat, lng, 0.01) as { x: number; y: number } | null;
+    return p ?? null;
+  };
+
+  return (
+    <>
+      <div ref={el} className="absolute inset-0" data-testid="globe" />
+      <Firework bursts={bursts} project={project} />
+    </>
+  );
 }
