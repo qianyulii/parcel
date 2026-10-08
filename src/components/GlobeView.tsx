@@ -121,6 +121,13 @@ export default function GlobeView({ shipments, home, selectedId, onSelect, now }
     // a colour-managed scene.background renders #05070D exactly.
     g.scene().background = new Color(C.void);
 
+    // Optional NASA night-lights underlay (?night=1), dimmed so arcs stay the brightest thing.
+    if (new URLSearchParams(location.search).has('night')) {
+      g.globeImageUrl('/textures/earth-night.jpg');
+      const m = g.globeMaterial() as MeshPhongMaterial;
+      m.color = new Color('#6A6F86');
+    }
+
     const ctl = g.controls();
     ctl.autoRotate = true;
     ctl.autoRotateSpeed = 0.25;
