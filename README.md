@@ -25,3 +25,18 @@ Since 2026-04-01 USPS restricts Tracking API access for parties who didn't ship 
 
 ## License
 MIT. Not affiliated with UPS, FedEx, or USPS.
+
+## Local development (M3)
+
+```bash
+pnpm install
+cp .env.example .env.local      # fill in what you have
+PG_FIXTURES=1 pnpm dev          # /api/* answers from server/fixtures, no keys needed
+pnpm test                       # unit tests (adapters, auth, merge)
+pnpm test:live                  # hits the real FedEx API using .env.local (sandbox by default)
+```
+
+`pnpm dev` serves `/api/login` and `/api/track` from `server/handlers.ts`, the same
+code Vercel runs from `api/`. FedEx sandbox keys need `FEDEX_BASE_URL=https://apis-sandbox.fedex.com`.
+The sandbox is virtualized: it returns one canned response, so test with `123456789012`.
+UPS support is written against UPS's published OpenAPI docs and not yet verified with live keys.

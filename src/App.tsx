@@ -1,8 +1,10 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import GlobeView from './components/GlobeView';
 import Manifest from './components/Manifest';
 import Detail from './components/Detail';
 import AddDialog from './components/AddDialog';
+import PasscodeDialog from './components/PasscodeDialog';
+import { AuthRequired } from './lib/api';
 import type { Burst } from './components/Firework';
 import { DEMO_HOME } from './lib/demo';
 import { useShipments } from './lib/store';
@@ -11,12 +13,40 @@ import type { Status } from './lib/types';
 
 export default function App() {
   const now = useMemo(() => new Date(), []);
-  const { shipments, isDemo, add, remove, update } = useShipments(now);
+  const { shipments, isDemo, loading, add, remove, update, refresh } = useShipments(now);
   const home = DEMO_HOME; // TODO(settings): user-set home
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [adding, setAdding] = useState(false);
   const [bursts, setBursts] = useState<Burst[]>([]);
   const selected = shipments.find((s) => s.id === selectedId) ?? null;
+  const [syncing, setSyncing] = useState(false);
+  const [syncNote, setSyncNote] = useState<string | null>(null);
+  const [needPasscode, setNeedPasscode] = useState(false);
+
+  const sync = useCallback(async (force = false) => {
+    setSyncing(true);
+    try {
+      await refresh(force);
+      setSyncNote(`Checked ${new Date().toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' })}`);
+    } catch (e) {
+      if (e instanceof AuthRequired) setNeedPasscode(true);
+      else setSyncNote('Could not reach the tracking server');
+    } finally { setSyncing(false); }
+  }, [refresh]);
+
+  // Check carriers once on load, then every 15 minutes while the tab is open.
+  useEffect(() => {
+    if (loading || isDemo) return;
+    void sync();
+    const t = setInterval(() => { if (document.visibilityState === 'visible') void sync(); }, 15 * 60_000);
+    return () => clearInterval(t);
+  }, [loading, isDemo, sync]);
+
+  const addAndTrack = async (items: Parameters<typeof add>[0]) => {
+    const n = await add(items);
+    if (n) void sync();
+    return n;
+  };
 
   // Fire once when a parcel flips to DELIVERED during this session.
   const prev = useRef(new Map<string, Status>());
@@ -62,7 +92,8 @@ export default function App() {
     <main className="relative h-full w-full">
       <GlobeView shipments={shipments} home={home} selectedId={selectedId} onSelect={setSelectedId} now={now} bursts={bursts} />
       <div className="pointer-events-none absolute inset-0">
-        <Manifest shipments={shipments} home={home} selectedId={selectedId} onSelect={setSelectedId} now={now} demo={isDemo} onAdd={() => setAdding(true)} />
+        <Manifest shipments={shipments} home={home} selectedId={selectedId} onSelect={setSelectedId} now={now} demo={isDemo} onAdd={() => setAdding(true)}
+          onRefresh={isDemo ? undefined : () => void sync(true)} syncing={syncing} syncNote={syncNote} />
         {selected && (
           <Detail
             s={selected} home={home} onClose={() => setSelectedId(null)}
@@ -70,7 +101,8 @@ export default function App() {
             onSimulate={isDemo && selected.status !== 'DELIVERED' ? () => simulateDelivery(selected.id) : undefined}
           />
         )}
-        {adding && <AddDialog onAdd={add} onClose={() => setAdding(false)} />}
+        {adding && <AddDialog onAdd={addAndTrack} onClose={() => setAdding(false)} />}
+        {needPasscode && <PasscodeDialog onDone={() => { setNeedPasscode(false); void sync(true); }} onClose={() => setNeedPasscode(false)} />}
       </div>
     </main>
   );

@@ -1,0 +1,32 @@
+{
+  "transactionId": "fixture-fedex-1",
+  "output": {
+    "completeTrackResults": [
+      {
+        "trackingNumber": "123456789012",
+        "trackResults": [
+          {
+            "trackingNumberInfo": { "trackingNumber": "123456789012", "carrierCode": "FDXE" },
+            "shipperInformation": { "address": { "city": "MEMPHIS", "stateOrProvinceCode": "TN", "countryCode": "US" } },
+            "recipientInformation": { "address": { "city": "CHAMPAIGN", "stateOrProvinceCode": "IL", "postalCode": "61820", "countryCode": "US" } },
+            "latestStatusDetail": { "code": "IT", "derivedCode": "IT", "statusByLocale": "In transit", "description": "In transit" },
+            "dateAndTimes": [
+              { "type": "ESTIMATED_DELIVERY", "dateTime": "2026-10-10T20:00:00-05:00" },
+              { "type": "SHIP", "dateTime": "2026-10-07T00:00:00-06:00" }
+            ],
+            "scanEvents": [
+              { "date": "2026-10-08T06:12:00-05:00", "eventType": "IT", "eventDescription": "In transit", "derivedStatusCode": "IT",
+                "scanLocation": { "city": "INDIANAPOLIS", "stateOrProvinceCode": "IN", "postalCode": "46241", "countryCode": "US" } },
+              { "date": "2026-10-07T23:40:00-05:00", "eventType": "DP", "eventDescription": "Departed FedEx hub", "derivedStatusCode": "IT",
+                "scanLocation": { "city": "MEMPHIS", "stateOrProvinceCode": "TN", "postalCode": "38118", "countryCode": "US" } },
+              { "date": "2026-10-07T16:05:00-05:00", "eventType": "PU", "eventDescription": "Picked up", "derivedStatusCode": "PU",
+                "scanLocation": { "city": "MEMPHIS", "stateOrProvinceCode": "TN", "postalCode": "38116", "countryCode": "US" } },
+              { "date": "2026-10-07T09:00:00-05:00", "eventType": "OC", "eventDescription": "Shipment information sent to FedEx", "derivedStatusCode": "IN",
+                "scanLocation": {} }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

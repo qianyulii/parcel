@@ -36,3 +36,13 @@ export const STATUS_COLOR: Record<Status, string> = {
   RETURNED: C.alert,
   UNKNOWN: C.dim,
 };
+
+const ERROR_LABEL: Record<string, string> = {
+  NOT_FOUND: 'NOT FOUND', NOT_CONFIGURED: 'NO API KEY', AUTH: 'KEY REJECTED',
+  RATE_LIMITED: 'RATE LIMITED', UPSTREAM: 'CARRIER ERROR', UNSUPPORTED: 'NOT SUPPORTED',
+};
+/** Status text for a row: a tracking error wins while nothing has been scanned yet. */
+export const statusText = (s: { status: keyof typeof STATUS_LABEL; error?: { code: string } }) =>
+  s.error && s.status === 'UNKNOWN' ? ERROR_LABEL[s.error.code] ?? 'ERROR' : STATUS_LABEL[s.status];
+export const statusColor = (s: { status: keyof typeof STATUS_COLOR; error?: { code: string } }) =>
+  s.error && s.status === 'UNKNOWN' ? C.alert : STATUS_COLOR[s.status];

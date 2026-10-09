@@ -1,0 +1,35 @@
+{
+  "trackResponse": {
+    "shipment": [
+      {
+        "inquiryNumber": "1Z999AA10123456784",
+        "package": [
+          {
+            "trackingNumber": "1Z999AA10123456784",
+            "deliveryDate": [{ "type": "SDD", "date": "20261009" }],
+            "deliveryTime": { "type": "EOD", "endTime": "200000" },
+            "currentStatus": { "description": "Out For Delivery Today", "code": "OT" },
+            "packageAddress": [
+              { "type": "ORIGIN", "address": { "city": "LOUISVILLE", "stateProvince": "KY", "countryCode": "US" } },
+              { "type": "DESTINATION", "address": { "city": "CHAMPAIGN", "stateProvince": "IL", "postalCode": "61820", "countryCode": "US" } }
+            ],
+            "activity": [
+              { "location": { "address": { "city": "Champaign", "stateProvince": "IL", "postalCode": "", "countryCode": "US" } },
+                "status": { "type": "I", "description": "Out For Delivery Today", "code": "OT", "statusCode": "021" },
+                "date": "20261009", "time": "071500", "gmtDate": "20261009", "gmtOffset": "-05:00", "gmtTime": "12:15:00" },
+              { "location": { "address": { "city": "Hodgkins", "stateProvince": "IL", "countryCode": "US" } },
+                "status": { "type": "I", "description": "Departed from Facility", "code": "DP", "statusCode": "005" },
+                "date": "20261008", "time": "230000", "gmtDate": "20261009", "gmtOffset": "-05:00", "gmtTime": "04:00:00" },
+              { "location": { "address": { "city": "Louisville", "stateProvince": "KY", "countryCode": "US" } },
+                "status": { "type": "I", "description": "Arrived at Facility", "code": "AR", "statusCode": "005" },
+                "date": "20261008", "time": "020000", "gmtDate": "20261008", "gmtOffset": "-04:00", "gmtTime": "06:00:00" },
+              { "location": { "address": { "countryCode": "US" } },
+                "status": { "type": "M", "description": "Shipper created a label, UPS has not received the package yet.", "code": "MP", "statusCode": "003" },
+                "date": "20261007", "time": "101000" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -2,6 +2,8 @@ import { useCallback, useEffect, useState } from 'react';
 import { db } from './db';
 import { demoShipments } from './demo';
 import type { Carrier, Shipment } from './types';
+import { track } from './api';
+import { due, mergeResult } from './merge';
 
 export interface NewParcel { carrier: Carrier; trackingNumber: string; label?: string }
 
@@ -47,5 +49,22 @@ export function useShipments(now: Date) {
     await reload();
   }, [isDemo, reload]);
 
-  return { shipments, isDemo, loading: real === null, add, remove, update };
+  /** Ask the carriers about every shipment that is due (or all live ones when forced). Throws AuthRequired. */
+  const refresh = useCallback(async (force = false) => {
+    const rows = await db.shipments.toArray();
+    const now = new Date();
+    const todo = rows.filter((s) => due(s, now, force));
+    if (!todo.length) return 0;
+    const results = await track(todo.map((s) => ({ carrier: s.carrier, trackingNumber: s.trackingNumber })));
+    await db.transaction('rw', db.shipments, async () => {
+      for (const r of results) {
+        const s = todo.find((x) => x.carrier === r.carrier && x.trackingNumber.toUpperCase() === r.trackingNumber.toUpperCase());
+        if (s) await db.shipments.update(s.id, mergeResult(s, r));
+      }
+    });
+    await reload();
+    return todo.length;
+  }, [reload]);
+
+  return { shipments, isDemo, loading: real === null, add, remove, update, refresh };
 }

@@ -1,6 +1,6 @@
 import type { Home, Shipment, Status } from '../lib/types';
 import { legs, stops, totalKm } from '../lib/route';
-import { C, STATUS_COLOR, STATUS_LABEL } from '../lib/palette';
+import { C, statusColor, statusText } from '../lib/palette';
 
 const CARRIER_TAG = { ups: 'UPS', fedex: 'FDX', usps: 'USPS' } as const;
 
@@ -32,9 +32,12 @@ interface Props {
   now: Date;
   demo: boolean;
   onAdd: () => void;
+  onRefresh?: () => void;
+  syncing?: boolean;
+  syncNote?: string | null;
 }
 
-export default function Manifest({ shipments, home, selectedId, onSelect, now, demo, onAdd }: Props) {
+export default function Manifest({ shipments, home, selectedId, onSelect, now, demo, onAdd, onRefresh, syncing, syncNote }: Props) {
   const moving = shipments.filter((s) => !['DELIVERED', 'UNKNOWN'].includes(s.status)).length;
   const home_ = shipments.filter((s) => s.status === 'DELIVERED').length;
   return (
@@ -48,6 +51,16 @@ export default function Manifest({ shipments, home, selectedId, onSelect, now, d
           <span className="font-mono text-[11px] tracking-wider text-dim tnum">
             {moving} MOVING · {home_} HOME
           </span>
+          {onRefresh && (
+            <button
+              onClick={onRefresh}
+              disabled={syncing}
+              aria-label="Refresh tracking"
+              title={syncNote ?? 'Refresh tracking'}
+              data-testid="refresh-button"
+              className={`flex h-7 w-7 items-center justify-center rounded-full border border-white/10 text-[14px] leading-none text-dim transition-colors hover:text-ink disabled:opacity-60 ${syncing ? 'animate-spin' : ''}`}
+            >↻</button>
+          )}
           <button
             onClick={onAdd}
             aria-label="Add parcels"
@@ -71,7 +84,7 @@ export default function Manifest({ shipments, home, selectedId, onSelect, now, d
                 const from = visited[0]?.code ?? visited[0]?.city?.slice(0, 3).toUpperCase() ?? '···';
                 const km = Math.round(totalKm(legs(s, home)));
                 const sel = s.id === selectedId;
-                const col = STATUS_COLOR[s.status];
+                const col = statusColor(s);
                 return (
                   <button
                     key={s.id}
@@ -84,7 +97,7 @@ export default function Manifest({ shipments, home, selectedId, onSelect, now, d
                       <span className="block truncate text-[14px] font-medium text-ink">{s.label ?? 'Parcel'}</span>
                       <span className="mt-0.5 flex items-center gap-1.5 whitespace-nowrap font-mono text-[10.5px] tracking-wider">
                         <span className="h-1.5 w-1.5 shrink-0 rounded-full" style={{ background: col, boxShadow: `0 0 8px ${col}` }} />
-                        <span className="truncate" style={{ color: col }}>{STATUS_LABEL[s.status]}</span>
+                        <span className="truncate" style={{ color: col }}>{statusText(s)}</span>
                         <span className="shrink-0 text-dim tnum max-[420px]:hidden">·{s.trackingNumber.slice(-4)}</span>
                       </span>
                     </span>
