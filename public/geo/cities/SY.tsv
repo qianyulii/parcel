@@ -1,0 +1,323 @@
+@	14	tartus
+@	13	damascus governorate
+@	12	idlib
+@	11	homs
+@	10	hama
+@	09	aleppo
+@	08	rif dimashq
+@	07	deir ez zor
+@	06	daraa
+@	05	suwayda
+@	04	raqqa
+@	03	quneitra
+@	02	latakia
+@	01	al hasakah
+ayn halaqim	10	34.94	36.322	0
+al karamah	04	35.869	39.278	0
+ariqah	05	32.89	36.483	0
+as surah as saghirah	05	33.032	36.574	0
+muh hasan	07	35.233	40.317	0
+zakiyah	08	33.334	36.159	18553
+yabrud	08	33.969	36.657	40502
+wadi al uyun	10	35.001	36.187	0
+uqayribat	10	35.043	37.464	0
+tayyibat al imam	10	35.266	36.712	29259
+tasil	06	32.834	35.97	0
+tartus	14	34.889	35.887	458327
+tall tamr	01	36.656	40.371	0
+tall salhab	10	35.259	36.385	0
+tall rif at	09	36.472	37.095	25658
+tallkalakh	11	34.668	36.26	29754
+tall hamis	01	36.757	41.399	0
+talldaww	11	34.876	36.524	0
+tall ad daman	09	35.808	37.254	0
+tall abyad	04	36.696	38.954	0
+talin	14	35.148	36.033	0
+tallbisah	11	34.841	36.731	38491
+taftanaz	12	35.998	36.786	0
+tafas	06	32.737	36.067	31249
+tadmur	11	34.562	38.284	51015
+tadif	09	36.348	37.531	34670
+suran	09	36.566	37.213	0
+suran	10	35.292	36.748	30716
+as suqaylibiyah	10	35.367	36.394	0
+subaykhan	07	34.853	40.6	25514
+slinfah	02	35.598	36.188	0
+sirrin ash shamaliyah	09	36.588	38.298	0
+sirghaya	08	33.81	36.158	0
+sinjar	12	35.59	37.005	0
+shuyukh tahtani	09	36.751	38.077	0
+shin	11	34.779	36.424	0
+shaykh miskin	06	32.827	36.161	25920
+shaykh al hadid	09	36.501	36.599	0
+shathah	10	35.505	36.244	8076
+sharan	09	36.623	36.937	0
+shaqqa	05	32.898	36.697	5116
+shahba	05	32.852	36.628	14784
+saydnaya	08	33.695	36.371	0
+sa sa	08	33.282	36.019	0
+sarmin	12	35.904	36.725	0
+saraqib	12	35.864	36.806	34231
+samad	06	32.476	36.521	3098
+suluk	04	36.596	39.13	0
+salqin	12	36.139	36.452	31608
+salkhad	05	32.492	36.711	9155
+as salamiyah	10	35.011	37.053	94887
+salakhid	05	32.871	36.573	12842
+sahnaya	08	33.425	36.226	30519
+safita	14	34.821	36.118	27815
+sadad	11	34.312	36.926	0
+sabburah	10	35.156	37.209	0
+as sab biyar	08	33.78	37.684	0
+ar riqama	11	34.539	36.919	0
+rasm al harmal	09	36.245	37.716	0
+ra s al ayn	01	36.85	40.071	0
+rankus	08	33.756	36.388	0
+raju	09	36.676	36.664	0
+al qutaylibiyah	02	35.292	36.016	0
+qurqina	12	36.138	36.612	0
+al qahtaniyah	01	37.029	41.546	0
+qatana	08	33.438	36.079	18511
+qastal ma af	02	35.824	35.952	0
+jasim	06	32.991	36.061	30283
+qarah	08	34.156	36.743	20656
+qanawat	05	32.754	36.614	8324
+al qamsiyah	14	35.034	36.015	0
+qal at al madiq	10	35.415	36.391	0
+qadsayya	08	33.548	36.216	0
+kabbasin	09	36.433	37.569	51230
+nubl	09	36.379	36.993	25546
+nawa	06	32.886	36.039	47066
+al muzayrib	06	32.711	36.028	0
+al muzayri ah	02	35.532	36.07	0
+al jala	07	34.633	40.841	0
+murak	10	35.376	36.69	14307
+al yarmuk	13	33.47	36.302	99999
+mukharram al fawqani	11	34.815	37.087	9112
+maharda	10	35.248	36.573	17578
+muhambal	12	35.787	36.472	0
+muadamiyat al sham	08	33.465	36.202	52738
+mazra at bayt jinn	08	33.328	35.921	0
+masyaf	10	35.065	36.341	32262
+maskanah	09	35.966	38.042	0
+mashta al hulw	14	34.875	36.251	0
+mas adah	03	33.232	35.756	0
+markadah	01	35.746	40.753	0
+mari	09	36.483	37.197	0
+manbij	09	36.528	37.955	99497
+ma lula	08	33.845	36.545	5000
+malah	05	32.507	36.854	0
+majdal shams	03	33.27	35.772	11180
+mahin	11	34.242	37.058	0
+ma dan	04	35.755	39.598	0
+madaya	08	33.69	36.104	0
+al ma batli	09	36.562	36.743	0
+ma arratmisrin	12	36.012	36.672	32163
+ma arrat an nu man	12	35.648	36.677	0
+kuwayris sharqi	09	36.167	37.538	0
+kurnaz	10	35.39	36.488	0
+kinnsibba	02	35.744	36.164	0
+rabi ah	02	35.787	36.038	0
+khusham	07	35.301	40.289	0
+khirbat tin nur	11	34.701	36.557	0
+qabbasin	09	36.308	38.156	12000
+al qabw	11	34.843	36.455	0
+khirbat al ma azzah	14	34.805	36.001	0
+khirbat ghazalah	06	32.734	36.205	0
+khan shaykhun	12	35.442	36.651	48975
+khanasir	09	35.782	37.499	0
+khan arnabah	03	33.184	35.892	0
+al khafsah	09	36.231	38.022	0
+al ghandurah	09	36.669	37.733	0
+kassab	02	35.926	35.99	0
+ra s al khashufah	14	34.827	36.052	0
+al karimah	14	34.669	36.075	0
+kanakir	08	33.267	36.096	13950
+kafr zayta	10	35.374	36.603	21845
+kafr takharim	12	36.117	36.515	22436
+kafr shams	06	33.118	36.106	12435
+kafr nasij	06	33.151	36.039	2381
+kafranbel	12	35.614	36.564	45652
+kafr laha	11	34.895	36.496	21819
+kafr buhum	10	35.06	36.699	12194
+kafr batna	08	33.512	36.373	0
+kafr saghir	09	36.293	37.256	3130
+junaynat raslan	14	34.928	36.124	0
+jubb ramlah	10	35.209	36.431	0
+jubb al jarrah	11	34.834	37.324	0
+al jizah	06	32.57	36.315	0
+jisr ash shughur	12	35.814	36.32	39311
+jinniyah	04	36.319	38.914	5000
+jayrud	08	33.807	36.739	32352
+jawbat burghal	02	35.49	36.175	0
+ar ra i	09	36.612	37.448	0
+al jarniyah	04	36.161	38.233	0
+jaramana	08	33.486	36.346	99999
+jarabulus	09	36.818	38.011	24997
+jindayris	09	36.395	36.689	13661
+jablah	02	35.362	35.928	65915
+jaba	03	33.163	35.926	5281
+izra	06	32.867	36.251	13882
+lislamin	12	35.857	36.904	1022
+irbin	08	33.537	36.366	42474
+inkhil	06	33.018	36.128	29076
+idlib	12	35.931	36.634	128840
+hisya	11	34.412	36.759	0
+hish	12	35.548	36.644	0
+homs	11	34.724	36.726	775404
+himmin	14	34.9	36.04	0
+harran al awamid	08	33.449	36.56	0
+huraytan	09	36.289	37.085	0
+harim	12	36.212	36.521	0
+harf al musaytirah	02	35.388	36.134	0
+harbinafsah	10	34.937	36.622	0
+harasta	08	33.559	36.365	37348
+hammam wasil	14	35.074	36.087	0
+hamah	10	35.132	36.758	460602
+halfaya	10	35.26	36.606	23403
+aleppo	09	36.201	37.161	2098210
+hadidah	11	34.673	36.397	0
+al hadir	09	35.99	37.051	0
+ghasam	06	32.546	36.375	3666
+ghabaghib	06	33.182	36.225	0
+al furqlus	11	34.606	37.087	0
+al fakhurah	02	35.498	36.01	0
+duwayr raslan	14	34.949	36.182	0
+ad duraykish	14	34.895	36.143	11918
+ad dumayr	08	33.644	36.694	0
+duma	08	33.572	36.403	111864
+damascus	13	33.51	36.291	1569394
+dhibbin	05	32.437	36.563	0
+dhiban	07	35.015	40.51	0
+dayr makir	08	33.233	36.028	3228
+dayr hafir	09	36.157	37.708	28905
+deir ez zor	07	35.336	40.141	271800
+dayr atiyah	08	34.095	36.768	0
+dayr al asafir	08	33.466	36.42	6209
+darat izzah	09	36.282	36.852	0
+darkush	12	35.992	36.394	0
+ad darbasiyah	01	37.073	40.652	21481
+darayya	08	33.458	36.233	71596
+dar a	06	32.619	36.102	97969
+da il	06	32.754	36.131	29408
+busra ash sham	06	32.517	36.482	1000
+burj islam	02	35.674	35.803	30000
+buq ata	03	33.201	35.779	6528
+bulbul	09	36.769	36.82	0
+brummanat al mashayikh	14	35.019	36.171	0
+bi r al hulw al wardiyah	01	36.697	41.035	0
+binnish	12	35.957	36.714	30354
+bdama	12	35.812	36.196	0
+ar rawdah	14	35.072	35.914	0
+batabo	09	36.134	36.74	25560
+basir	06	33.063	36.232	1442
+barri ash sharqi	10	34.981	37.201	0
+baniyas	14	35.182	35.949	39066
+banan	09	35.974	37.302	0
+babila	08	33.471	36.331	50880
+az ziyarah	10	35.685	36.339	0
+az zarbah	09	36.068	36.98	0
+az zabadani	08	33.725	36.101	29549
+i zaz	09	36.587	37.046	66138
+ayyubiyah	10	35.033	36.736	1980
+ayn isa	04	36.386	38.862	0
+ayn at tinah	02	35.564	36.101	0
+sabbah	14	34.903	36.237	0
+ayn shiqaq	02	35.394	36.03	0
+ayn ash sharqiyah	02	35.332	36.1	0
+ayn al fijah	08	33.615	36.183	0
+ayn al bayda	02	35.656	35.889	0
+ayn al arab	09	36.891	38.353	50000
+awaj	10	34.907	36.404	0
+at tibni	07	35.612	39.818	0
+at tawahin	14	35.128	36.214	0
+at tamani ah	12	35.458	36.748	0
+at tall	08	33.61	36.311	55561
+al tabqa	04	35.838	38.548	87880
+as suwayda	05	32.709	36.57	59052
+as susah	07	34.534	40.958	8797
+as sukhnah	11	34.885	38.871	0
+as sisniyah	14	34.781	36.143	0
+al mazra ah	05	32.782	36.478	0
+as sawda	14	34.982	35.944	0
+as sanamayn	06	33.072	36.183	25702
+assal al ward	08	33.865	36.414	0
+as safsafah	14	34.735	36.053	0
+as safirah	09	36.077	37.373	63708
+as sabkhah	04	35.812	39.263	0
+as si in	10	35.264	37.374	0
+ash shaykh badr	14	34.992	36.084	0
+ash shajarah	06	32.774	35.882	0
+ash shaddadah	01	36.058	40.735	0
+arwad	14	34.856	35.859	0
+ar ruhaybah	08	33.744	36.704	0
+ar rastan	11	34.927	36.732	53152
+ar raqqah	04	35.953	39.008	531952
+armanaz	12	36.084	36.503	0
+ariha	12	35.814	36.61	0
+aqraba	06	33.109	36.007	4413
+an nashabiyah	08	33.511	36.486	0
+an nabk	08	34.024	36.728	49372
+amuda	01	37.104	40.93	26821
+al ghantu	11	34.822	36.696	9412
+al qutayfah	08	33.738	36.601	16118
+al qusayr	11	34.508	36.58	41062
+al qurayya	05	32.543	36.598	6789
+al qunaytirah	03	33.126	35.825	36143
+al qaryatayn	11	34.23	37.241	31748
+al qardahah	02	35.456	36.059	0
+al qamishli	01	37.052	41.231	184231
+al qadmus	14	35.099	36.16	0
+al mushannaf	05	32.744	36.776	0
+al musayfirah	06	32.633	36.34	10466
+al mulayhah	08	33.485	36.376	0
+mismiyah	06	33.129	36.394	0
+al mayadin	07	35.02	40.452	54534
+al malikiyah	01	37.177	42.14	26311
+latakia	02	35.531	35.791	709000
+al kiswah	08	33.358	36.242	23526
+an nasirah	11	34.788	36.286	0
+al jawadiyah	01	36.987	41.82	0
+al janudiyah	12	35.885	36.291	0
+al hinadi	02	35.513	35.874	0
+al hawl	01	36.39	41.15	0
+al hawash	11	34.76	36.321	0
+al hasakah	01	36.502	40.748	422445
+al hirak	06	32.749	36.306	23784
+al hamra	10	35.315	37.086	0
+al hamidiyah	14	34.715	35.952	0
+al hajib	09	35.864	37.397	0
+al haffah	02	35.598	36.03	0
+al ghizlaniyah	08	33.397	36.455	0
+al ghariyah	05	32.393	36.651	0
+al busayrah	07	35.156	40.427	0
+al bariqiyah	14	34.829	36.229	0
+al bahluliyah	02	35.637	35.96	0
+al bab	09	36.371	37.516	130745
+al atarib	09	36.139	36.825	0
+al asharah	07	34.921	40.56	0
+al arimah	09	36.473	37.721	0
+al annazah	14	35.195	36.066	0
+akhtarin	09	36.511	37.336	0
+ihsim	12	35.721	36.556	0
+afrin	09	36.512	36.87	48693
+afis	12	35.907	36.804	6338
+ad dimas	08	33.587	36.093	0
+ad dana	12	36.213	36.77	21987
+ad daliyah	02	35.236	36.144	0
+abu qalqal	09	36.438	38.12	0
+albu kamal	07	34.452	40.919	57572
+hajin	07	34.695	40.831	29237
+abu az zuhur	12	35.741	37.045	0
+al ya rubiyah	01	36.811	42.062	0
+arishah	01	36.232	40.772	0
+kaff al jaa	14	35.086	36.206	3500
+ayn an nasr	11	34.841	36.928	0
+nahiyat as sab biyar	08	33.532	38.008	0
+al kasrah	07	35.567	39.92	0
+al hajar al aswad	08	33.458	36.304	0
+al mansurah	04	35.839	38.743	0
+bayt yashut	02	35.31	36.115	0
+tremseh	10	35.272	36.504	6927
+qentere	09	36.564	36.728	0
+kafr musa al hmidiya	11	34.583	36.534	3000

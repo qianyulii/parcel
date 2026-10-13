@@ -35,22 +35,35 @@ interface Props {
   onRefresh?: () => void;
   syncing?: boolean;
   syncNote?: string | null;
+  onHome?: () => void;
+  homeSet?: boolean;
 }
 
-export default function Manifest({ shipments, home, selectedId, onSelect, now, demo, onAdd, onRefresh, syncing, syncNote }: Props) {
+export default function Manifest({ shipments, home, selectedId, onSelect, now, demo, onAdd, onRefresh, syncing, syncNote, onHome, homeSet }: Props) {
   const moving = shipments.filter((s) => !['DELIVERED', 'UNKNOWN'].includes(s.status)).length;
   const home_ = shipments.filter((s) => s.status === 'DELIVERED').length;
   return (
     <aside className="glass pointer-events-auto absolute left-4 top-4 flex max-h-[calc(100%-2rem)] w-[400px] flex-col overflow-hidden rounded-2xl max-md:inset-x-0 max-md:top-auto max-md:bottom-0 max-md:h-[44%] max-md:w-auto max-md:rounded-b-none">
-      <header className="flex items-baseline justify-between border-b border-white/5 px-5 pt-4 pb-3">
-        <div className="flex items-baseline gap-2">
-          <span className="font-mono text-[13px] font-semibold tracking-[0.18em] text-spark">PARCEL GLOBE</span>
-          {demo && <span className="rounded border border-gold/30 px-1.5 py-px font-mono text-[10px] tracking-widest text-gold/80">DEMO</span>}
-        </div>
-        <span className="flex items-center gap-3">
-          <span className="font-mono text-[11px] tracking-wider text-dim tnum">
+      <header className="flex items-center justify-between border-b border-white/5 px-5 pt-4 pb-3">
+        <div className="min-w-0">
+          <div className="flex items-baseline gap-2">
+            <span className="whitespace-nowrap font-mono text-[13px] font-semibold tracking-[0.18em] text-spark">PARCEL GLOBE</span>
+            {demo && <span className="rounded border border-gold/30 px-1.5 py-px font-mono text-[10px] tracking-widest text-gold/80">DEMO</span>}
+          </div>
+          <div className="mt-1 whitespace-nowrap font-mono text-[10px] tracking-wider text-dim tnum">
             {moving} MOVING · {home_} HOME
-          </span>
+          </div>
+        </div>
+        <span className="flex shrink-0 items-center gap-2">
+          {onHome && (
+            <button
+              onClick={onHome}
+              aria-label="Set home"
+              title={homeSet ? `Home · ${home.label}` : 'Set your home'}
+              data-testid="home-button"
+              className={`flex h-7 items-center gap-1 whitespace-nowrap rounded-full border px-2.5 font-mono text-[10px] tracking-widest transition-colors hover:text-ink ${homeSet ? 'border-white/10 text-dim' : 'border-gold/40 text-gold'}`}
+            >⌂ {homeSet ? home.code : 'SET'}</button>
+          )}
           {onRefresh && (
             <button
               onClick={onRefresh}
@@ -102,7 +115,7 @@ export default function Manifest({ shipments, home, selectedId, onSelect, now, d
                       </span>
                     </span>
                     <span className="font-mono text-[12px] tracking-wider text-ink/90 tnum">
-                      {from}<span className="px-1 text-dim">→</span>{final.code ?? '···'}
+                      {from}<span className="px-1 text-dim">→</span>{final.code ?? final.city?.slice(0, 3).toUpperCase() ?? '···'}
                       <span className="block text-[10px] text-dim">{km ? `${km.toLocaleString()} km` : 'awaiting scan'}</span>
                     </span>
                     <span className="text-right font-mono text-[12px] tracking-wider tnum" style={{ color: s.status === 'DELIVERED' ? C.dim : C.spark }}>

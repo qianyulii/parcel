@@ -1,7 +1,8 @@
-import { useCallback, useEffect, useState } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
 import { db } from './db';
-import { demoShipments } from './demo';
-import type { Carrier, Shipment } from './types';
+import type { Carrier, Home, Shipment } from './types';
+import { locateShipment, shipmentNeedsGeo } from './locate';
+import { DEMO_HOME, demoShipments } from './demo';
 import { track } from './api';
 import { due, mergeResult } from './merge';
 
@@ -19,6 +20,24 @@ export function useShipments(now: Date) {
 
   const reload = useCallback(async () => setReal(await db.shipments.orderBy('addedAt').toArray()), []);
   useEffect(() => { void reload(); }, [reload]);
+
+  // Geocode any place that arrived without coordinates (offline tables, cached in IndexedDB).
+  const locating = useRef(false);
+  useEffect(() => {
+    if (!real || locating.current) return;
+    const todo = real.filter(shipmentNeedsGeo);
+    if (!todo.length) return;
+    locating.current = true;
+    void (async () => {
+      let n = 0;
+      for (const s of todo) {
+        const patch = await locateShipment(s).catch(() => null);
+        if (patch) { await db.shipments.update(s.id, patch); n++; }
+      }
+      locating.current = false;
+      if (n) await reload();
+    })();
+  }, [real, reload]);
 
   const isDemo = real !== null && real.length === 0;
   const shipments = real === null ? [] : isDemo ? demo : real;
@@ -67,4 +86,20 @@ export function useShipments(now: Date) {
   }, [reload]);
 
   return { shipments, isDemo, loading: real === null, add, remove, update, refresh };
+}
+
+/** Home lives in settings; until the user sets one, the demo home stands in. */
+export function useHome() {
+  const [home, setHomeState] = useState<Home | null>(null);
+  const [isSet, setIsSet] = useState(false);
+  useEffect(() => {
+    void db.settings.get('home').then((r) => {
+      if (r?.value) { setHomeState(r.value as Home); setIsSet(true); } else setHomeState(DEMO_HOME);
+    });
+  }, []);
+  const setHome = useCallback(async (h: Home) => {
+    await db.settings.put({ key: 'home', value: h });
+    setHomeState(h); setIsSet(true);
+  }, []);
+  return { home: home ?? DEMO_HOME, homeSet: isSet, setHome };
 }

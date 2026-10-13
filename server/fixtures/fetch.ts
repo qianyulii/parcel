@@ -1,11 +1,13 @@
 import fedexTrack from './fedex-track.doc.json';
 import fedexNotFound from './fedex-notfound.doc.json';
 import upsTrack from './ups-track.doc.json';
+import fedexLive from './fedex-track.live.json';
 
 /**
  * A fake `fetch` that answers FedEx/UPS endpoints from fixtures, so the real
  * adapters (OAuth + request + normalisation) run end-to-end with no keys.
- * Numbers ending in "0000" come back not-found.
+ * Numbers ending in "0000" come back not-found; 123456789012 replays the
+ * recorded FedEx sandbox response (fedex-track.live.json).
  */
 const json = (body: unknown, status = 200) =>
   new Response(JSON.stringify(body), { status, headers: { 'content-type': 'application/json' } });
@@ -19,7 +21,8 @@ export const fixtureFetch: typeof fetch = async (input, init) => {
   if (url.pathname === '/track/v1/trackingnumbers') {
     const body = JSON.parse(String(init?.body ?? '{}')) as { trackingInfo: { trackingNumberInfo: { trackingNumber: string } }[] };
     const results = body.trackingInfo.map(({ trackingNumberInfo: { trackingNumber: n } }) =>
-      n.endsWith('0000')
+      n === '123456789012' ? fedexLive.output.completeTrackResults[0]
+      : n.endsWith('0000')
         ? swap(fedexNotFound.output.completeTrackResults[0], '000000000000', n)
         : swap(fedexTrack.output.completeTrackResults[0], '123456789012', n));
     return json({ output: { completeTrackResults: results } });

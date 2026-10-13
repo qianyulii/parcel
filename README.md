@@ -40,3 +40,13 @@ pnpm test:live                  # hits the real FedEx API using .env.local (sand
 code Vercel runs from `api/`. FedEx sandbox keys need `FEDEX_BASE_URL=https://apis-sandbox.fedex.com`.
 The sandbox is virtualized: it returns one canned response, so test with `123456789012`.
 UPS support is written against UPS's published OpenAPI docs and not yet verified with live keys.
+
+## Data and credits
+
+Places are geocoded entirely in the browser from offline tables in `public/geo/` (no geocoding API, no key):
+
+- US ZIP centroids: [US Census Bureau 2024 ZCTA Gazetteer](https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html) (public domain).
+- Cities worldwide (population ≥ 1,000): [GeoNames](https://www.geonames.org/) `cities1000` and `admin1CodesASCII`, licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- Night lights texture: NASA Earth Observatory, Black Marble (public domain).
+
+Rebuild the tables with `node scripts/build-geo.mjs` (needs Node 22.18+).

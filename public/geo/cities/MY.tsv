@@ -1,0 +1,747 @@
+@	04	melaka
+@	13	terengganu
+@	12	selangor
+@	11	sarawak
+@	16	sabah
+@	08	perlis
+@	07	perak
+@	06	pahang
+@	05	negeri sembilan
+@	03	kelantan
+@	14	kuala lumpur
+@	09	penang
+@	02	kedah
+@	01	johor
+@	15	labuan
+@	17	putrajaya
+padang mat sirat	02	6.354	99.734	10000
+ayer hangat	02	6.421	99.822	10000
+kuah	02	6.326	99.843	30212
+jerantut	06	3.936	102.363	33606
+maran	06	3.586	102.773	111056
+ceruh	06	3.904	101.813	2350
+kampung dong	06	3.896	101.895	1530
+raub	06	3.79	101.857	40024
+teras	06	3.742	101.811	6266
+bentung	06	3.532	101.904	40373
+tanjong malim	07	3.681	101.52	66103
+kerling	12	3.591	101.602	3309
+kuala kubu baharu	12	3.564	101.658	194387
+parit sulung	01	1.976	102.884	82399
+parit jawa	01	1.958	102.64	10000
+tongkang pechah	01	1.92	102.956	13000
+batu pahat	01	1.855	102.933	156236
+semerah	01	1.885	102.783	2945
+ayer hitam	01	1.915	103.181	6745
+parit raja	01	1.868	103.112	17441
+layang layang	01	1.815	103.478	13374
+simpang renggam	01	1.825	103.311	59033
+senggarang	01	1.751	103.049	1991
+rengit	01	1.681	103.148	12000
+pekan nenas	01	1.51	103.514	23292
+ayer baloi	01	1.592	103.333	2062
+pontian besar	01	1.506	103.382	40613
+pontian kechil	01	1.487	103.39	1787
+kukup	01	1.323	103.443	1400
+kampung pasir gudang baru	01	1.473	103.878	145639
+pasir gudang	01	1.462	103.905	534659
+kampung larkin lama	01	1.502	103.744	500000
+mawai	01	1.869	103.957	1229
+kampung sedenak	01	1.711	103.528	22535
+kota tinggi	01	1.738	103.9	52743
+taman senai	01	1.601	103.642	73176
+kulai	01	1.656	103.603	63762
+kampung kangkar pulai	01	1.559	103.586	2616
+skudai	01	1.537	103.658	159733
+kempas	01	1.549	103.697	62011
+pelentong	01	1.524	103.824	583640
+masai	01	1.491	103.879	141730
+johor bahru	01	1.466	103.758	858118
+gelang patah	01	1.448	103.587	64375
+kangkar sedili kecil	01	1.75	104.15	1058
+pengerang	01	1.365	104.112	15494
+paloh	01	2.19	103.196	12677
+kluang	01	2.03	103.317	323762
+niyor	01	2.095	103.281	6092
+yong peng	01	2.014	103.066	27138
+mersing	01	2.431	103.841	22007
+segamat	01	2.515	102.816	69816
+tangkak	01	2.267	102.545	35109
+gerisek	01	2.21	102.71	33217
+pagoh	01	2.15	102.77	95202
+bandar sungai mati	01	2.147	102.566	1737
+muar	01	2.044	102.569	314776
+bakri	01	2.044	102.653	30280
+labis	01	2.385	103.021	21906
+bekok	01	2.297	103.13	3761
+chaah	01	2.249	103.048	11844
+kuala selangor	12	3.35	101.25	55887
+batang berjuntai	12	3.383	101.417	20001
+batu arang	12	3.317	101.467	22579
+kapar	12	3.133	101.383	269627
+meru	12	3.136	101.439	7404
+shah alam	12	3.085	101.533	740750
+klang	12	3.037	101.443	240016
+gedangsa	12	3.733	101.4	6150
+cangkat jong	07	3.985	101.124	25618
+sungkai	07	4	101.317	32700
+slim river	07	3.833	101.4	6297
+sekinchan	12	3.507	101.104	13226
+cukai	13	4.25	103.417	82425
+kemasik	13	4.426	103.454	10247
+kuala lipis	06	4.184	102.047	15448
+val dor	09	5.252	100.49	88600
+papar	16	5.733	115.933	19278
+bongawan	16	5.533	115.85	5594
+kuala penyu	16	5.571	115.598	24200
+kota kinabalu	16	5.975	116.072	500421
+donggongon	16	5.907	116.101	78086
+putatan	16	5.926	116.061	78340
+kinarut	16	5.823	116.047	15716
+tambunan	16	5.717	116.4	29294
+ranau	16	5.954	116.664	19294
+kampung kunak	16	4.686	118.249	13823
+semporna	16	4.482	118.611	62641
+kampong indarasabak	16	4.3	118.167	1558
+labuan	15	5.28	115.248	95120
+sipitang	16	5.079	115.55	39300
+beaufort	16	5.347	115.746	15855
+tenom	16	5.119	115.937	5148
+lahad datu	16	5.023	118.329	105622
+beluran	16	5.896	117.556	3132
+sandakan	16	5.84	118.118	439050
+keningau	16	5.338	116.16	77650
+bandar nabawan	16	5.039	116.427	31807
+eburu	16	4.6	115.717	1192
+wallace bay	16	4.256	117.668	2987
+tawau	16	4.245	117.891	372615
+dungun	13	4.775	103.416	34767
+paka	13	4.637	103.437	21044
+kertih	13	4.514	103.448	24401
+kampung kuala balah	03	5.417	101.917	10198
+gerik	07	5.417	101.133	30868
+lunas	02	5.431	100.53	18236
+kulim	02	5.365	100.562	170889
+mahang	02	5.325	100.749	2835
+selama	07	5.224	100.693	34800
+redang panjang	07	5.117	100.783	2400
+bandar baharu	02	5.134	100.495	44412
+alur pongsu	07	5.033	100.583	2858
+bagan serai	07	5.011	100.541	20476
+padang serai	02	5.513	100.554	50757
+bedong	02	5.727	100.509	47585
+kampung kupang	02	5.636	100.845	18844
+pulai	02	5.655	100.895	19093
+kampung air lanas	03	5.776	101.885	4645
+kampung jeli	03	5.7	101.833	17734
+siburan	11	1.367	110.4	27286
+tebedu	11	1.027	110.363	25232
+bau	11	1.417	110.15	52643
+sebuyau	11	1.517	110.933	13200
+kampung cangkat jering	07	4.783	100.717	6936
+simpang empat	07	4.95	100.633	58004
+kamunting	07	4.883	100.733	36243
+batu kurau	07	4.967	100.8	22307
+kampung enggor	07	4.826	100.97	2342
+taiping	07	4.85	100.733	217647
+padang rengas	07	4.767	100.85	38294
+terung	07	4.717	100.733	1476
+kuala kangsar	07	4.767	100.933	39331
+beruas	07	4.5	100.783	9268
+berincang	06	4.491	101.387	1153
+chemor	07	4.721	101.119	30461
+tanjung rambutan	07	4.671	101.155	1311
+ipoh	07	4.584	101.083	759952
+lahat	07	4.539	101.037	30694
+menglembu	07	4.559	101.048	2600
+gua musang	03	4.884	101.969	19731
+kuala terengganu	13	5.33	103.141	426500
+marang	13	5.206	103.206	21410
+ajil	13	5.083	103.086	3925
+kampung teluk kemang	05	2.461	101.86	16672
+pasir panjang	05	2.432	101.935	8249
+kampung kuala linggi	04	2.385	101.973	2738
+lubok china	04	2.454	102.07	2627
+tampin	05	2.47	102.23	28238
+kampung tebong	04	2.438	102.327	2725
+nyalas	04	2.434	102.471	2009
+alor gajah	04	2.38	102.209	20163
+durian tunggal	04	2.313	102.281	42185
+rembia	04	2.328	102.21	6217
+kampung ayer keroh	04	2.265	102.28	37716
+ayer molek	04	2.203	102.317	10792
+sungai udang	04	2.269	102.143	26044
+malacca	04	2.196	102.241	579000
+teluk mas	04	2.165	102.322	10028
+kampung umbai	04	2.159	102.348	8989
+merlimau	04	2.145	102.425	18632
+teluk panglima garang	12	2.908	101.469	49155
+pelabuhan klang	12	3	101.393	20000
+banting	12	2.814	101.502	48240
+morib	12	2.752	101.444	3122
+jenjarum	12	2.872	101.495	24857
+bangi	12	2.9	101.783	45042
+semenyih	12	2.952	101.843	92491
+kuala klawang	05	2.94	102.07	3300
+lenggeng	05	2.856	101.942	13081
+mantin	05	2.824	101.895	4974
+seremban	05	2.73	101.938	372917
+rantau	05	2.59	101.963	2450
+port dickson	05	2.525	101.797	119300
+sepang	12	2.693	101.75	212050
+taman senawang indah	05	2.691	101.989	64497
+simpang pertang	05	2.943	102.259	1890
+titi	05	2.998	102.077	5533
+bahau	05	2.808	102.405	31273
+kuala pilah	05	2.739	102.249	19510
+rembau	05	2.59	102.091	29595
+gemencheh	05	2.533	102.399	12175
+buloh kasap	01	2.554	102.764	13088
+batu anam	01	2.583	102.711	21923
+rompin	05	2.708	102.505	41931
+gemas	05	2.583	102.612	29777
+padang endau	01	2.656	103.615	14517
+kuala rompin	06	2.817	103.483	10417
+kampung tekek	06	2.815	104.159	2000
+pekan	06	3.484	103.4	31826
+bukit ibam	06	3.164	102.978	2568
+karak	06	3.4	102.033	9362
+mentakab	06	3.485	102.348	42171
+temerluh	06	3.451	102.418	59916
+kampung teluk air tawar	09	5.483	100.383	19371
+batu feringgi	09	5.471	100.245	20000
+butterworth	09	5.399	100.364	107591
+perai	09	5.383	100.383	65301
+bukit mertajam	09	5.363	100.467	212329
+simpang empat	09	5.282	100.478	9149
+sungai bakap	09	5.222	100.495	4000
+nibong tebal	09	5.166	100.478	40072
+kampung sungai acheh	09	5.152	100.425	1313
+parit buntar	07	5.127	100.493	27313
+bagan tiang	07	5.117	100.417	13538
+tanjung piandang	07	5.072	100.381	8352
+kuala kurau	07	5.018	100.428	31065
+tasek glugor	09	5.48	100.498	135786
+kampung pantai aceh	09	5.416	100.196	4302
+balik pulau	09	5.349	100.239	23559
+bayan lepas	09	5.3	100.261	130455
+george town	09	5.411	100.335	158336
+kuala geris	03	5.383	102.067	2000
+dabong	03	5.377	102.01	3097
+kampung bukit tinggi bentong	06	3.349	101.826	12346
+rasa	12	3.496	101.629	1470
+hulu yam lama	12	3.454	101.641	20334
+serendah	12	3.365	101.604	71202
+rawang	12	3.321	101.577	199095
+sungai buloh	12	3.21	101.561	222858
+batu tiga	12	3.078	101.547	5419
+petaling jaya	12	3.107	101.607	807879
+kuala lumpur	14	3.141	101.687	1453975
+setapak	12	3.207	101.727	353268
+batu caves	12	3.238	101.682	254083
+ampang	14	3.15	101.767	126285
+hulu langat	12	3.114	101.814	55251
+bagan datuk	07	3.99	100.782	13700
+hutan melintang	07	3.877	100.933	28357
+sabak bernam	12	3.77	100.988	8696
+sungai besar	12	3.675	100.987	26939
+sungai lembing	06	3.918	103.036	5000
+kuantan	06	3.808	103.326	548014
+kuala pahang	06	3.532	103.462	12540
+gambang	06	3.707	103.1	1013
+mambang di awan	07	4.267	101.15	13300
+tanah rata	06	4.464	101.376	7000
+ringlet	06	4.416	101.384	8242
+sungai siput	07	4.395	101.195	49000
+gopeng	07	4.472	101.166	1330
+batu gajah	07	4.469	101.041	46183
+malim nawar	07	4.351	101.119	1477
+kampar	07	4.3	101.15	19056
+cenderiang	07	4.267	101.233	1400
+tapah road	07	4.167	101.2	27863
+bidur	07	4.117	101.283	30016
+mukah	11	2.894	112.091	33478
+tatau	11	2.883	112.85	31920
+balingian	11	2.931	112.541	8797
+kampung gula	07	4.933	100.467	1805
+parit	07	4.483	100.917	60988
+pusing	07	4.494	101.008	6780
+kampung lambor kanan	07	4.266	100.904	2276
+pangkor	07	4.213	100.575	10000
+lumut	07	4.232	100.63	39595
+sitiawan	07	4.217	100.7	156234
+teluk intan	07	4.022	101.021	232800
+kampung kuala muda	09	5.574	100.34	4590
+taman kota sarang semut	02	5.979	100.4	4479
+kampung kobah	02	5.967	100.433	1278
+gurun	02	5.817	100.474	15964
+yan besar	02	5.799	100.373	67653
+sungai petani	02	5.647	100.488	544851
+kepala batas	09	5.517	100.427	17131
+keruh	07	5.717	101	14661
+melor	03	5.966	102.294	5777
+ketereh	03	5.957	102.248	0
+pulai chondong	03	5.871	102.232	0
+pasir puteh	03	5.833	102.4	137400
+cherang ruku	03	5.871	102.495	14656
+tanah merah	03	5.8	102.15	29116
+kuala krai	03	5.531	102.199	105007
+kuching	11	1.55	110.333	402738
+simunjan	11	1.383	110.75	23011
+pantu	11	1.14	111.118	9852
+lingga	11	1.35	111.167	4073
+sri aman	11	1.247	111.453	47313
+belawai	11	2.233	111.217	2823
+sarikei	11	2.117	111.517	44039
+maradong	11	2.083	111.617	20299
+binatang	11	2.167	111.633	7912
+julau	11	2.017	111.917	15333
+sibu	11	2.3	111.817	198239
+pakan	11	1.883	111.683	15462
+kampung oran	08	6.465	100.246	5210
+kampung titi tinggi	08	6.637	100.263	13403
+kampung chuping	08	6.501	100.256	14428
+alor janggus	02	6.174	100.312	2243
+kampung asun	02	6.333	100.333	4899
+kangar	08	6.441	100.199	63869
+bukit kayu hitam	02	6.517	100.419	4983
+changloon	02	6.434	100.431	18872
+kodiang	02	6.396	100.308	4946
+kuala perlis	08	6.4	100.133	13917
+padang sira	02	6.362	100.34	1991
+kuala sanglang	02	6.261	100.196	1862
+jitra	02	6.268	100.422	63489
+kepala batas	02	6.204	100.408	12397
+kuala kedah	02	6.1	100.3	19231
+langgar	02	6.148	100.432	5872
+alor setar	02	6.121	100.36	417800
+tokai	02	6.029	100.407	30000
+kangkong	02	6.001	100.345	6034
+sintok	02	6.442	100.524	12942
+kuala nerang	02	6.258	100.613	7802
+pokok sena	02	6.171	100.519	19677
+tumpat	03	6.198	102.171	12280
+pengkalan chepa	03	6.175	102.288	14000
+wakaf baharu	03	6.117	102.2	17033
+rantau panjang	03	6.022	101.977	2364
+pasir mas	03	6.049	102.14	230424
+kota bharu	03	6.124	102.243	568900
+kuala besut	13	5.833	102.555	2400
+jertih	13	5.734	102.49	13526
+kudat	16	6.887	116.824	32393
+bandau	16	6.521	116.753	8716
+kampung kundassang	16	5.982	116.571	11251
+kota belud	16	6.351	116.431	12825
+spaoh	11	1.5	111.5	11063
+roban	11	1.917	111.333	6722
+pusa	11	1.583	111.25	14273
+debak	11	1.567	111.417	7907
+budu	11	1.767	111.5	4096
+maludam	11	1.65	111.033	5284
+saratok	11	1.733	111.333	19009
+kampung kuala matu	11	2.717	111.467	2423
+daro	11	2.517	111.43	19477
+oya	11	2.867	111.883	6027
+igan	11	2.823	111.708	2989
+matu	11	2.683	111.533	13327
+lubok antu	11	1.042	111.834	9542
+engkilili	11	1.139	111.667	15031
+betong	11	1.4	111.517	36303
+dalat	11	2.667	112.083	21147
+kanowit	11	2.1	112.15	24700
+lundu	11	1.674	109.852	26372
+sematan	11	1.8	109.767	7107
+song	11	2.017	112.55	9961
+kapit	11	1.995	112.933	33014
+niah	11	3.862	113.715	48875
+belaga	11	2.7	113.783	22502
+bintulu	11	3.167	113.033	151617
+sebauh	11	3.117	113.267	29606
+trusan	11	4.785	115.275	3796
+lawas	11	4.86	115.409	26002
+sundar	11	4.89	115.208	6806
+nanga medamit	11	4.467	114.917	6968
+limbang	11	4.755	115.01	38093
+long bedian	11	3.8	114.733	4107
+marudi	11	4.183	114.317	90100
+beluru	11	3.983	114.1	28695
+long lama	11	3.767	114.4	5870
+bekenu	11	4.054	113.844	1113
+miri	11	4.399	113.992	300543
+kuala baram	11	4.586	113.99	2600
+ulu tiram	01	1.6	103.817	75350
+ulu kinta	07	4.667	101.217	9799
+ulu kelang	12	3.18	101.773	28222
+teluk bahang	09	5.458	100.215	2531
+telaga batu	09	5.467	100.233	10000
+tanjung tokong	09	5.461	100.307	12550
+tanjung sepat	12	2.658	101.563	22340
+sungai pelek new village	12	2.65	101.7	13829
+sungai lalang	02	5.7	100.514	34947
+sungai kob	02	5.43	100.645	5777
+sungai durian	07	4.317	101.05	2253
+sungai dua	09	5.443	100.43	28100
+sungai sumun	07	3.892	100.853	10781
+simpang	07	4.817	100.7	5132
+seri kembangan	12	3.033	101.717	130252
+serian	11	1.167	110.567	58059
+serdang	07	5.204	100.625	6793
+seputeh	14	3.117	101.683	18605
+sentul	14	3.183	101.683	100000
+mulu	11	1.683	111.383	2706
+relau	09	5.331	100.283	18755
+pulau sebang	04	2.455	102.233	11879
+pudu	14	3.133	101.717	15000
+puchong	12	3	101.617	375181
+permatang pasir	09	5.416	100.439	2439
+permatang kuching	09	5.463	100.381	27191
+peringat	03	6.033	102.283	23288
+ladang seri kundang	12	3.286	101.519	23307
+pantai remis	07	4.456	100.629	16317
+padang besar	02	6.383	100.3	16235
+kampung on lok	04	2.472	102.383	1500
+nanga merit	11	2.283	113.133	3016
+lukut	05	2.57	101.833	16450
+lubok buntar	02	5.142	100.59	2228
+kubang semang	09	5.404	100.457	27194
+kuang	12	3.259	101.554	21185
+kuala sungai baru	04	2.359	102.035	12269
+kuala pegang	02	5.636	100.809	2466
+kuala ketil	02	5.6	100.65	19209
+kepong	14	3.214	101.64	85960
+klebang besar	04	2.219	102.2	38643
+kelapa sawit	01	1.67	103.533	13239
+kampung kangkar teberau	01	1.532	103.755	412373
+kampong wang tepus	02	6.25	100.483	1857
+kampung ulu tris	12	2.668	101.668	2800
+kampong tok bali	03	5.892	102.484	4200
+titi gajah	02	6.202	100.393	1727
+kampung telaga papan	13	5.763	102.639	1400
+telaga mas	02	6.167	100.467	3367
+tebengau	02	6.046	100.331	5415
+kampung tawar besar	02	5.557	100.812	8642
+kampung tanjung minyak	04	2.267	102.2	23074
+kampung tanjung keling	04	2.227	102.172	10552
+kampung tanjung karang	12	3.424	101.185	16393
+kampong tanjong chat	03	6.15	102.25	5462
+kampong tajar	02	6.1	100.417	9441
+kampung sungai udang besar	09	5.161	100.427	3426
+kampung sungai terap	02	5.294	100.628	3975
+kampong sungai rusa	09	5.383	100.217	2817
+kampung sungai penchala	14	3.162	101.627	5000
+kampong sungai kechil ulu	02	5.11	100.544	1425
+kampung sungai kajang	12	3.416	101.173	84031
+kampung sungai glugur	09	5.37	100.314	145600
+kampong sungai batu	02	5.318	100.7	4140
+sungai baharu	02	6.164	100.334	1549
+kampung sungai ara	09	5.327	100.273	140849
+kampung sirusa	05	2.496	101.842	4112
+kampung siong	02	5.789	100.909	9413
+kampung simpang renggam	01	1.828	103.3	17528
+kampung simpang pulai	07	5.711	100.997	8102
+kampong sijangkang	12	2.94	101.464	5723
+kampong sidam	02	5.533	100.567	60983
+kampung selang	01	2.35	102.876	20000
+sala kechik	02	5.984	100.349	3991
+kampung relau	02	5.231	100.556	2425
+kampung ramuan china kechil	04	2.43	102.075	2696
+kampung pulai	02	5.658	100.892	6129
+kampung pondok upih	09	5.337	100.232	7679
+lepai	02	6.083	100.367	3362
+kampung permatang pasir	09	5.372	100.211	2439
+kampung pering	02	6.376	100.336	7227
+pengkalan kundor	02	6.078	100.36	5328
+kampung pengkalan gelong	02	6.193	100.383	2639
+pendang	02	5.995	100.479	94033
+kampung parit panjang	02	5.706	100.746	1434
+kampong pangkal kalong	03	5.917	102.217	39904
+kampung padang lalang	02	6.164	100.31	5216
+padang hang	02	6.206	100.302	4506
+kampung padang cina	02	5.438	100.579	2252
+kampung naga lilit	02	5.476	100.551	5547
+kampung minyak beku	01	1.795	102.897	19374
+kampong merbok	02	5.717	100.417	12940
+kampong menumbok	16	5.303	115.37	4000
+kampong masjid tanah	04	2.35	102.117	29185
+kampung machap baru	04	2.383	102.331	16000
+kampung lubok merbau	02	6.02	100.729	3463
+limbong	02	6.133	100.417	1919
+lenggong	07	5.106	100.968	12722
+kampung lalang	02	5.792	100.897	1976
+kampung labohan dagang	12	2.802	101.62	3000
+kampung kuala selama	02	5.238	100.683	1597
+kobang	16	4.442	118.693	11682
+kampung kerubong	04	2.296	102.254	31936
+kampong datuk keramat	14	3.167	101.733	13061
+kampong kadok	03	6	102.25	19233
+kampung jerlun	02	6.214	100.266	11094
+ijok	12	3.317	101.4	100899
+kampong gunong	03	5.717	101.75	5800
+kampong dungun	07	3.217	101.317	58674
+derga	02	6.121	100.389	4449
+kampung chui chak	07	4.045	101.172	3272
+kampong cherang hangus	03	6.033	102.35	1123
+kampung cheng	04	2.264	102.218	19158
+kampong chenderong balai	07	4.133	101.083	3400
+kampong chap	03	6.05	102.35	2780
+kampung cangkat keruing	07	4.378	100.689	1174
+bukit pinang	02	5.933	100.45	5012
+kampung bukit jering	03	5.477	101.908	2396
+kampung bukit bunga	03	5.834	101.9	2300
+kampung bukit beruang	04	2.241	102.279	1746
+kampung bukit baharu	04	2.215	102.285	55656
+kampung batu feringgi	09	5.469	100.244	4000
+kampung batang melaka ulu	04	2.459	102.414	1692
+kampung baru subang	12	3.15	101.533	833571
+kampong bakai	02	5.533	100.733	12235
+kampung baharu paroi	05	2.724	102.001	3782
+kampung baharu nilai	05	2.803	101.797	38612
+kampong baharu cheras batu sebelas	12	3.05	101.767	232100
+kampung baru balakong	12	3.029	101.747	69302
+kampung bagan	01	1.848	102.859	8506
+kampung ayer puteh	02	5.182	100.602	5724
+kampung ayer molek	04	2.214	102.328	15497
+anak bukit	02	6.184	100.378	16525
+alor merah	02	6.167	100.383	7273
+juru	09	5.312	100.442	12265
+jinjang	14	3.209	101.656	13000
+jelutong	09	5.39	100.319	63507
+jawi	09	5.215	100.492	36601
+inanam	16	5.992	116.132	3604
+guar chempedak	02	5.858	100.459	13781
+glenmarie estate	12	3.083	101.583	7265
+empaong	11	1.417	111.533	1015
+cheras	12	3.108	101.726	135823
+chenderong	07	4.409	101.05	3000
+bukit tengah	09	5.346	100.439	54416
+bukit tambun	09	5.272	100.46	22900
+bukit rambai	04	2.259	102.184	17391
+bukit gambir	01	2.211	102.655	40000
+machap	04	2.386	102.291	5770
+kampung bertam ulu	04	2.29	102.193	17119
+bentong town	06	3.522	101.909	49213
+bemban	04	2.268	102.375	14329
+pantai belimbing	04	2.344	102.257	8056
+batu kawan	09	5.258	100.429	11409
+kampung batu empat	01	1.776	103.874	21898
+batu berendam	04	2.249	102.246	25028
+batang kali	12	3.468	101.639	3601
+bagan pulau ketam	12	3.017	101.267	2000
+bagan datoh	07	3.983	100.783	9046
+ayer tawar	07	4.306	100.762	3050
+ayer itam	09	5.402	100.278	16974
+au long	07	4.85	100.717	5000
+penaga	09	5.527	100.384	10138
+kampung teluk kumbar	09	5.289	100.247	21481
+templer bestari	12	3.291	101.638	6300
+putrajaya	17	2.935	101.691	50000
+kampung kilim	02	6.406	99.85	5000
+kampung baru ulu melaka	02	6.352	99.788	18898
+kampung kok	02	6.368	99.683	4160
+kuala teriang	02	6.364	99.715	3000
+kampung batu lima	02	5.793	100.689	6739
+kampung bongor	02	5.704	100.914	4646
+sik	02	5.833	100.75	32565
+kampung sok	02	5.774	100.731	8781
+lengkuas	02	6.028	100.382	1389
+kampung alor mengkudu	02	6.088	100.392	38193
+gunong	02	6.19	100.341	9200
+simpang empat	02	6.027	100.396	9149
+kampung hutan arau	08	6.429	100.282	20000
+kampung sungai rusa	09	5.382	100.217	1919
+batu hitam	09	5.39	100.233	3574
+tanjung bungah	09	5.465	100.282	14271
+glugor	09	5.372	100.307	18662
+teloi kanan	02	5.717	100.658	17972
+tikam batu	02	5.587	100.44	8323
+kota kuala muda	02	5.588	100.371	544984
+selama kedah	02	5.232	100.683	2941
+bandar permaisuri	13	5.522	102.749	2900
+bagan samak	02	5.09	100.562	5391
+kampung kuala besut	13	5.833	102.551	2400
+cyberjaya	12	2.923	101.657	79200
+kampung lemal	03	6.03	102.141	0
+bandar labuan	16	5.283	115.254	54752
+bercham	07	4.641	101.139	150000
+kampung manjoi	07	4.619	101.069	86266
+kampung perak	06	3.868	102.586	44964
+bandar tenggara	01	1.87	103.616	15278
+kemajuan tanah inas utara dan selatan	01	1.773	103.61	1174
+taman mount austin	01	1.561	103.782	4137
+johor jaya	01	1.539	103.809	66000
+taman permas jaya	01	1.511	103.82	45000
+kampung parit belahan tampok	01	1.661	103.194	1147
+kawasan penempatan ulu sungai benut	01	1.754	103.28	32226
+kawasan penempatan ulu benut tiga	01	1.75	103.277	32226
+kawasan penempatan ulu benut lima	01	1.744	103.321	32226
+kemajuan tanah bukit besar	01	1.77	103.706	2000
+kemajuan tanah pasir raja	01	1.758	103.674	1467
+kemajuan tanah bukit ramon	01	1.753	103.726	1060
+kemajuan tanah ulu tebrau	01	1.636	103.756	2741
+bandar al muktafi billah shah	13	4.611	103.209	5853
+kampung batu sembilan luar	13	4.349	103.394	1028
+kampung sri jaya	06	3.83	101.928	1801
+neram satu	13	4.013	103.277	2675
+kemajuan tanah bukit goh	06	3.913	103.257	6053
+kemajuan tanah sungai pancing timur	06	3.818	103.199	2030
+felda bukit damar	06	3.54	102.119	1875
+kemajuan tanah sungai pancing selatan	06	3.787	103.168	1800
+kampung simpang durian	05	3.101	102.222	1319
+kemajuan tanah tembangau	06	3.032	102.523	4617
+muadzam shah	06	3.063	103.089	15000
+dengkil	12	2.86	101.681	7672
+bandar tun razak	06	2.903	102.888	23247
+taman sepang putra	12	2.623	101.703	3900
+bandar penawar	01	1.551	104.226	10000
+sri petaling	14	3.069	101.69	50000
+kampung kuala sepetang	07	4.543	100.66	1264
+seri manjung	07	4.199	100.67	100000
+kampung teh	06	3.961	102.347	8350
+lurah bilut	06	3.665	101.889	4721
+kampung gedung siam	06	3.694	102.964	1658
+kampung ladang sawit lepar	06	3.583	103.096	1392
+selayang baru utara	12	3.255	101.667	542409
+kemajuan tanah bukit kepayang	06	3.323	102.579	2019
+kemajuan tanah sebertak	06	3.256	102.598	2965
+kemajuan tanah tementi	06	3.271	102.608	4524
+kemajuan tanah rentam	06	3.268	102.623	5110
+taman dusun setia	05	2.714	101.964	2215
+taman seremban jaya	05	2.683	101.97	31016
+kawasan perindustrian cheng	04	2.262	102.232	19158
+taman pelangi	01	2.428	102.68	32000
+kemajuan tanah chemplak	01	2.38	102.944	3208
+kemajuan tanah chemplak barat	01	2.388	102.934	1562
+kangkar baru	01	1.989	103.083	4000
+kemajuan tanah bukit aping barat	01	1.829	103.99	1441
+kemajuan tanah bukit aping timur	01	1.835	104.021	2309
+kemajuan tanah simpang waha	01	1.762	104.074	1600
+kemajuan tanah bukit easter	01	1.749	104.078	1905
+kemajuan tanah lok heng barat	01	1.723	104.091	6262
+pekan serkat	01	1.303	103.489	8668
+taman universiti	01	1.533	103.616	30000
+kampung jelutong tengah	01	1.471	103.568	24765
+kemayan	06	3.136	102.362	5977
+linggi	05	2.486	102.01	1322
+data kakus	11	2.655	113.622	3350
+subang jaya	12	3.044	101.581	708296
+kemajuan tanah sungai pancing utara	06	3.838	103.16	2234
+taman rajawali	16	5.895	118.046	10000
+iskandar puteri	01	1.393	103.623	575977
+lidung jelo	11	2.648	114.787	1900
+long ampan aing or abanang	11	2.657	114.737	1850
+putra heights	12	2.994	101.573	60000
+kajang	12	2.994	101.789	236240
+pantai cenang	02	6.294	99.728	15000
+bukit bintang	14	3.147	101.71	120529
+bandar sunway	12	3.069	101.607	200000
+seri iskandar	07	4.36	100.985	14827
+bandar puncak alam	12	3.239	101.428	25000
+kota damansara	12	3.155	101.58	500000
+damansara damai	12	3.199	101.592	85000
+kampung haji kudong	02	5.583	100.362	1070
+bandar 16 sierra	12	2.971	101.655	12000
+kuala nerus	13	5.373	103.021	93485
+bandar sri damansara	12	3.19	101.611	48556
+selangau	11	2.525	112.325	19844
+taman petaling	14	3.199	101.65	423062
+elmina	12	3.185	101.525	45000
+denai alam	12	3.16	101.515	35000
+tropicana indah	12	3.142	101.591	20000
+laman permai	12	3.174	101.542	8800
+taman greenwood	12	3.232	101.705	41699
+taman melati	14	3.221	101.723	50000
+ara damansara	12	3.119	101.587	60000
+desa parkcity	14	3.186	101.629	16500
+kampung setia	12	3.242	101.533	38870
+assam jawa	12	3.301	101.288	3380
+kota sarang samut	02	5.946	100.365	4479
+mont kiara	14	3.169	101.651	30643
+taman oug	14	3.073	101.676	25989
+taman ikan emas	14	3.116	101.72	10046
+taman tun dr ismail	14	3.145	101.626	37500
+bangsar	14	3.129	101.67	40000
+bukit damansara	14	3.15	101.655	5161
+seremban 2	05	2.69	101.908	62000
+bukit indah	01	1.48	103.66	60000
+eco sanctuary	12	2.937	101.535	5827
+batu itam	09	5.395	100.217	3574
+wangsa maju	14	3.201	101.74	215600
+seminyih	12	2.948	101.847	19724
+kuchai lama	14	3.085	101.691	50000
+taman naga emas	14	3.078	101.698	2350
+bukit gemuroh	09	5.298	100.211	17379
+forest city	01	1.339	103.589	4000
+taman melawati	12	3.211	101.748	99304
+perling	01	1.481	103.684	101263
+chaah bahru	01	2.099	103.022	5509
+mukim pulai	01	1.533	103.667	505661
+penyabong	01	1.631	104.147	1218
+seremban 3	05	2.674	101.931	8403
+hendrop	03	4.719	101.552	1295
+bandar mahkota cheras	12	3.054	101.798	100000
+mukim tioman	01	2.783	104.17	1874
+paya terubong	09	5.373	100.28	226712
+bukit jambul	09	5.334	100.29	1875
+kampung wakaf sku	03	6.116	102.242	1125
+kampung wakaf stan	03	6.08	102.29	5823
+ujong pasir	04	2.189	102.273	3236
+behrang stesen	07	3.744	101.451	1754
+bandar tun hussein onn	12	3.055	101.759	40000
+felda kemansul	06	3.286	102.226	1582
+bandar baru enstek	05	2.751	101.765	11591
+bandar baru ayer itam	09	5.389	100.282	10290
+sungai chenaam	09	5.146	100.409	2142
+gelung pepuyu	07	4.368	100.82	2285
+kota samarahan	11	1.46	110.488	12724
+bukit beruntung	12	3.416	101.557	20023
+felda gugusan adela	01	1.479	104.177	6736
+sibu jaya	11	2.24	111.971	35000
+petagas	16	5.912	116.05	35844
+kinabatangan	16	5.586	117.851	10256
+kampung olak lempit	12	2.836	101.595	6020
+setia alam	12	3.102	101.456	150000
+brinchang	06	4.491	101.388	1153
+blue valley	06	4.583	101.414	1301
+ketengah jaya	13	4.572	103.319	9993
+taman sri sinar	14	3.187	101.651	40000
+bandar kinrara	12	3.049	101.642	93822
+bandar bukit raja	12	3.087	101.433	146534
+pandamaran	12	3.011	101.421	53916
+bandar parklands	12	2.975	101.457	9000
+bandar botanic	12	2.988	101.44	8670
+bandar sri sendayan	05	2.674	101.872	26127
+bandar springhill	05	2.601	101.864	11000
+bandar country homes	12	3.328	101.531	39000
+proton city	07	3.743	101.535	12009
+felda soeharto	12	3.68	101.393	6060
+felcra lubek sireh	08	6.65	100.224	1490
+alam damai	14	3.06	101.741	35000
+ss2	14	3.12	101.622	25500
+sungai koyan	06	4.219	101.802	13356
+padang tengku	06	4.232	101.99	2432
+sungai jawi	09	5.198	100.492	19586
+bandar saujana utama	12	3.207	101.477	72000
+bukit rahman putra	12	3.217	101.561	607000
+felda maokil	01	2.296	102.968	5630
+setia tropika	01	1.546	103.718	60279
+bandar tasik puteri	12	3.285	101.474	150000
+desa petaling	14	3.084	101.709	20000
+bukit kerinchi	14	3.106	101.668	35000
+kampung baru	14	3.165	101.704	1587
+titiwangsa	14	3.178	101.703	122096
+metro city new township	11	1.568	110.306	1500
+bandar laguna merbok	02	5.689	100.496	12940
+horizon hills	01	1.458	103.646	18800
+bandar putra kulai	01	1.65	103.627	19793
+taman scientex	01	1.512	103.917	30000
+bandar seri alam	01	1.504	103.875	220000
+felda semenchu	01	1.569	104.1	2470
+felda chini	06	3.375	102.943	18493
+kota warisan	12	2.824	101.694	4000
+bandar baru salak tinggi	12	2.812	101.736	21534
+bandar utama	14	3.148	101.614	200000
+brickfields	14	3.13	101.684	12000
+bukit jalil	14	3.049	101.68	200000
+mutiara damansara	14	3.157	101.608	10000
+taman desa	14	3.106	101.687	25000
+felda taib andak	01	1.734	103.645	3058

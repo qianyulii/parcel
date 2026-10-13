@@ -6,15 +6,16 @@ import AddDialog from './components/AddDialog';
 import PasscodeDialog from './components/PasscodeDialog';
 import { AuthRequired } from './lib/api';
 import type { Burst } from './components/Firework';
-import { DEMO_HOME } from './lib/demo';
-import { useShipments } from './lib/store';
+import HomeDialog from './components/HomeDialog';
+import { useHome, useShipments } from './lib/store';
 import { stops } from './lib/route';
 import type { Status } from './lib/types';
 
 export default function App() {
   const now = useMemo(() => new Date(), []);
   const { shipments, isDemo, loading, add, remove, update, refresh } = useShipments(now);
-  const home = DEMO_HOME; // TODO(settings): user-set home
+  const { home, homeSet, setHome } = useHome();
+  const [editingHome, setEditingHome] = useState(false);
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [adding, setAdding] = useState(false);
   const [bursts, setBursts] = useState<Burst[]>([]);
@@ -82,7 +83,7 @@ export default function App() {
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       if (e.key === 'Escape') setSelectedId(null);
-      if ((e.key === 'a' || e.key === '+') && !adding && !(e.target instanceof HTMLTextAreaElement)) { e.preventDefault(); setAdding(true); }
+      if ((e.key === 'a' || e.key === '+') && !adding && !(e.target instanceof HTMLTextAreaElement || e.target instanceof HTMLInputElement)) { e.preventDefault(); setAdding(true); }
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
@@ -93,7 +94,8 @@ export default function App() {
       <GlobeView shipments={shipments} home={home} selectedId={selectedId} onSelect={setSelectedId} now={now} bursts={bursts} />
       <div className="pointer-events-none absolute inset-0">
         <Manifest shipments={shipments} home={home} selectedId={selectedId} onSelect={setSelectedId} now={now} demo={isDemo} onAdd={() => setAdding(true)}
-          onRefresh={isDemo ? undefined : () => void sync(true)} syncing={syncing} syncNote={syncNote} />
+          onRefresh={isDemo ? undefined : () => void sync(true)} syncing={syncing} syncNote={syncNote}
+          onHome={() => setEditingHome(true)} homeSet={homeSet} />
         {selected && (
           <Detail
             s={selected} home={home} onClose={() => setSelectedId(null)}
@@ -102,6 +104,7 @@ export default function App() {
           />
         )}
         {adding && <AddDialog onAdd={addAndTrack} onClose={() => setAdding(false)} />}
+        {editingHome && <HomeDialog current={home} onSave={(h) => { void setHome(h); setEditingHome(false); }} onClose={() => setEditingHome(false)} />}
         {needPasscode && <PasscodeDialog onDone={() => { setNeedPasscode(false); void sync(true); }} onClose={() => setNeedPasscode(false)} />}
       </div>
     </main>

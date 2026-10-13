@@ -1,0 +1,2057 @@
+@	26	north sumatra
+@	01	aceh
+@	10	yogyakarta
+@	32	south sumatra
+@	24	west sumatra
+@	31	north sulawesi
+@	22	southeast sulawesi
+@	21	central sulawesi
+@	38	south sulawesi
+@	37	riau
+@	18	east nusa tenggara
+@	17	west nusa tenggara
+@	28	maluku
+@	15	lampung
+@	14	east kalimantan
+@	13	central kalimantan
+@	12	south kalimantan
+@	11	west kalimantan
+@	08	east java
+@	07	central java
+@	30	west java
+@	05	jambi
+@	04	jakarta
+@	36	papua
+@	03	bengkulu
+@	02	bali
+@	33	banten
+@	34	gorontalo
+@	35	bangka belitung islands
+@	29	north maluku
+@	39	west papua
+@	41	west sulawesi
+@	40	riau islands
+@	42	north kalimantan
+@	PD	southwest papua
+@	PT	central papua
+@	PE	highland papua
+@	PS	south papua
+ujung gading	24	0.273	99.558	0
+ujungbatu	26	1.042	99.935	0
+tualangcut	01	4.402	98.072	0
+tongging	26	2.899	98.523	16000
+tomok bolon	26	2.652	98.861	10000
+tiku	24	-0.396	99.923	0
+teluk nibung	26	3.001	99.816	25146
+teluk dalam	26	0.573	97.803	25780
+tebingtinggi	26	3.329	99.163	117530
+tarutung	26	2.015	98.965	39500
+tanjungtiram	26	4.061	98.37	25118
+tanjungbalai	26	2.967	99.8	190935
+tangse	01	5.014	95.915	0
+talu	24	0.23	99.981	0
+takengon	01	4.621	96.847	0
+susoh	01	3.724	96.822	0
+sunggal	26	3.577	98.615	157914
+sei rampah	26	3.485	99.137	0
+stabat	26	3.733	98.45	26862
+sondi	26	2.974	98.862	0
+sipirok	26	1.602	99.274	0
+sipiongot	26	1.835	99.663	0
+sipagimbar	26	1.831	99.372	0
+singkil	01	2.287	97.788	46800
+sinabang	01	2.48	96.38	15000
+simpang empat	24	0.097	99.823	0
+sigli	01	5.385	95.961	17504
+sidikalang	26	2.749	98.313	50671
+sibuhuan	26	1.054	99.73	0
+siborong borong	26	2.213	98.973	0
+sibolga	26	1.74	98.781	92244
+sibigo	01	2.839	95.913	0
+siabu	26	1.016	99.495	0
+seulimeum	01	5.362	95.577	0
+serawai	01	4.354	98.187	0
+saribudolok	26	2.939	98.611	0
+salak	26	2.557	98.324	0
+sabang	01	5.89	95.316	43527
+rikitgaib	01	4.145	97.057	0
+reuleuet	01	5.217	96.283	40393
+rantauprapat	26	2.1	99.833	103009
+parapat	26	2.663	98.935	10000
+pintupadang	26	1.24	99.345	0
+peureulak	01	4.81	97.89	0
+percut	26	3.625	98.864	311063
+perbaungan	26	3.568	98.956	157174
+penaron	01	4.641	97.684	0
+pematangsiantar	26	2.96	99.069	279198
+pematang raya	26	2.966	98.847	0
+paropo	26	2.866	98.521	16065
+parmonangan	26	2.397	99.052	13021
+parmonangan	26	2.105	98.764	0
+parlilitan	26	2.324	98.457	0
+panyambungan	26	0.865	99.553	0
+pangururan	26	2.608	98.696	34209
+pangkalan brandan	26	4.024	98.278	25542
+pakkat	26	2.152	98.475	0
+padangtiji	01	5.374	95.845	0
+padangsidempuan	26	1.38	99.271	243843
+natal	26	0.563	99.11	0
+nainggolan	26	2.436	98.885	11849
+muara soma	26	0.688	99.362	0
+muara sipongi	24	0.569	100.013	0
+sikabaluan	24	-1.12	98.992	0
+muara siberut	24	-1.598	99.211	0
+muara	26	2.337	98.905	0
+montasik	01	5.503	95.423	0
+mogang	26	2.47	98.804	0
+meureubo	01	4.14	96.162	0
+meulaboh	01	4.144	96.127	64646
+medan	26	3.583	98.667	2486283
+lubuk pakam	26	3.559	98.873	0
+lintongnihuta	26	2.276	98.866	0
+limapuluh	26	3.169	99.418	0
+lhoong	01	5.267	95.25	0
+lhokseumawe	01	5.18	97.151	200876
+lhoknga	01	5.477	95.245	0
+lhokkruet	01	4.88	95.401	0
+laweueng	01	5.515	95.847	0
+langsa	01	4.468	97.968	184016
+langgapayung	26	1.727	99.963	0
+lampuyang	01	5.67	95.135	0
+lamno	01	5.09	95.373	0
+lahewa	26	1.394	97.168	24485
+labuhan deli	26	3.879	98.633	49668
+kuala bhee	01	4.386	96.047	0
+kruengraya	01	5.59	95.515	0
+krueng luak	01	2.858	97.758	0
+kisaran	26	2.985	99.616	141915
+kabanjahe	26	3.1	98.491	73581
+isak	01	4.46	96.882	0
+kotanopan	26	0.668	99.709	0
+gunung tua	26	1.513	99.626	0
+gunungsitoli	26	1.289	97.614	136707
+gosong telaga	01	2.279	97.927	0
+dolok sanggul	26	2.259	98.75	0
+deli tua	26	3.508	98.684	27940
+celala	01	4.596	96.692	0
+calang	01	4.631	95.575	0
+blangpidie	01	3.74	96.836	24085
+blangkejeren	01	3.997	97.338	0
+bireun	01	5.203	96.701	47670
+binjai	26	3.6	98.485	279302
+binanga	26	1.41	99.776	0
+berastagi	26	3.195	98.509	48244
+belawan	26	3.776	98.683	102707
+bayeuen	01	4.59	97.909	0
+batangtoru	26	1.483	99.066	0
+barus	26	2.011	98.398	18346
+bandar	26	2.05	99.75	31442
+banda aceh	01	5.542	95.333	267962
+balige	26	2.333	99.066	0
+bakungan	01	2.924	97.483	0
+asan kumbang	01	5.304	96.027	0
+ambarita	26	2.681	98.831	2000
+air bangis	24	0.202	99.38	0
+terangun	01	4.077	97.067	0
+kenyaran	01	4.154	97.195	0
+pining	01	4.106	97.589	0
+yosowilangun	08	-8.239	113.314	0
+yogyakarta	10	-7.801	110.365	375699
+wuluhan	08	-8.338	113.55	0
+wotu	38	-2.591	120.804	0
+wori	31	1.597	124.852	0
+wonosobo	07	-7.359	109.903	92990
+wonosari	10	-7.966	110.604	87454
+wonorejo	38	-2.494	120.813	0
+wonopringgo	07	-6.983	109.617	38429
+wonogiri	07	-7.814	110.921	0
+wongsorejo	08	-7.991	114.401	29193
+wolowaru	18	-8.783	121.886	0
+wlingi	08	-8.078	112.331	0
+witihama	18	-8.3	123.263	0
+wiradesa	07	-6.892	109.619	39407
+weru	30	-6.711	108.504	139004
+werinama	28	-3.503	130.111	0
+windesi	39	-2.426	134.215	0
+weleri	07	-6.971	110.067	58448
+welahan	07	-6.8	110.717	26163
+wedi	07	-7.743	110.579	55300
+wedarijaksa	07	-6.682	111.072	0
+weda	29	0.33	127.874	0
+wates	10	-7.857	110.157	0
+watansoppeng	38	-4.352	119.884	0
+watampone	38	-4.539	120.328	149336
+waru	08	-6.942	113.55	0
+waren	36	-2.264	136.334	0
+wardo	36	-1.062	135.842	0
+wanurian	PD	-1.246	131.567	0
+wangon	07	-7.516	109.054	35530
+wanci	22	-5.327	123.539	0
+wanareja	07	-7.333	108.688	0
+wanaraja	30	-7.175	107.981	26240
+wamena	PE	-4.096	138.948	66080
+wajak	08	-8.102	112.731	0
+waiwerang	18	-8.388	123.165	0
+waisai	PD	-0.238	130.507	22541
+waigete	18	-8.613	122.42	0
+waipukang	18	-8.321	123.464	0
+waingapu	18	-9.657	120.264	35932
+waimangura	18	-9.51	119.238	0
+waikabubak	18	-9.647	119.389	0
+waigama	PD	-1.836	129.832	0
+wahai	28	-2.795	129.538	0
+utan	17	-8.413	117.133	0
+utan	04	-6.177	106.947	28745
+uta	PT	-4.554	136.034	0
+ungaran	07	-7.14	110.405	171378
+ketapang	15	-4.713	104.8	0
+kolaka	22	-4.06	121.606	0
+ulu	31	2.704	125.394	0
+ujungpangkah	08	-6.917	112.555	0
+makassar	38	-5.149	119.432	1474393
+ujoh bilang	14	0.55	115.25	0
+ubud	02	-8.51	115.265	74800
+turen	08	-8.173	112.686	0
+tunjungan	07	-6.921	111.37	0
+tumpang	08	-8.006	112.764	0
+tulungagung	08	-8.066	111.903	65262
+tulangan utara	08	-7.474	112.651	63889
+tuban	08	-6.898	112.065	76242
+tual	28	-5.629	132.752	90470
+trucuk	07	-7.718	110.659	23584
+trenggalek	08	-8.076	111.706	29083
+terawas	32	-3.053	102.815	0
+tongutisungi	29	1.498	127.556	0
+tangga	17	-8.656	118.694	0
+tondano	31	1.305	124.913	33317
+tomu	39	-2.217	132.971	0
+tomohon	31	1.317	124.804	27624
+tombatu	31	1.042	124.684	0
+toli toli	21	1.04	120.818	242783
+toho	11	0.418	109.22	0
+tobelo	29	1.728	128.009	34150
+tiris	08	-7.963	113.402	0
+tiom	PE	-3.924	138.455	21324
+tinabogan	21	0.782	120.526	0
+timika	PT	-4.614	136.677	142909
+tembuni	39	-1.952	133.419	0
+tilamuta	34	0.527	122.346	0
+tigi	PT	-3.967	136.267	0
+tideng pale	42	3.608	116.907	0
+ternate	29	0.791	127.384	210836
+terbanggi besar	15	-4.879	105.218	52566
+tepas	17	-8.717	116.917	0
+tentena	21	-1.756	120.648	0
+tenga	31	1.161	124.439	0
+teminabuan	PD	-1.442	132.014	19491
+tembuku	02	-8.452	115.385	0
+tembilahan	37	-0.323	103.16	0
+temanggung	07	-7.319	110.193	0
+telukpakedai	11	-0.265	109.121	0
+teluk dalam	37	0.533	103.266	0
+tekung	08	-8.174	113.28	0
+tehoru	28	-3.443	129.543	0
+tegalalang	02	-8.437	115.279	0
+tegal	07	-6.869	109.14	297173
+tebing tinggi	32	-3.584	103.077	0
+tayu	07	-6.54	111.052	26413
+tayan	11	-0.034	110.102	0
+tanusan	39	-3.134	133.647	0
+tatelu	31	1.531	124.948	0
+tasikmalaya	30	-7.327	108.221	770839
+tarub	07	-6.933	109.167	75739
+tarogong	30	-7.19	107.887	0
+tarempa	40	3.216	106.217	0
+tarakan	42	3.313	117.592	255310
+taraju	30	-7.458	107.981	0
+tapalang	41	-2.864	118.867	0
+tanjung selor	42	2.838	117.365	67837
+tanjungsakti	32	-4.168	103.069	0
+tanjungraja	32	-3.337	104.775	0
+tanjung pinang	40	0.917	104.458	227663
+tanjungpati	24	-0.16	100.68	0
+tanjung pandan	35	-2.734	107.635	103062
+tanjung lubuk	32	-3.527	104.759	0
+bandar lampung	15	-5.429	105.261	1166066
+tanjunggadang	24	-0.778	101.198	0
+tanjunggadang	24	-0.301	100.738	0
+tanjungbumi	08	-6.891	113.08	0
+tanjungbatu	12	-3	116.223	0
+tanjungbatu	40	0.659	103.462	0
+tanjung balai	40	1	103.422	48953
+tanjungampalu	24	-0.622	100.825	0
+tanjungagung	32	-3.937	103.805	53117
+tanjung	17	-8.356	116.157	0
+tanjung	40	4.015	108.343	0
+tanjung	12	-2.171	115.408	37291
+taniwel	28	-2.852	128.477	0
+tongkiling	13	-2.136	113.876	0
+tanggulangin	08	-7.5	112.7	32866
+tanggul	08	-8.164	113.453	3
+tanggeung	30	-7.268	107.124	0
+tangerang	33	-6.178	106.63	1927815
+tanahwangko	31	1.394	124.682	0
+tana paser	14	-1.905	116.191	0
+tamiang layang	13	-2.124	115.196	0
+tambu	21	-0.048	119.879	0
+tamberu	08	-6.898	113.484	0
+tambaksari	30	-7.249	108.535	0
+tambak	08	-5.732	112.65	0
+tamako	31	3.456	125.506	0
+talun	08	-8.091	112.285	0
+teluk kuantan	37	-0.528	101.581	0
+taliwang	17	-8.745	116.853	55340
+talise	31	1.833	125.069	0
+talawi	24	-0.597	100.74	0
+talang ubi	32	-3.266	103.825	0
+talangbetutu	32	-2.882	104.694	0
+takokak	30	-7.051	107.004	0
+takalar	38	-5.426	119.438	0
+tajinan	08	-8.05	112.682	0
+tais	03	-4.075	102.577	0
+tahuna	31	3.611	125.486	35307
+tagolu	21	-1.439	120.773	0
+taccipi	38	-4.507	120.184	0
+tabing	24	-0.872	100.343	0
+tabanan	02	-8.541	115.125	33667
+susupu	29	1.151	127.432	0
+lasusua	22	-3.51	120.884	0
+surulangun rawas	32	-2.623	102.763	0
+surian	24	-1.256	100.881	0
+surakarta	07	-7.556	110.832	526870
+surade	30	-7.342	106.562	0
+surabaya	08	-7.249	112.751	3018022
+surabaya	15	-4.671	105.726	0
+suban jeriji	32	-3.746	103.964	0
+sungsang	32	-2.363	104.904	0
+sungguminasa	38	-5.197	119.451	0
+sungaikakap	11	-0.052	109.207	0
+sungai salak	37	-0.438	103.008	0
+sungairotan	32	-3.102	104.278	0
+sungairaya	12	-2.857	115.247	0
+sungai raya	11	0.7	108.9	47735
+sungai pinyuh	11	0.283	109.079	0
+sungai penuh	05	-2.056	101.391	102224
+sungailimau	24	-0.516	100.062	0
+sungailiat	35	-1.854	106.122	100750
+sungaikupang	12	-3.044	115.992	0
+sungaigerong	32	-2.982	104.848	0
+sungaiduri	11	0.566	108.929	0
+sungaibali	12	-3.403	116.404	0
+semurup	05	-1.992	101.369	0
+sumpur kudus	24	-0.442	100.909	0
+sumenep	08	-7.012	113.86	84656
+sumedang utara	30	-6.85	107.917	100000
+sumedang	30	-6.859	107.916	200000
+sumberpucung	08	-8.159	112.483	35285
+sumbermanjing wetan	08	-8.281	112.69	0
+sumberjati	08	-8.187	113.88	0
+sumberjambe	08	-8.07	113.9	0
+sumberbaru	08	-8.118	113.389	0
+sumberanyar	08	-7.782	114.3	0
+sumber	07	-6.798	111.257	0
+sumber	30	-6.76	108.483	96725
+sumbawa besar	17	-8.493	117.42	62753
+sulitair	24	-0.613	100.648	0
+sulang tengah	07	-6.806	111.381	0
+sukowono	08	-8.058	113.834	0
+sukoharjo	07	-7.672	110.838	0
+sukawening	30	-7.157	108.007	0
+sukasari	30	-7.076	107.895	0
+sukasada	02	-8.139	115.103	7817
+sokaraja	07	-7.458	109.288	66482
+sukaraja	30	-7.452	108.194	0
+sukanagara	30	-7.098	107.131	0
+sukadana	15	-5.064	105.549	0
+sukadana	11	-1.25	109.95	0
+sukabumi	30	-6.918	106.927	365735
+subang	30	-7.128	108.528	0
+subang	30	-6.57	107.757	137234
+subaim	29	1.12	128.133	0
+stagen	12	-3.305	116.178	0
+srono	08	-8.4	114.267	36260
+srandakan	10	-7.939	110.251	29529
+sragen	07	-7.426	111.022	71522
+sorong	PD	-0.88	131.261	219958
+insrom	36	-1.145	136.031	3452
+sorendiweri	36	-0.734	135.736	0
+soreang	30	-7.033	107.518	116780
+sonder	31	1.255	124.779	0
+somba	41	-3.377	118.848	0
+solok	24	-0.801	100.657	73438
+sokobanah	08	-6.89	113.435	0
+soko	08	-7.483	112.427	25494
+sofifi	29	0.737	127.559	27591
+soe	18	-9.861	124.284	40190
+sodong hilir	30	-7.489	108.051	0
+sluke	07	-6.633	111.499	0
+sleman	10	-7.716	110.356	56215
+slawi	07	-6.982	109.141	61206
+siwa	38	-3.7	120.416	0
+situbondo	08	-7.706	114.01	685967
+sintang	11	0.067	111.5	85000
+sinjai	38	-5.124	120.253	40797
+singosari	08	-7.892	112.666	182656
+singojuruh	08	-8.317	114.233	29418
+singkawang	11	0.909	108.985	253812
+singkarak	24	-0.691	100.603	0
+sengkang	38	-4.128	120.03	59523
+singaraja	02	-8.112	115.088	133784
+singaparna	30	-7.351	108.111	48882
+sindangbarang	30	-7.452	107.135	0
+simpur	12	-2.828	115.267	0
+simpangempat	12	-3.278	115.029	0
+simpang	32	-4.449	104.192	0
+simpang	05	-1.264	104.097	36652
+sila	17	-8.502	118.62	0
+sijunjung	24	-0.7	100.977	27786
+sidoarjo	08	-7.448	112.718	139189
+sidemen	02	-8.484	115.445	0
+sidareja	07	-7.485	108.792	30313
+siak sri indrapura	37	0.793	102.051	0
+sewon	10	-7.876	110.359	73585
+seteluk	17	-8.625	116.867	0
+sesayap	42	3.585	117.008	0
+serui	36	-1.88	136.243	13568
+serpong	30	-6.317	106.664	80193
+serasan	40	2.511	109.031	0
+serang	33	-6.115	106.154	735651
+sepatan	30	-6.119	106.575	118439
+senori	08	-7.016	111.724	0
+sengeti	05	-1.477	103.508	0
+sangatta	14	0.505	117.528	0
+senduro	08	-8.094	113.089	0
+semuda	13	-2.862	112.973	0
+semongkat	17	-8.572	117.319	0
+semilat	13	-2.308	112.212	0
+semboro lor	08	-8.19	113.445	0
+semarang	07	-6.993	110.421	1694740
+semamung	17	-8.651	117.429	0
+selorejo	08	-8.139	112.426	0
+selong	17	-8.65	116.532	92464
+selogiri	07	-7.783	110.867	30180
+selat panjang	37	0.994	102.708	0
+selajambe	30	-7.118	108.463	0
+sekupang	40	1.127	103.927	0
+sekongkang bawah	17	-8.966	116.749	0
+sekayu	32	-2.882	103.834	0
+sekernan	05	-1.523	103.568	0
+sekampung	15	-5.133	105.436	0
+sekadau	11	0.017	110.9	0
+seget	PD	-1.412	130.975	0
+sedinginan	37	1.554	101.015	0
+sidayu	08	-6.999	112.564	0
+sedanau	40	3.794	108.029	0
+sedan	07	-6.767	111.574	0
+sebulu	14	-0.274	116.998	0
+sebuku	42	4.002	117.035	0
+sawangan	30	-6.403	106.774	197170
+sawang	40	0.737	103.356	0
+saumlaki	28	-7.986	131.297	12916
+saukorem	PD	-0.565	133.153	0
+satui	12	-3.782	115.458	0
+saruaso	24	-0.483	100.638	0
+saronggi	08	-7.083	113.828	0
+sarolangun	05	-2.312	102.727	0
+sarmi	36	-1.853	138.751	14093
+sarilamak	24	-0.15	100.664	0
+sarebe	39	-2.548	133.828	0
+sepulu	08	-6.898	112.959	0
+sapeken	08	-7.005	115.706	0
+sape	17	-8.567	118.983	5000
+sapat	37	-0.323	103.31	0
+saparua	28	-3.573	128.652	0
+saonek	PD	-0.438	130.756	0
+sausapor	PD	-0.5	132.086	0
+benua baru	14	0.977	117.98	0
+sangkapura	08	-5.845	112.652	50612
+sanggau	11	0.133	110.6	0
+kore	17	-8.376	118.299	0
+sangasangadalam	14	-0.662	117.237	0
+sanana	29	-2.059	125.978	29716
+sampit	13	-2.531	112.95	166773
+sampang	07	-7.563	109.197	0
+sampang	08	-7.187	113.239	53269
+sampalan	02	-8.674	115.559	0
+samboja	14	-1.033	117.033	0
+sumberbaba	36	-1.819	136.758	0
+sambas	11	1.333	109.25	0
+samarinda	14	-0.492	117.146	865306
+tanjungsamalantakan	12	-2.582	116.41	0
+salopa	30	-7.516	108.272	0
+salinbatu	42	2.941	117.343	0
+salem	07	-7.182	108.806	0
+sale	07	-6.862	111.604	0
+salawu	30	-7.375	108.033	0
+salatiga	07	-7.332	110.493	198971
+salakan	21	-1.308	123.291	0
+kaleroang	21	-3.052	122.387	0
+sakra	17	-8.683	116.462	0
+saketi	33	-6.401	105.992	0
+sagaranten	30	-7.218	106.885	0
+sadananya	30	-7.274	108.315	0
+sabang barat	40	3.007	107.754	0
+ruteng	18	-8.611	120.464	41533
+rumbia	22	-4.628	122.005	0
+rubaru	08	-6.958	113.753	0
+rokan	37	0.57	100.408	0
+robatal	08	-7.001	113.28	0
+riung	18	-8.421	121.026	0
+rengat	37	-0.375	102.548	0
+rengasdengklok	30	-6.159	107.298	201463
+rembangan	07	-6.704	111.342	44030
+rawalo	07	-7.537	109.179	0
+ratahan	31	1.055	124.801	0
+rasiei	39	-2.817	134.529	0
+rappang	38	-3.844	119.817	0
+rantepao	38	-2.97	119.898	40438
+rantaupulut	13	-2.009	112.196	0
+rantau panjang	05	-2.496	102.251	0
+rantau panjang	05	-1.845	102.308	0
+rantau	12	-2.933	115.162	0
+ransiki	39	-1.508	134.171	16245
+rangkasbitung	33	-6.359	106.249	137041
+randudongkal	07	-7.098	109.324	28532
+randuagung	08	-8.072	113.303	0
+rancah	30	-7.197	108.504	0
+ranai	40	3.938	108.384	0
+rambipuji	08	-8.209	113.609	0
+rajapolah	30	-7.221	108.19	39840
+rajadesa	30	-7.184	108.434	0
+rainis	31	4.233	126.867	0
+raha	22	-4.838	122.721	69980
+raduria	39	-2.939	132.334	0
+raba	17	-8.461	118.747	0
+putussibau	11	0.833	112.933	0
+purworejo	07	-7.711	110.01	0
+purwokerto	07	-7.421	109.234	230235
+purwoharjo	08	-8.501	114.222	0
+purwodadi	07	-7.087	110.916	139387
+purwakarta	30	-6.557	107.443	179233
+puruk cahu	13	-0.583	114.583	0
+purbalingga	07	-7.388	109.364	56903
+pundong	10	-7.952	110.349	24081
+pule	08	-8.124	111.561	0
+pulaupinang	32	-3.891	103.52	0
+pulau kijang	37	-0.687	103.184	0
+pulauberingin	32	-4.5	103.637	0
+pulang pisau	13	-2.767	114.241	0
+puger	08	-8.37	113.475	0
+probolinggo	08	-7.754	113.216	243746
+pringsewu	15	-5.358	104.974	0
+prigen	08	-7.683	112.617	24164
+praya	17	-8.705	116.27	35183
+candi prambanan	07	-7.75	110.494	44925
+pota	18	-8.341	120.761	0
+poso	21	-1.396	120.752	47477
+pontianak	11	-0.032	109.325	686019
+ponorogo	08	-7.868	111.462	79026
+polewali	41	-3.432	119.344	65800
+poigar	31	1.021	124.309	0
+plumbon	30	-6.705	108.473	167105
+plampang	17	-8.797	117.779	0
+piru	28	-3.062	128.195	0
+pinrang	38	-3.786	119.652	0
+pineleng	31	1.424	124.839	0
+pimpi	31	0.883	123.55	0
+patimuan	07	-7.598	108.755	0
+petakbehandang	13	-2.077	113.436	0
+peranap	37	-0.545	101.984	0
+prabumulih	32	-3.434	104.231	103470
+peninjawan	32	-3.869	104.382	0
+pangaron	12	-3.31	115.196	0
+pengandonan	32	-4.054	103.877	0
+pendolo	21	-2.075	120.685	0
+pembuanghulu	13	-2.509	112.152	0
+pemangkat	11	1.167	108.967	54259
+pemalang	07	-6.892	109.383	184149
+pelau	28	-3.52	128.468	0
+pelaihari	12	-3.799	114.779	0
+pelabuhanratu	30	-6.987	106.551	109523
+pelabuhan dagang	05	-1.146	103.085	0
+pekanbaru	37	0.517	101.442	1167599
+pekalongan	07	-6.889	109.675	324564
+pedamaran	32	-3.488	104.838	0
+pecangaan	07	-6.698	110.711	61046
+payunga	34	0.563	122.952	0
+payakumbuh	24	-0.216	100.633	139576
+pemenang	17	-8.404	116.103	1000
+pauh	05	-2.139	102.819	0
+pototano	17	-8.413	117.481	5000
+pati	07	-6.756	111.038	107028
+pasuruan	08	-7.645	112.908	213469
+pasongsongan	08	-6.889	113.657	0
+passo	28	-3.63	128.252	0
+pasir pengaraian	37	0.865	100.295	0
+pasirian	08	-8.214	113.115	0
+pasean	08	-6.893	113.581	0
+passi	31	0.766	124.298	0
+paseh	30	-7.068	107.794	126181
+pasar wajo	22	-5.496	122.845	0
+pasarkuok	24	-1.441	100.622	0
+pasarkemis	30	-6.17	106.53	263289
+pasarbaru	24	-1.305	100.51	0
+parung	30	-6.421	106.733	128905
+parit malintang	24	-0.62	100.279	0
+paringin	12	-2.336	115.475	0
+parigi	30	-7.701	108.496	0
+parigi	21	-0.816	120.177	0
+pariaman	24	-0.619	100.12	92183
+parepare	38	-4.013	119.626	160309
+pare	08	-7.768	112.198	106007
+panti	24	0.362	100.055	0
+pantaihambawang	12	-2.647	115.331	0
+pantai	12	-3.131	116.135	0
+panji	08	-7.725	114.1	42789
+panjang	15	-5.476	105.32	0
+panjalu	30	-7.131	108.266	0
+pangkalpinang	35	-2.129	106.114	226297
+pangkalan kasai	37	-0.589	102.39	0
+pangkalanbuun	13	-2.683	111.626	108814
+pangkalan bunut	37	0.298	102.146	0
+pangkalan balai	32	-2.881	104.394	0
+pangkajene	38	-4.837	119.547	0
+pagimana	21	-0.796	122.651	0
+panggungrejo	08	-8.251	112.279	0
+panggul	08	-8.249	111.455	0
+pandeglang	33	-6.308	106.107	92316
+pandaan	08	-7.653	112.688	34184
+pandak	10	-7.913	110.294	56043
+pancur	07	-6.721	111.468	0
+panawangan	30	-7.118	108.382	0
+panarukan	08	-7.702	113.918	30749
+panaragan	15	-4.478	105.081	0
+penajam	14	-1.249	116.77	0
+pamulang	30	-6.343	106.738	174557
+pompanua	38	-4.225	120.148	0
+pamotan	07	-6.761	111.49	0
+pameungpeuk	30	-7.641	107.733	0
+pameungpeuk	30	-7.018	107.604	48294
+pamekasan	08	-7.157	113.475	92447
+pamarican	30	-7.458	108.524	0
+pamanukan	30	-6.284	107.811	114290
+palu	21	-0.908	119.871	389959
+palopo	38	-2.992	120.197	184961
+palimanan	30	-6.707	108.424	92600
+palembaian	24	-0.183	100.233	0
+palembang	32	-2.917	104.746	1801367
+palattae	38	-4.971	120.113	0
+palangkaraya	13	-2.208	113.917	318247
+palakka	38	-4.531	120.289	0
+pakuniran	08	-7.809	113.508	0
+pakuan agung	15	-4.665	104.963	0
+kuaro	14	-1.82	116.08	0
+pakong	08	-7.031	113.55	0
+pakisaji	08	-8.066	112.598	30213
+pakenjeng	30	-7.412	107.69	0
+pakel	08	-8.154	111.826	0
+painan	24	-1.352	100.574	0
+pagerageung	30	-7.112	108.167	0
+pagelaran	33	-6.433	105.857	0
+pagatan	12	-3.607	115.938	0
+pagatan	13	-3.17	113.288	0
+pagat	12	-2.624	115.434	0
+pagar alam	32	-4.025	103.247	70386
+pagak	08	-8.226	112.528	0
+paga	18	-8.777	122.046	0
+pademawu	08	-7.186	113.526	0
+padarincang	33	-6.214	105.951	0
+padangulaktanding	03	-3.375	102.8	0
+padangtikar	11	-0.691	109.263	0
+padangpanjang	24	-0.456	100.405	58627
+padangguci	03	-4.589	103.144	0
+padangcermin	15	-5.601	105.139	0
+padangbatung	12	-2.838	115.291	0
+padang	24	-0.949	100.354	942938
+padaherang	30	-7.55	108.696	0
+pacitan	08	-8.194	111.103	0
+paciran	08	-6.877	112.376	27072
+pabuaran	33	-6.204	106.071	0
+oransbari	39	-1.344	134.259	0
+ondong siau	31	2.747	125.361	0
+okaba	PS	-8.054	139.657	1270
+obano	PT	-3.926	136.226	0
+nyalindung	30	-7.043	106.944	0
+nunukan	42	4.138	117.651	67006
+noemuti	18	-9.568	124.495	0
+nipah panjang	05	-1.075	104.194	0
+nikiniki	18	-9.814	124.476	0
+ngunut	08	-8.106	112.016	26297
+ngrayun	08	-8.072	111.449	0
+ngoro	08	-7.684	112.258	22871
+ngawi	08	-7.404	111.446	22412
+ngawen	07	-7.003	111.313	0
+ngantru	08	-8.01	111.925	0
+nganjuk	08	-7.605	111.904	69011
+ngabang	11	0.383	109.95	0
+negararatu	15	-4.656	104.736	0
+negara	02	-8.357	114.617	100074
+natar	15	-5.309	105.193	0
+narmada	17	-8.591	116.202	0
+naringgul	30	-7.334	107.328	0
+nangaroro	18	-8.787	121.392	0
+nangah pinoh	11	-0.333	111.733	0
+nanga bulik	13	-2.162	111.489	0
+namrole	28	-3.845	126.726	21513
+namlea	28	-3.262	127.093	37869
+nabire	PT	-3.36	135.501	99848
+muraloka	17	-8.772	116.879	0
+muntok	35	-2.067	105.162	26709
+muntilan	07	-7.581	110.293	81555
+munjungan	08	-8.303	111.579	0
+munduk	02	-8.269	115.079	6200
+muncar	08	-8.433	114.333	64537
+muncang	33	-6.544	106.291	0
+mulia	PT	-3.715	137.985	35884
+mukomuko	03	-2.569	101.112	0
+mujur	17	-8.762	116.355	0
+muarauya	12	-1.887	115.595	0
+muara teweh	13	-0.947	114.896	46652
+muara tembesi	05	-1.711	103.118	0
+muara tebo	05	-1.476	102.444	0
+muara siau	05	-2.273	102.1	0
+muara sabak	05	-1.136	103.85	0
+muararupit	32	-2.724	102.911	0
+muarapinang	32	-3.85	103.053	0
+muara limun	05	-2.397	102.639	0
+muara lembu	37	-0.381	101.34	0
+muaralakitan	32	-2.859	103.304	0
+muaralabuh	24	-1.462	101.023	0
+muarakuang	32	-3.666	104.567	0
+muarakomam	14	-1.678	115.813	0
+muarajawa	00	-0.633	117.3	13182
+muara enim	32	-3.649	103.771	0
+muara dua	32	-4.532	104.074	0
+muara bungo	05	-1.49	102.115	21243
+muara bulian	05	-1.713	103.259	0
+muara beliti	32	-3.249	103.034	0
+muarabadak	14	-0.351	117.435	0
+muaro	24	-0.664	100.958	0
+mranggen	07	-7.027	110.516	28026
+moro	40	0.754	103.708	0
+munse	22	-4.097	123.252	0
+molobulahe	34	0.633	122.575	0
+molibagu	31	0.39	123.983	0
+mojosari	08	-7.519	112.56	0
+mojokerto	08	-7.466	112.434	141785
+mojoagung	08	-7.567	112.35	23534
+mlonggo	07	-6.533	110.7	33542
+metro	15	-5.113	105.307	182293
+mertoyudan	07	-7.52	110.226	69871
+mersam	05	-1.698	102.998	0
+merakurak	08	-6.878	111.986	0
+mensalong	42	3.759	116.745	0
+menjalin	11	0.469	109.338	0
+mengkalip	13	-2.149	114.882	0
+menggala	15	-4.471	105.252	0
+menes	33	-6.376	105.919	0
+mempawah	11	0.371	108.97	0
+meliau	11	-0.125	110.29	0
+melati	10	-7.733	110.367	67090
+mega	PD	-0.664	131.905	0
+borong	18	-8.812	120.61	0
+mayang	08	-8.176	113.796	0
+mauponggo	18	-8.889	121.211	0
+maumere	18	-8.62	122.211	87720
+matur	24	-0.279	100.288	0
+mataram	17	-8.583	116.117	441147
+masmambang	03	-4.164	102.7	0
+masbagik	17	-8.622	116.477	0
+masat	03	-4.381	102.954	0
+masamba	38	-2.554	120.328	38024
+martapura	32	-4.319	104.347	0
+martapura	12	-3.411	114.864	131449
+maros	38	-5.006	119.573	30000
+buakayu	38	-3.199	119.723	0
+marisa	34	0.466	121.939	0
+maria	17	-8.524	118.843	0
+margasari	07	-7.095	109.025	27814
+margahayukencana	30	-6.971	107.568	83119
+marabahan	12	-3.014	114.769	0
+manonjaya	30	-7.351	108.309	0
+manokwari	39	-0.863	134.064	132300
+manna	03	-4.465	102.904	0
+manismata	11	-2.467	111.033	18888
+maninjau	24	-0.301	100.227	0
+mangkutana	38	-2.489	120.812	0
+manggar	35	-2.883	108.267	39135
+mangaran	31	3.815	126.747	0
+mangaran	08	-7.66	114.042	0
+manganitu	31	3.576	125.518	0
+mandor	11	0.322	109.338	0
+manding	08	-6.953	113.872	0
+mandalawangi	33	-6.31	105.989	0
+mendaha	05	-1.016	103.593	56268
+khairiahmandah	37	0.021	103.498	0
+manalu	31	3.512	125.623	0
+manado	31	1.482	124.849	458582
+mamuju	41	-2.681	118.886	15000
+mambi	41	-2.95	119.175	0
+mamasa	41	-2.942	119.378	0
+malinau	42	3.589	116.624	25596
+malili	38	-2.635	121.095	0
+malangbong	30	-7.06	108.088	0
+malang	08	-7.98	112.63	889359
+makbon	PD	-0.748	131.539	0
+makale	38	-3.102	119.854	0
+majene	41	-3.54	118.971	73883
+majenang	07	-7.297	108.764	38897
+majalengka	30	-6.836	108.228	73052
+magetan	08	-7.657	111.331	0
+magelang	07	-7.471	110.218	128709
+mafa	29	0.047	127.89	0
+maesan	08	-8.023	113.778	0
+madiun	08	-7.63	111.524	202544
+maba	29	0.701	128.292	12560
+luwuk	21	-0.952	122.788	47778
+luragung	30	-7.017	108.638	0
+lumajang	08	-8.133	113.225	123626
+lubuk sikaping	24	0.144	100.166	0
+lubuklinggau	32	-3.294	102.861	234166
+lubuk jambi	37	-0.652	101.468	0
+lubukgadang	24	-1.525	101.273	0
+lubuk basung	24	-0.325	100.065	0
+lubukbergalung	24	-0.961	100.4	0
+lubukalung	24	-0.683	100.319	0
+long pujungan	42	2.588	115.795	0
+longnawang	42	1.789	114.901	0
+longkali	14	-1.522	116.321	0
+longikis	14	-1.583	116.206	0
+labuan lombok	17	-8.5	116.667	10000
+lolak	31	0.876	124.01	0
+lodoyo	08	-8.161	112.217	0
+loakulu	14	-0.515	117.016	0
+loa janan	14	-0.583	117.095	212816
+liwa	15	-5.036	104.076	0
+lirung	31	3.937	126.696	0
+limboto	34	0.627	122.978	0
+likupang	31	1.672	125.061	0
+lewoleba	18	-8.372	123.418	30151
+lewolaga	18	-8.42	122.809	0
+leuwidamar	33	-6.512	106.193	0
+letung	40	2.989	105.707	0
+lenteng	08	-7.028	113.784	0
+lengkong	30	-7.131	106.693	0
+lenangguar	17	-8.736	117.365	0
+lemito	34	0.542	121.571	0
+lembar	17	-8.726	116.074	10000
+lembang	30	-6.812	107.618	183130
+lemahputih	30	-7.01	108.17	0
+lelogama	18	-9.711	123.954	0
+leles	30	-7.11	107.899	0
+lela	18	-8.729	122.173	0
+leksula	28	-3.773	126.538	0
+lekebai	18	-8.712	122.076	0
+ledokombo	08	-8.135	113.875	0
+lebakwangi	30	-7.017	108.602	0
+lebaksiu	07	-7.05	109.144	33606
+lawang	08	-7.835	112.695	112540
+lasem	07	-6.692	111.453	28948
+lasehao	22	-5.007	122.494	0
+larompong	38	-3.515	120.37	0
+larantuka	18	-8.347	122.977	0
+lampihung	12	-2.381	115.528	0
+langgur	28	-5.667	132.738	0
+langnga	38	-3.846	119.522	0
+langara	22	-4.025	122.991	0
+lamongan	08	-7.117	112.417	59224
+laiwui	29	-1.352	127.669	0
+lais	03	-3.529	102.05	0
+laikit laikit ii dimembe	31	1.488	124.974	8000
+lahat	32	-3.785	103.543	65906
+labuhanmaringgai	15	-5.351	105.81	0
+labuan bajo	18	-8.496	119.888	188724
+labuan	33	-6.378	105.83	33576
+labuha	29	-0.625	127.478	7073
+kwantisore	PT	-3.265	134.907	0
+kutoarjo	07	-7.717	109.913	31352
+kuta	02	-8.723	115.172	30012
+pangkalan kerinci	37	0.396	101.857	0
+kuningan	30	-6.976	108.483	111742
+kumurkek	PD	-1.257	132.5	0
+kumai	13	-2.74	111.726	0
+kuma	31	3.573	125.574	0
+kudus	07	-6.805	110.841	92156
+kubu	02	-8.252	115.567	0
+kubu	11	-0.486	109.355	0
+kwandang	34	0.835	122.915	0
+kuala tungkal	05	-0.816	103.461	33683
+kualakapuas	13	-3.009	114.388	35632
+kuala cenaku	37	-0.471	102.683	7000
+krui	15	-5.191	103.932	0
+kroya	07	-7.633	109.246	23255
+krian	08	-7.41	112.579	38603
+kresek	30	-6.131	106.38	110182
+kraksaan	08	-7.758	113.396	28248
+kragan	07	-6.69	111.613	0
+kotawaringin	13	-2.473	111.473	0
+kota tengah	37	1.087	100.555	0
+kota pinang	26	1.891	100.092	0
+kotamobagu	31	0.742	124.312	121756
+daik lingga	40	-0.215	104.618	0
+dabo	40	-0.493	104.563	10388
+kotabunan	31	0.812	124.655	0
+kotabumi	15	-4.825	104.882	42366
+kotabesi	13	-2.371	113.003	0
+kotabaru hilir	12	-3.243	116.225	0
+kotabaru	24	-1.102	101.76	0
+kotaagung	15	-5.494	104.622	0
+kotaagung	32	-4.069	103.432	0
+korem	36	-0.9	136.041	0
+korido	36	-0.875	135.634	0
+kopang satu	17	-8.633	116.352	0
+komodo	18	-8.589	119.491	2000
+kolonodale	21	-1.982	121.336	0
+kokas kota	39	-2.701	132.438	0
+kokar	18	-8.163	124.447	0
+koba	35	-2.493	106.408	0
+klungkung	02	-8.533	115.4	223720
+kelua	12	-2.205	115.399	0
+klaten	07	-7.706	110.606	126831
+klangenan	30	-6.709	108.44	88378
+klampis	08	-6.894	112.904	0
+klakah	08	-7.996	113.253	7583
+kiruru	39	-3.939	134.97	0
+kimaam	PS	-7.985	138.847	0
+ketahun	03	-3.39	101.835	0
+ketapang	08	-6.896	113.281	0
+ketapang	11	-1.839	109.977	0
+ketanggungan	07	-6.938	108.891	44288
+kesugihan	07	-7.617	109.121	0
+kesamben	08	-8.146	112.366	0
+kertosono	08	-7.583	112.1	60782
+kerek	08	-6.895	111.887	0
+kerang	14	-2.233	116.072	0
+kepoh	35	-2.945	106.557	0
+kepi	PS	-6.525	139.322	8394
+kepanjen	08	-8.13	112.573	51919
+kendari	22	-3.978	122.515	351085
+kendal	07	-6.921	110.202	0
+kendahe	31	3.687	125.402	0
+kencong	08	-8.283	113.367	43046
+kenali	15	-4.992	104.193	0
+kema	31	1.366	125.075	0
+kelapa	35	-1.878	105.677	0
+kefamenanu	18	-9.447	124.478	48202
+kedungwuni	07	-6.97	109.648	117249
+kedungwaru	08	-8.067	111.917	80257
+kediri	17	-8.634	116.152	0
+kediri	08	-7.817	112.017	301424
+kedaton	15	-5.384	105.26	0
+kebumen	07	-7.669	109.654	0
+kebonarun	07	-7.7	110.563	21745
+kebomas	08	-7.167	112.633	75982
+padangtepung	32	-3.754	102.795	0
+kayu agung	32	-3.392	104.831	0
+kawasi	29	-1.591	127.407	29642
+kawangu	18	-9.673	120.341	0
+kawangkoan	31	1.205	124.782	0
+kawalu	30	-7.382	108.208	50541
+kawali	30	-7.185	108.37	0
+katobu	22	-4.83	122.726	31929
+kasui	15	-4.716	104.45	0
+kasonawejo	36	-2.282	138.035	0
+kasiguncu	21	-1.421	120.655	0
+kasarangan	12	-2.626	115.297	0
+karawang	30	-6.305	107.32	307880
+karangsembung	30	-6.849	108.642	75856
+karangrejo	08	-8.003	111.909	0
+karangpawitan	30	-7.206	107.946	0
+karangnunggal	30	-7.628	108.134	0
+karangintan	12	-3.412	115.013	0
+karanggeneng	08	-6.99	112.374	0
+amlapura	02	-8.45	115.617	31869
+karangharjo kidul	08	-8.312	114.048	0
+karanganyar	07	-7.598	110.944	0
+karanganom	07	-7.649	110.625	47179
+karangan	08	-8.088	111.659	0
+karangan	11	0.56	109.376	0
+karangampel	30	-6.462	108.452	31234
+kapongan	08	-7.691	114.062	0
+kapan	18	-9.735	124.274	0
+kepahiang	03	-3.645	102.571	0
+kandangan	12	-2.784	115.277	0
+malaju	17	-8.31	118.394	0
+kelarik	40	4.008	107.999	0
+hampang	12	-2.918	115.837	0
+kampak	08	-8.175	111.661	0
+kameri	36	-0.982	134.805	0
+kambang	24	-1.69	100.721	0
+kamal	08	-7.168	112.719	22515
+cibaregbeg	30	-7.679	107.803	0
+kalipucang	30	-7.643	108.753	0
+kalipang	07	-6.724	111.654	0
+kaliori	07	-6.702	111.248	0
+kalidawir	08	-8.181	111.972	0
+kalibunder	30	-7.263	106.722	0
+kalianget	08	-7.054	113.942	23897
+kalianda	15	-5.738	105.592	0
+kalangbret	08	-8.053	111.865	0
+kalabahi	18	-8.215	124.546	19210
+kajen	07	-7.032	109.577	0
+kairatu	28	-3.352	128.369	0
+kaimana	39	-3.663	133.765	0
+kahala	14	-0.015	116.363	0
+kadupandak	30	-7.261	107.047	0
+kadugedong	33	-6.364	106.1	0
+kadugede	30	-7.004	108.454	0
+kabir	18	-8.254	124.215	0
+kabare	PD	-0.015	130.832	0
+juwana	07	-6.715	111.151	40177
+dungkek	08	-6.978	114.095	0
+jorong	12	-3.986	114.952	0
+jombang	08	-7.546	112.233	126465
+jojogan	08	-6.971	111.788	0
+jogonalan	07	-7.704	110.536	28114
+jimbaran	02	-8.791	115.16	1785
+jimbaran	10	-7.95	110.767	6778
+jepon	07	-6.973	111.48	0
+jepara	07	-6.592	110.671	1257912
+jepara	15	-5.169	105.704	0
+jenggawah	08	-8.266	113.648	0
+jeneponto	38	-5.676	119.748	0
+jember	08	-8.172	113.7	298585
+jelbuk	08	-8.082	113.759	0
+jekulo	07	-6.806	110.926	37521
+jebus	35	-1.743	105.455	0
+jatiwangi	30	-6.734	108.263	57973
+jatiroto	08	-8.122	113.364	0
+jatiroto	07	-7.883	111.117	50059
+jatirogo	08	-6.886	111.659	0
+jatinagara	30	-7.173	108.403	0
+jatibarang	30	-6.475	108.315	73010
+jaten	07	-7.577	110.898	32378
+japah	07	-6.942	111.29	0
+jangkat	05	-2.507	102.054	0
+jampang tengah	30	-7.057	106.801	0
+jampang kulon	30	-7.258	106.626	0
+jambula	29	0.758	127.318	0
+jambi city	05	-1.6	103.617	635101
+jalang	38	-4.038	120.322	0
+jakenan	07	-6.762	111.164	0
+jakarta	04	-6.215	106.845	8540121
+jailolo	29	1.065	127.468	0
+jabung	15	-5.463	105.668	0
+isimu	34	0.645	122.861	0
+ipuh	03	-3.007	101.484	0
+indramayu	30	-6.326	108.32	123263
+indralaya	32	-3.252	104.676	42498
+serkos	PD	-2.125	132.167	0
+alung	12	-2.516	115.428	0
+hila	28	-3.587	128.088	0
+gajrug	33	-6.527	106.38	0
+haruyan	12	-2.692	115.35	0
+haruai	12	-2.015	115.507	0
+hadakewa	18	-8.37	123.547	0
+gunungwungkal	07	-6.566	110.989	0
+gunung sugih	15	-4.975	105.214	0
+gunungmenang	32	-3.18	104.033	0
+gunungmegang dalam	32	-3.45	103.87	0
+gunungkencana	33	-6.572	106.074	0
+gunungbatubesar	12	-2.621	116.293	0
+gunem	07	-6.807	111.466	0
+gulukguluk	08	-7.055	113.675	0
+grogol	07	-7.601	110.819	100613
+gresik	08	-7.154	112.656	73629
+gorontalo	34	0.538	123.063	205390
+gongdanglegi kulon	08	-8.175	112.636	22468
+gondang	08	-8.073	111.847	0
+gombong	07	-7.607	109.514	50950
+godo	17	-8.561	118.666	0
+godean	10	-7.77	110.294	63164
+gitgit	02	-8.188	115.137	3876
+gianyar	02	-8.543	115.327	0
+geser	28	-3.879	130.899	0
+gerung	17	-8.683	116.125	0
+genteng	08	-8.367	114.15	79652
+glumbang	32	-3.239	104.437	0
+gedong tataan	15	-5.383	105.096	0
+gedangan	08	-7.391	112.727	79230
+gebog	07	-6.735	110.844	43756
+gayam	08	-7.164	114.331	0
+garut	30	-7.245	107.921	131809
+garawangi	30	-6.999	108.539	0
+gapura	08	-6.997	113.956	0
+gandusari	08	-8.13	111.704	0
+gandusari	08	-8.046	112.303	0
+gandrungmangu	07	-7.52	108.854	0
+ganding	08	-7.039	113.689	0
+gampengrejo	08	-7.764	112.035	49118
+gampang	08	-6.956	112.299	0
+gambiran satu	08	-8.394	114.146	22525
+galunggalung	41	-3.489	118.896	0
+kalumpang	41	-2.478	119.486	0
+galis	08	-7.156	113.554	0
+galesong	38	-5.317	119.366	83050
+galela	29	1.823	127.789	8760
+fakfak	36	-2.925	132.298	18900
+essang	31	4.458	126.732	0
+enrekang	38	-3.565	119.77	0
+enok	37	-0.515	103.199	0
+enemawira	31	3.657	125.561	0
+ende	18	-8.843	121.662	87269
+enarotali	PT	-3.93	136.377	0
+elopada	18	-9.569	119.317	0
+duri	37	1.276	101.195	0
+durenan	08	-8.12	111.799	0
+dumoga	31	0.61	124.083	0
+dumai	37	1.667	101.443	349389
+dulanpokpok	39	-2.927	132.272	0
+dukuhturi	07	-6.9	109.083	98074
+dukuhseti	07	-6.47	111.036	0
+driyorejo	08	-7.366	112.622	26827
+kempo	17	-8.543	118.248	0
+donomulyo	08	-8.287	112.427	0
+dongko	08	-8.188	111.575	0
+donggala	21	-0.672	119.74	0
+dompu	17	-8.536	118.463	54987
+dofa	29	-1.795	125.365	0
+dobo	28	-5.761	134.234	52104
+diwek	08	-7.579	112.231	41719
+depok	10	-7.762	110.432	104527
+depok	30	-6.4	106.819	2163635
+denpasar	02	-8.65	115.217	670210
+demak	07	-6.891	110.64	27251
+delanggu	07	-7.617	110.683	24440
+dayeuhluhur	07	-7.259	108.611	0
+dasuk	08	-6.901	113.814	0
+daruba	29	2.05	128.294	23566
+darma	30	-7.004	108.404	0
+dampit	08	-8.212	112.749	23094
+dalududalu	37	1.081	100.245	0
+dabra	36	-3.245	138.588	0
+curup	03	-3.47	102.521	46245
+curug	33	-6.266	106.556	191406
+comal	07	-6.905	109.535	51092
+colomadu	07	-7.533	110.75	26274
+ciwaru	30	-7.078	108.628	0
+citeureup	30	-6.486	106.882	214668
+cisompet	30	-7.552	107.81	0
+cisolok	30	-6.948	106.45	0
+cisewu	30	-7.376	107.498	0
+cisayong	30	-7.257	108.149	0
+cisaga	30	-7.346	108.516	0
+ciruas	33	-6.125	106.233	0
+cirebon	30	-6.706	108.557	344851
+ciracap	30	-7.331	106.522	0
+ciputat	30	-6.237	106.696	207858
+cipatujah	30	-7.733	108.02	0
+cipari	07	-7.439	108.764	0
+ciomas	33	-6.217	106.044	0
+cimerak	30	-7.751	108.44	0
+cimaragas	30	-7.372	108.463	0
+cimanggu	07	-7.352	108.84	0
+cimahi	30	-6.872	107.543	581994
+cileunyi	30	-6.939	107.753	111476
+cileungsir	30	-6.395	106.959	289833
+cilegong	33	-6.548	105.999	0
+cilegon	33	-6.014	106.054	470378
+cilawu	30	-7.278	107.92	0
+cilacap	07	-7.726	109.009	256996
+cikoneng	30	-7.312	108.271	0
+cikijing	30	-7.016	108.367	0
+cikeusik	33	-6.728	105.872	0
+cikelet	30	-7.612	107.677	0
+cikatomas	30	-7.621	108.258	0
+cikarang	30	-6.261	107.153	106479
+cikampek	30	-6.42	107.456	127173
+cikalong	30	-7.762	108.173	0
+cikajang	30	-7.358	107.809	0
+cijulang	30	-7.727	108.473	0
+cijeungjing	30	-7.332	108.415	0
+cihaurbeuti	30	-7.223	108.201	0
+ciemas	30	-7.233	106.52	0
+cicurug	30	-6.781	106.783	88965
+cibinong	30	-6.482	106.854	363424
+cibingbin	30	-7.061	108.762	0
+cibeureum	30	-7.355	108.269	0
+cibalong	30	-7.515	108.181	0
+cibaliung	33	-6.705	105.716	0
+cianjur	30	-6.822	107.139	174587
+ciamis	30	-7.326	108.353	109839
+cermee	08	-7.777	114.049	0
+cerenti	37	-0.509	101.869	0
+cepu	07	-7.147	111.591	55055
+ceper	07	-7.674	110.679	28646
+cempaka	32	-3.732	104.668	0
+caruban	08	-7.545	111.657	0
+caringin	30	-6.706	106.821	91845
+campurdarat	08	-8.165	111.854	0
+campor	08	-6.973	112.885	0
+ciampea	30	-6.555	106.701	207212
+camming	38	-4.812	120.077	0
+cakke	38	-3.41	119.799	0
+buol	21	1.156	121.438	0
+buntok	13	-1.721	114.84	0
+buniseuri	30	-7.242	108.378	0
+bungku	21	-2.547	121.972	25477
+bungkal	08	-8.008	111.454	0
+bungbulang	30	-7.457	107.599	0
+bunga mas	32	-3.701	103.369	0
+bulukumba	38	-5.55	120.183	0
+bulu	07	-6.859	111.406	0
+bulakamba	07	-6.875	108.956	27367
+bula	28	-3.111	130.495	0
+bukittinggi	24	-0.309	100.371	121028
+bukitkemuning	15	-4.86	104.574	0
+buduran	08	-7.428	112.723	48152
+buaran	07	-7.05	109.55	38770
+brondong	08	-6.877	112.292	0
+brebes	07	-6.869	109.038	0
+brakas	08	-7.152	114.614	0
+boyolangu	08	-8.118	111.894	32287
+boyolali	07	-7.533	110.596	59851
+bosnik	36	-1.157	136.228	0
+boroko	31	0.908	123.268	0
+bontang	14	0.132	117.485	194606
+bunobogu	21	1.041	121.613	0
+bonjol	24	-0.018	100.227	0
+bonebone	38	-2.6	120.52	0
+bondowoso	08	-7.913	113.821	69783
+bondokodi	18	-9.594	118.993	0
+bolaang	31	0.941	124.156	0
+bolangitang	31	0.907	123.307	0
+bola	18	-8.742	122.296	0
+bikondini	PE	-3.658	138.575	0
+bokat	21	1.088	121.502	0
+bojongmanik girang	33	-6.584	106.166	0
+bojonegoro	08	-7.15	111.882	86568
+bojonegara	33	-5.97	106.096	0
+bogorejo	07	-6.94	111.519	0
+bogor	30	-6.594	106.789	1078351
+bobong	29	-1.946	124.384	0
+boawae	18	-8.764	121.169	0
+bluto	08	-7.103	113.81	0
+baluburlimbangan	30	-7.036	107.983	0
+blora	07	-6.97	111.419	51811
+blitar	08	-8.098	112.168	161204
+baranusa	18	-8.362	124.089	0
+bitung	31	1.441	125.128	225134
+birayang	12	-2.533	115.455	0
+binuang	12	-3.071	115.164	0
+bintuni	39	-2.11	133.525	24742
+bintuhan	03	-4.794	103.348	0
+bingintelok	32	-2.623	103.117	0
+binangun	08	-8.234	112.336	0
+bima	17	-8.46	118.727	165113
+bilungala	34	0.382	123.214	0
+biha	15	-5.33	104.03	0
+biak	36	-1.177	136.082	41731
+betaf	36	-2.114	139.253	0
+besuki satu	08	-8.209	111.776	0
+besuki	08	-7.734	113.698	55465
+beo	31	4.227	126.792	0
+benteng	38	-6.118	120.461	0
+benoa	02	-8.755	115.218	39570
+bengkulu	03	-3.8	102.266	397321
+bengkayang	11	0.832	109.436	33385
+bengkalis	37	1.467	102.133	0
+belopa	38	-3.385	120.368	0
+belimbing	12	-2.982	115.35	0
+blambangan umpu	15	-4.503	104.519	0
+mentarang	42	3.606	116.168	0
+belakangpadang	40	1.15	103.892	0
+bekasi	30	-6.235	106.99	2648272
+bejubang dua	05	-1.792	103.317	7957
+bebandem	02	-8.439	115.561	0
+bayunglincir	32	-2.055	103.683	0
+bayongbong	30	-7.272	107.82	0
+baubau	22	-5.463	122.602	161280
+batusangkar	24	-0.461	100.611	0
+baturiti	02	-8.325	115.186	0
+baturaja	32	-4.129	104.167	134759
+baturaden	07	-7.3	109.217	42394
+batuputih	08	-6.916	113.918	0
+batu panjang	37	1.712	101.514	0
+batumandi	12	-2.422	115.441	0
+batulicin	12	-3.42	116.006	0
+batubantar	33	-6.35	106.044	0
+batu	08	-7.87	112.528	225408
+batibati	12	-3.618	114.717	0
+batangan	07	-6.709	111.23	0
+batauga	22	-5.588	122.596	0
+batang	07	-6.485	110.708	139492
+baso	24	-0.281	100.454	0
+baserah	37	-0.446	101.744	0
+barru	38	-4.412	119.618	0
+barapas	36	-2.199	137.001	0
+barabai	12	-2.583	115.383	55956
+banyuwangi	08	-8.232	114.358	117558
+banyuresmi	30	-7.16	107.952	0
+banyumas	07	-7.514	109.294	48378
+banyuates	08	-6.897	113.155	0
+bantur	08	-8.314	112.581	0
+bantul	10	-7.888	110.329	64360
+bantaeng	38	-5.547	119.951	0
+banjarwangi	30	-7.44	107.903	0
+banjarsari	30	-7.482	108.6	0
+banjarejo	07	-7.034	111.344	0
+banjarnegara	07	-7.396	109.696	0
+banjarmasin	12	-3.32	114.591	657663
+banjarbaru	12	-3.441	114.837	293332
+banjaran	30	-7.045	107.588	164952
+banjar	02	-8.19	114.968	89040
+banjar	30	-7.369	108.533	0
+banjar	30	-7.195	107.431	209791
+bangli	02	-8.454	115.355	0
+bangko	05	-2.08	102.257	0
+bangkir	21	0.78	120.228	0
+bangkinang	37	0.338	101.024	0
+bangkalan	08	-7.045	112.735	86250
+bangilan	08	-6.97	111.714	0
+bangil	08	-7.599	112.819	85504
+banggai	21	-1.589	123.499	0
+bandung	08	-8.168	111.784	0
+bandung	30	-6.922	107.607	2528163
+banding agung	32	-4.809	103.924	0
+elat	28	-5.658	132.971	0
+bancar	08	-6.783	111.781	0
+bambanglipuro	10	-7.95	110.283	44713
+balung	08	-8.273	113.539	0
+balung	08	-7.733	113.917	47631
+balong	07	-6.838	111.171	0
+balikpapan	14	-1.268	116.829	695287
+balauring	18	-8.234	123.706	0
+balapulang	07	-7.049	109.101	28483
+balai pungut	37	1.059	101.291	56452
+balaiberkuak	11	-0.526	110.366	0
+baki	07	-7.613	110.784	58909
+bajo	38	-3.379	120.31	0
+bajawa	18	-8.785	120.974	0
+bagan si api api	37	2.157	100.808	0
+baekrajan	07	-6.767	110.854	57920
+bade	PS	-7.167	139.583	0
+irarututiga	39	-2.537	133.442	0
+babirik	12	-2.541	115.159	0
+babat	08	-7.113	112.164	27038
+babat	32	-2.738	103.64	0
+babana	41	-2.078	119.199	0
+ayamaru	PD	-1.274	132.193	0
+aitinyo	PD	-1.312	132.345	0
+atap	42	3.857	117.047	0
+atambua	18	-9.106	124.893	82196
+astanajapura	30	-6.802	108.631	148047
+asera	22	-3.475	122.067	0
+asembagus	08	-7.751	114.21	0
+arosbaya	08	-6.944	112.839	0
+armopa	36	-2.341	139.634	0
+arjasa	08	-8.121	113.747	0
+arjawinangun	30	-6.645	108.41	105845
+arjasa	08	-6.86	115.285	0
+argamakmur	03	-3.423	102.189	0
+ansus	36	-1.726	135.812	0
+ankola	30	-7.307	107.127	0
+anggana	14	-0.57	117.284	0
+andoolo	22	-4.327	122.252	0
+amuntai	12	-2.418	115.249	55560
+ampana	21	-0.869	121.584	0
+ambuten	08	-6.888	113.739	0
+ambon	28	-3.696	128.183	347288
+ambarawa	07	-7.263	110.398	65096
+amahai	28	-3.34	128.92	50478
+aluhaluh	12	-3.499	114.544	0
+alahanpanjang	24	-1.075	100.794	0
+alabio	12	-2.454	115.245	0
+air molek	37	-0.37	102.292	0
+airmadidi	31	1.428	124.978	31446
+aimere	18	-8.843	120.858	0
+agats	PS	-5.545	138.135	23869
+airbuaya	28	-3.103	126.421	0
+aenganyar	08	-7.19	113.897	0
+adiwerna	07	-6.937	109.133	134188
+adipala	07	-7.66	109.15	0
+lupak	13	-3.382	114.268	0
+tabunganen	12	-3.41	114.483	0
+belawang	12	-3.071	114.66	0
+tulehu	28	-3.588	128.327	0
+sanur	02	-8.675	115.261	14628
+lantebung	38	-5.08	119.467	2400
+meral	40	0.995	103.394	0
+gununganyar	08	-7.341	112.782	0
+betun	18	-9.567	124.908	0
+naisano dua	18	-9.598	123.77	2345
+sasi	18	-9.499	124.493	0
+bangunrejo	15	-5.14	105.037	0
+punggur	15	-5.041	105.277	0
+pekalongan	15	-5.083	105.359	0
+batanghari	15	-5.141	105.375	0
+sokarame	08	-7.084	114.286	0
+jangkar	08	-7.732	114.209	0
+jimbaran	07	-7.156	110.47	4317
+padalarang	30	-6.838	107.473	193114
+ciranjang hilir	30	-6.82	107.257	77758
+ngamprah	30	-6.804	107.275	0
+gunung kendil	07	-7.332	110.404	1273
+leuwiliang	30	-7.117	107.502	15275
+kali	21	1.162	121.429	0
+lamadong	21	1.118	121.414	0
+kauditan	31	1.391	125.034	0
+ogotua	21	0.959	120.264	0
+sidomulyo	34	0.65	122.615	0
+tompasobaru	31	0.92	124.469	0
+tobadak	41	-2.089	119.347	0
+rantepang	38	-2.925	119.941	0
+rindingallo	38	-2.898	119.814	0
+sukamaju	38	-2.61	120.466	0
+lamasi	38	-2.817	120.176	0
+walenrang	38	-2.842	120.122	0
+malunda	41	-3.013	118.856	0
+lampa	38	-3.663	119.533	0
+majennang	38	-3.973	119.609	0
+uluale	38	-3.907	119.744	0
+amparita	38	-3.994	119.812	0
+sidenreng	38	-3.928	119.799	0
+baranti	38	-3.84	119.784	0
+teppo	38	-3.706	119.67	0
+baraka	38	-3.408	119.856	0
+getengan	38	-3.181	119.884	0
+dlemmer	08	-7.153	112.861	0
+beringinjaya	38	-3.007	120.206	0
+beuma	38	-3.211	120.053	0
+padangsappa	38	-3.235	120.301	0
+lempokasi	38	-3.456	120.366	0
+unaaha	22	-3.854	122.042	0
+tancung	38	-4.052	120.029	0
+maroanging	38	-4.196	120.098	0
+kotabaru	38	-4.214	120.01	0
+matango	38	-4.662	120.014	0
+apala	38	-4.612	120.314	0
+kadai	38	-4.808	120.342	0
+bulubulu	38	-4.913	120.282	0
+bilalang	31	0.773	124.301	0
+modayag	31	0.711	124.384	0
+batuputih	38	-2.958	120.181	0
+gubengairlangga	08	-7.273	112.757	0
+cikupa	30	-6.236	106.508	174041
+teluknaga	30	-6.099	106.638	175155
+karangnongko	07	-7.796	110.587	37420
+gamping lor	10	-7.796	110.326	66110
+kasihan	10	-7.827	110.329	86234
+pokak	07	-7.687	110.662	3042
+ngemplak	07	-7.55	110.716	23750
+kartasura	07	-7.552	110.738	88927
+gatak	07	-7.591	110.704	48959
+olafulihaa	18	-10.631	123.235	0
+seba	18	-10.493	121.839	0
+oelamasi	18	-10.064	123.879	0
+oekabiti	18	-10.215	123.825	0
+kupang	18	-10.171	123.607	474801
+kelapalima	18	-10.15	123.619	0
+kananggar	18	-10.043	120.362	0
+eahun	18	-10.615	123.385	0
+camplong	18	-10.038	123.923	0
+babau	18	-10.105	123.786	0
+baa	18	-10.726	123.049	1263
+waris	36	-3.117	140.883	0
+ubrub	36	-3.713	140.88	0
+tanah merah	PS	-6.098	140.306	0
+sentani	36	-2.569	140.513	44779
+sengge	36	-3.447	140.775	0
+merauke	PS	-8.5	140.406	116864
+jayapura	36	-2.534	140.718	410852
+genyem	36	-2.579	140.15	0
+depapre	36	-2.487	140.371	0
+demta	36	-2.359	140.147	0
+arso	36	-2.903	140.766	0
+abepura	36	-2.596	140.632	62248
+mungkid	07	-7.592	110.219	0
+kebon gunung	07	-7.651	110.046	2174
+batam	37	1.149	104.025	1296960
+gambarsari	07	-7.531	109.201	0
+klapagada	07	-7.623	109.149	0
+rejanegara	07	-7.685	109.038	0
+karangbadar kidul	07	-7.706	109.031	0
+gili air	17	-8.358	116.082	1800
+senggigi	17	-8.492	116.042	5000
+lueng putu	01	5.257	96.057	0
+kuala tuha	01	4.059	96.245	0
+kebayakan	01	4.641	96.854	0
+simpang tiga redelong	01	4.722	96.874	0
+pandan	26	1.684	98.822	0
+subulussalam	01	2.662	97.883	105553
+tangantangancut	01	3.688	96.89	0
+jambi baru	01	2.779	97.889	0
+drien rampak	01	4.311	95.958	0
+angkup	01	4.622	96.723	0
+aek kanopan	26	2.57	99.653	0
+onolimbu	26	0.995	97.497	0
+kaburon	33	-6.287	106.127	0
+curug	33	-5.981	106.019	0
+bahoi	31	2.362	125.373	0
+bungalawang	31	3.61	125.476	0
+bentung	31	3.52	125.619	0
+tutuyan	31	0.765	124.614	0
+lolayan	31	0.646	124.307	0
+poigar	31	0.996	124.283	0
+tanggunggunung	08	-8.218	111.876	0
+kromengan	08	-8.13	112.491	0
+menden	07	-7.247	111.455	0
+ngraho	07	-7.171	111.497	0
+pengkok	08	-7.167	111.61	0
+sambopinggir	08	-7.022	112.479	0
+pule	08	-8.048	113.14	0
+darungan lor	08	-8.044	113.235	0
+pohgending kawan	02	-8.436	115.143	0
+basa	02	-8.474	115.169	0
+amahusu	28	-3.725	128.147	0
+watulumbung	07	-7.005	111.512	0
+duda	02	-8.442	115.488	0
+banjar wangsian	02	-8.495	115.423	2353
+wonotirto	08	-8.224	112.154	0
+sukorambi	08	-8.157	113.665	0
+patrang	08	-8.145	113.72	0
+kloncing	08	-8.185	113.727	0
+durenan	08	-8.244	113.654	0
+pacarkeling	08	-7.258	112.758	0
+semarapura	02	-8.535	115.402	0
+songgon	08	-8.235	114.204	0
+tirtopuro	08	-8.18	114.357	0
+olehsari	08	-8.216	114.319	0
+penataban krajan satu	08	-8.207	114.356	0
+seririt	02	-8.193	114.939	25000
+sukamulia	17	-8.629	116.513	0
+aikmel	17	-8.568	116.531	0
+ulakan	02	-8.498	115.513	0
+bedugul	02	-8.45	115.593	20000
+abang	02	-8.387	115.601	0
+subagan	02	-8.45	115.607	0
+pauhambar	24	-0.655	100.213	0
+lubukalung	24	-0.686	100.286	0
+sungaisarik	24	-0.574	100.225	0
+kampungladang	24	-0.542	100.17	0
+kotatua	24	-0.345	100.362	0
+guguk	24	-0.139	100.553	0
+salimpaung	24	-0.352	100.549	0
+sungayang	24	-0.408	100.597	0
+simabur	24	-0.464	100.528	0
+rambatan	24	-0.492	100.545	0
+gunung talang	24	-0.906	100.627	0
+kumanis	24	-0.55	100.831	0
+tanjungampalu	24	-0.639	100.828	0
+kototujuh	24	-0.636	100.889	0
+sirukam	24	-0.887	100.76	0
+tanjung mas	24	-0.497	100.773	0
+nusa dua	02	-8.8	115.233	2500
+legian	02	-8.704	115.17	10000
+banjar mandung	02	-8.518	115.092	0
+sukawati	02	-8.491	115.046	125470
+tambolaka	18	-9.428	119.238	35790
+ndona	18	-8.834	121.686	0
+wolowona	18	-8.832	121.677	0
+maurole	18	-8.511	121.802	0
+mantang	17	-8.615	116.314	0
+sumberrejo	08	-8.187	113.072	0
+rowokangkung	08	-8.194	113.33	0
+sebaren	08	-8.237	113.349	0
+kebonsari	08	-8.211	113.17	0
+kebonan	08	-8.216	113.228	0
+sulahan	02	-8.421	115.348	0
+karang daye	17	-8.745	116.241	0
+kotabaru	18	-8.51	121.991	0
+naru	17	-8.572	118.993	0
+donggo	17	-8.425	118.595	0
+tawali	17	-8.341	118.915	0
+tangratte	38	-3.05	119.764	0
+totumbang	38	-3.078	119.921	0
+nggongi	18	-10.194	120.234	0
+malahar	18	-9.949	120.072	0
+tempurejo	08	-8.299	113.679	0
+kalianyar selatan	08	-8.013	113.829	0
+busungbiu	02	-8.256	114.967	0
+sikur	17	-8.633	116.446	0
+terara	17	-8.641	116.411	0
+janapria	17	-8.695	116.402	0
+kabukarudi	18	-9.725	119.36	0
+allu	41	-3.425	118.991	0
+petoosang	41	-3.428	118.991	0
+iteng	18	-8.812	120.422	0
+detung	18	-8.664	122.216	0
+onan ganjang satu	26	2.159	98.63	0
+anyar	17	-8.23	116.425	0
+kotawaikabubak	18	-9.638	119.423	0
+welamosa	18	-8.606	121.718	0
+aelande	18	-8.596	121.725	0
+ritapiret	18	-8.672	122.175	0
+talibura	18	-8.525	122.526	0
+boru	18	-8.525	122.711	0
+dajan tangluk	02	-8.646	115.239	0
+karyadharma	02	-8.704	115.219	0
+jabajero	02	-8.728	115.175	0
+tuban	02	-8.743	115.172	22947
+cempa pasar	38	-3.749	119.584	0
+pringgabaya	17	-8.557	116.632	0
+pekutatan	02	-8.421	114.823	0
+lokokrangan	17	-8.255	116.259	0
+manola	18	-9.564	119.201	0
+werang	18	-8.649	120.011	0
+waelengga	18	-8.826	120.807	0
+mataloko	18	-8.821	121.063	0
+toroloji	18	-8.358	120.169	0
+sambelia	17	-8.379	116.687	0
+bentengjawa	18	-8.457	120.572	0
+waipare	18	-8.637	122.279	0
+tamanan	08	-8.072	111.903	0
+harapankarya	38	-3.989	119.644	0
+belajen	38	-3.323	119.824	0
+kamalaputi	18	-9.648	120.263	0
+soa	18	-8.698	121.036	0
+mbay	18	-8.561	121.272	0
+senggapi	18	-8.298	120.462	0
+detusoko	18	-8.717	121.761	0
+bandaragung	15	-5.292	105.693	0
+gadingrejo	15	-5.372	105.062	0
+palas	15	-5.652	105.68	0
+sidorejo	15	-5.585	105.524	0
+pasuruan	15	-5.746	105.677	0
+penengahan	15	-5.771	105.697	0
+kedondong	15	-5.463	105.001	0
+mulyosari	07	-7.507	108.786	0
+harian	26	2.556	98.663	0
+tuktuk sonak	26	2.669	98.858	5000
+tigarunggu	26	2.897	98.723	0
+sipintuangin	26	2.813	98.79	0
+sarimatondang	26	2.864	98.916	0
+pane tongah	26	2.906	98.972	0
+cigeulis	33	-6.588	105.692	0
+warungbanten	33	-6.833	106.329	0
+polos	33	-6.7	105.649	0
+pasanggrahan	33	-6.605	105.905	0
+panimbang	33	-6.494	105.796	0
+sukacai	33	-6.349	105.867	0
+gardutanjak	33	-6.313	106.101	0
+kopibera	33	-6.155	105.873	0
+sukamaju	33	-6.705	106.07	0
+sajir	33	-6.507	106.086	0
+pasirgeleng	33	-6.803	106.013	0
+gili trawangan	17	-8.349	116.037	1500
+sumandang	33	-6.507	106.329	0
+buniasih	30	-7.423	106.723	0
+cisiih	33	-6.907	106.191	0
+ciwaru	33	-6.933	106.245	0
+sinarjaya	30	-7.305	106.835	0
+sukarama	30	-7.374	106.982	0
+kertajadi	30	-7.488	107.347	0
+puncaktugu	30	-7.205	106.834	0
+sindangratu	30	-7.465	107.672	0
+cibungur	30	-7.291	107.532	0
+sukoharjo satu	15	-5.301	104.983	0
+kuripan	15	-5.035	103.764	0
+kalirejo	15	-5.226	104.961	0
+pulaupanggung	15	-5.318	104.742	0
+kota ternate	28	0.783	127.367	0
+gudang	30	-7.307	107.797	0
+kebonkai	30	-7.502	107.967	0
+parabon	30	-7.535	107.921	0
+cibitung	30	-7.483	107.923	0
+pakuwon	30	-7.215	107.904	0
+bunisari	30	-7.072	107.961	0
+pasirluhur	30	-7.104	107.955	0
+gununglimbangan	30	-7.102	107.984	0
+simpang	30	-7.623	108.106	0
+tanjungjaya	30	-7.388	108.122	0
+jayapura	30	-7.352	108.032	0
+arjasari	30	-7.337	108.101	0
+sukamaju kidul	30	-7.283	108.187	0
+argasari	30	-7.325	108.206	0
+nagarasari	30	-7.3	108.221	0
+kahuripan	30	-7.347	108.228	0
+sindangtamu	30	-7.143	108.148	0
+sukaraja	30	-7.147	108.214	0
+jamanis	30	-7.189	108.184	0
+cibongas	30	-7.659	108.272	0
+ciriri	30	-7.409	108.36	0
+cibitung	30	-7.333	108.363	0
+lovina	02	-8.149	115.04	10000
+cigugur	30	-7.635	108.42	0
+limusnunggal	30	-7.504	108.402	0
+sukadana	30	-7.265	108.44	0
+hegarsari	30	-7.386	108.539	0
+ngulakan	07	-6.776	111.225	0
+bantengan	07	-6.66	111.063	0
+cipadung timur	30	-7.359	108.541	0
+rembang	07	-6.707	111.35	0
+sidowayah kidul	07	-6.72	111.347	0
+pananjung	30	-7.683	108.65	0
+bangkle	07	-6.971	111.431	0
+sinargalih	30	-7.357	108.638	0
+jetis	08	-6.912	111.626	0
+jamong	08	-6.802	111.855	0
+latsari	08	-6.893	112.046	0
+gedongombo	08	-6.909	112.065	0
+bejagung kidul	08	-6.92	112.064	0
+bakung	08	-8.259	112.073	0
+wates	08	-8.254	112.376	0
+banjaranyar	08	-6.901	112.154	0
+solokuro	08	-6.933	112.356	0
+prupuh	08	-6.913	112.458	0
+gupakan	08	-7	112.509	0
+sukorejo	08	-8.247	111.38	0
+gedangan	08	-8.295	112.652	0
+tempursari	08	-8.286	112.979	0
+dawang	08	-8.035	111.415	0
+kebonsari	08	-8.264	113.448	0
+krajan a wonorejo	08	-8.286	113.382	0
+kebonan	08	-8.312	113.408	0
+sumberan	08	-8.343	113.606	0
+bangsalsari	08	-8.203	113.535	0
+batubulan	02	-8.624	115.262	28131
+pasirpanjang	40	1.126	103.35	0
+tebing	40	1.032	103.421	0
+sekotong tengah	17	-8.778	116.049	0
+tlogowungu	07	-6.707	111.014	0
+lakbok	30	-7.404	108.657	0
+dibee	08	-7	112.39	0
+glagahwero	08	-8.177	113.619	0
+siliragung	08	-8.557	114.112	0
+prigi	08	-8.272	111.715	0
+sumbergedong	08	-8.052	111.708	0
+bendo	08	-8.095	111.744	0
+larangan	08	-7.129	113.547	0
+woja	17	-8.637	118.354	0
+pabean	02	-8.65	115.239	6212
+tegallinggah	02	-8.655	115.208	2361
+pakel	08	-8.002	111.906	0
+pucanglaban	08	-8.263	112.015	0
+bara datu	15	-4.744	104.496	0
+oganlima	15	-4.867	104.703	0
+umbulan kapiak	15	-4.834	104.529	0
+ledeunu	18	-10.606	121.611	0
+loboae	18	-10.505	121.828	0
+bolou	18	-10.498	121.973	0
+pragaan	08	-7.111	113.66	0
+batutua	18	-10.859	122.984	0
+busalangga	18	-10.804	123.004	0
+likioen	18	-10.748	123.045	0
+momanalu	18	-10.663	123.142	0
+talango	08	-7.063	113.951	0
+batakte	18	-10.256	123.557	0
+uitao	18	-10.191	123.407	0
+oebobo	18	-10.168	123.599	0
+tarus	18	-10.133	123.688	0
+takari	18	-9.973	124.047	0
+neonmat	18	-9.876	124.332	0
+siso	18	-9.872	124.221	0
+oekamusa	18	-9.875	124.306	0
+polen	18	-9.687	124.48	0
+oeekam	18	-9.709	124.589	0
+eban	18	-9.554	124.324	0
+panite	18	-10.07	124.228	0
+kuanfatu	18	-10.024	124.448	0
+kie	18	-9.845	124.548	0
+oinlasi	18	-9.85	124.574	0
+ayotupas	18	-9.697	124.708	0
+biudukfoho	18	-9.607	124.74	0
+maritaing	18	-8.291	125.124	0
+kemang	18	-8.166	124.755	0
+mainang	18	-8.283	124.625	0
+apui	18	-8.273	124.723	0
+moru	18	-8.257	124.516	0
+kampungraja	18	-8.216	124.518	0
+wairiang	18	-8.192	123.819	0
+watugolok	18	-8.438	123.473	0
+waiwadan	18	-8.276	123.093	0
+senadan	18	-8.385	123.258	0
+loang	18	-8.471	123.285	0
+klubagolit	18	-8.298	123.228	0
+baniona	18	-8.4	123.085	0
+menanga	18	-8.436	123.087	0
+ritaebang	18	-8.531	122.884	0
+data dian	42	2.017	115.259	0
+samalantan	11	0.793	109.197	0
+rundeng	26	2.686	97.835	0
+rantau prapat	26	2.332	100.052	0
+tobong	40	3.291	106.291	5828
+waiklibang	18	-8.174	122.896	0
+uwa	18	-8.297	121.726	0
+rambangaru	18	-9.45	120.052	0
+ngalu	18	-10.145	120.708	0
+pekan bahapal	26	3.113	99.174	40000
+mandarahan	24	-1.796	100.83	0
+rantau ambacang	05	-1.398	101.919	0
+siulak deras mudik	05	-1.895	101.3	0
+senayan	17	-8.613	116.851	0
+tanjung lubuk	32	-3.36	104.843	0
+negeriagung	32	-3.767	103.652	0
+waghete	PT	-4.039	136.275	0
+eci	PS	-6.124	139.154	0
+getentiri	PS	-6.589	140.346	0
+muting	PS	-7.308	140.558	0
+mindiptana	PS	-5.864	140.693	0
+warmare	39	-1.114	133.936	0
+kebar	PD	-0.847	133.146	0
+bomomani	PT	-4.066	135.818	0
+merdey	39	-1.59	133.295	0
+bofuer	39	-3.011	133.763	0
+topo	PT	-3.54	135.538	0
+homeyo	PT	-3.663	136.469	0
+kumopa	PT	-3.822	136.509	0
+moanemani	PT	-3.968	136.112	0
+bilogai	PT	-3.718	136.668	0
+beoga	PT	-3.839	137.167	0
+trimuris	36	-1.958	137.837	0
+arbais	36	-1.739	138.404	0
+samanente	36	-2.199	138.88	0
+guay	36	-2.503	139.81	0
+banda	36	-3.18	140.942	0
+wurigelebur	PE	-3.763	138.809	0
+karubaga	PE	-3.699	138.458	6703
+sawoi	36	-2.625	140.336	0
+sumberan	08	-8.4	114.268	0
+kota agung	15	-5.503	104.645	0
+pulosari	30	-7.009	108.017	0
+gondang	08	-8.046	111.657	0
+kokop	08	-6.942	113.03	0
+bontang baru	14	0.119	117.487	0
+wasior	39	-2.642	134.488	0
+pulau punjung	24	-0.959	101.5	0
+teluk pinang	37	-0.182	103.359	0
+suak bakung	01	3.006	97.365	0
+paya dapur	01	3.21	97.418	0
+labuhan bajau	01	2.401	96.455	0
+luan balu	01	2.526	96.332	0
+lauke	01	2.584	96.041	0
+kuala baru	01	2.247	97.787	0
+rimo	01	2.359	97.961	0
+danauparis	01	2.411	98.085	0
+pulo batal	01	2.225	97.234	0
+pulopaya	01	2.873	97.652	0
+pulo ie	01	3.282	97.355	0
+terbangan	01	3.215	97.272	0
+samadua	01	3.336	97.131	0
+sawang	01	3.403	97.101	0
+meukek	01	3.476	97.062	0
+peuleumat	01	3.527	97.031	0
+kota trieng	01	3.598	96.962	0
+mersak	01	3.514	97.382	0
+seupakat	01	3.643	97.463	0
+tanah merah	01	3.632	97.702	0
+bambol	01	3.45	97.88	0
+lawesigalagala timur	01	3.332	97.942	0
+ngkan	01	3.402	97.669	0
+idi rayeuk	01	4.95	97.773	0
+idi cut	01	4.978	97.732	0
+bagok	01	4.947	97.665	0
+beusa seberang	01	4.874	97.857	0
+sungai raya	01	4.761	97.912	0
+rantau panjang	01	4.727	97.757	0
+buket teukuh	01	4.809	97.659	0
+seuneubok bayu	01	4.878	97.575	0
+simpang ulim	01	5.122	97.562	0
+kota binjai	01	5.047	97.609	0
+luthu	01	5.314	95.403	0
+indrapuri	01	5.477	95.417	0
+angan	01	5.606	95.391	0
+lampuuk	01	5.571	95.39	0
+sibreh	01	5.519	95.373	0
+mata ie	01	5.528	95.335	0
+keumala	01	5.249	95.924	0
+geuleumpangminyeuk	01	5.25	96.029	0
+rusip	01	4.668	96.61	0
+kute panang	01	4.651	96.734	0
+kemil	01	4.621	96.757	0
+pegasing	01	4.577	96.776	0
+kuala bintang	01	4.575	96.963	0
+jagongjeget	01	4.387	96.793	0
+banda layung	01	4.242	96.097	0
+keudee aron	01	4.215	96.179	0
+pantai ceuremen	01	4.369	96.196	0
+uleeglee	01	5.191	96.349	0
+jumpangdua	01	5.197	96.784	0
+cot baroh	01	5.216	96.841	0
+adil makmur	01	5.198	96.87	0
+juli	01	5.108	96.711	0
+alue glumpang	01	5.079	96.765	0
+blang ara	01	4.282	96.371	0
+beutong ateuh	01	4.251	96.437	0
+alue bilie	01	4.005	96.56	0
+suka makmue	01	4.003	96.618	0
+blang mane	01	5.017	96.772	0
+kalde panga	01	4.556	95.715	0
+lageun	01	4.694	95.53	0
+blang dalam	01	4.896	95.62	0
+kajeung	01	4.514	96.132	0
+peukanbada	01	5.536	95.228	0
+geumpang	01	4.829	96.161	0
+mane	01	4.938	96.006	0
+tiro	01	5.192	95.937	0
+lampoih	01	5.318	95.986	0
+caloue	01	5.315	95.971	0
+matangkuli	01	5.032	97.284	0
+matangpayang	01	5.126	97.249	0
+seunudon	01	5.209	97.449	0
+bulahblangaro	01	5.086	96.853	0
+blang ara	01	5.111	97.03	0
+babah rot	01	3.929	96.689	0
+suek	01	3.775	96.818	0
+kutapanjang	01	4.038	97.237	0
+sangir	01	3.886	97.528	0
+sungai iyu	01	4.405	98.132	0
+karangbaru	01	4.306	98.027	0
+sungi liput	01	4.207	98.013	0
+tenggulun	01	3.991	98.007	0
+pulau tiga	01	4.127	97.878	0
+simpang teritit	01	4.697	96.857	0
+ulee gle	01	5.203	96.327	0
+trienggadeng	01	5.24	96.202	0
+pante raja	01	5.245	96.146	0
+lambaro	01	5.556	95.344	0
+pasir panjang	01	2.675	98.001	0
+lawepakam	01	3.304	97.968	0
+kuala baru sungai	01	2.408	97.74	0
+south tangerang	33	-6.289	106.718	1429529
+kotabahagia	01	3.819	96.766	0
+blangpulo	01	5.207	97.077	0
+sarulla	26	1.786	99.114	0
+long peso	42	2.69	116.785	0
+long beluah	42	2.76	117.089	0
+long bang	42	2.848	116.905	0
+sungai nyamuk	14	4.144	117.911	0
+binalawan	42	4.092	117.773	0
+long layu	42	3.61	115.7	0
+sungaiboh	42	1.639	115.233	0
+long loreh	42	3.168	116.47	0
+sekatak bengara	42	3.088	117.213	0
+tanjung palas	42	2.83	117.343	0
+kerangagung	42	3.001	117.217	0
+kayan hulu	42	3.826	115.867	0
+pasarujungbatu	26	1.036	99.948	0
+sipoholon	26	2.065	98.947	0
+sampuran	26	2.008	98.967	0
+sukarama	26	2.647	98.302	0
+sumbul	26	2.741	98.398	0
+pulau temiang	05	-1.225	102.242	0
+handilenam	14	-0.824	117.249	0
+palaran	14	-0.571	117.196	0
+waru	14	-1.389	116.615	0
+batusopang	14	-1.824	115.913	0
+awayan	12	-2.462	115.654	0
+matangai	13	-2.582	114.373	0
+jenamas	13	-2.446	114.908	0
+danaupanggang	12	-2.408	115.04	0
+telagaselaba	12	-2.383	115.314	0
+sungaiturak	12	-2.353	115.387	0
+pasararba	12	-2.259	115.317	0
+tanta	12	-2.228	115.452	0
+tambarangan	12	-3.004	115.132	0
+tapintengah	12	-2.956	115.037	0
+margasari	12	-2.856	115.037	0
+margasarihilir	12	-2.827	115.007	0
+angkimang	12	-2.734	115.31	0
+pasingkan	12	-2.686	115.211	0
+pendawanbaru	12	-2.53	115.242	0
+sungaitatas	13	-2.835	114.489	0
+bantul	12	-3.043	114.761	0
+barimba	13	-2.942	114.443	0
+anjirserapat	13	-3.039	114.385	0
+basarang	13	-2.964	114.299	0
+anjirmuara	12	-3.197	114.567	0
+sungaigampa	12	-3.085	114.7	0
+sungaipuntik	12	-3.169	114.683	0
+sungaitabuk	12	-3.247	114.771	0
+gambut	12	-3.396	114.675	0
+astambul	12	-3.37	114.914	0
+sungairaya	12	-3.286	115.056	0
+kurau	12	-3.566	114.58	0
+bakau	12	-2.41	116.239	0
+pudi	12	-2.888	116.344	0
+putatbasiun	12	-2.421	115.529	0
+mungkuruyam	12	-2.267	115.576	0
+halong	12	-2.258	115.651	0
+manunggulama	12	-2.514	116.166	0
+binawara	12	-3.485	115.795	0
+lontar	12	-3.975	116.07	0
+allealle	12	-3.912	116.304	0
+telagalangsat	12	-2.791	115.564	0
+juai	12	-2.304	115.562	0
+mapurujaya	PT	-4.675	136.83	0
+woha	17	-8.618	118.648	0
+kuala pembuang	13	-3.392	112.55	0
+doom	PD	-0.887	131.236	0
+aifat	PD	-1.166	132.502	0
+masohi	28	-3.298	128.969	36433
+waipia	28	-3.188	128.903	0
+petani	29	0.329	128.653	0
+buli	29	0.685	128.291	0
+basiong	29	0.773	127.375	0
+malifud	29	0.364	127.423	0
+guruafin	29	0.101	127.434	0
+dufa dufa	29	-0.462	127.15	0
+tungoo	31	0.747	124.261	0
+teritip	35	-1.833	105.37	0
+terentang	11	-0.382	109.621	0
+batuampar	11	-0.738	109.525	0
+kenyau	11	-0.895	110.504	0
+pontianak barat	11	-0.019	109.319	0
+barikin	12	-2.68	115.325	0
+loklaga	12	-2.712	115.373	0
+senayang	40	0.038	104.654	0
+matak	40	3.348	106.291	0
+sabang mawang barat	40	3.633	108.113	0
+cemaga	40	3.783	108.365	0
+harapan jaya	40	3.875	108.303	0
+mangupura	02	-8.544	115.17	0
+tigaraksa	33	-6.228	106.514	0
+tubei	03	-3.119	102.2	0
+karang tinggi	03	-3.75	102.423	0
+pulau pramuka	04	-5.746	106.614	0
+suwawa	34	0.533	123.147	0
+siulak	05	-1.947	101.334	0
+batang	07	-6.908	109.73	0
+ngasem	08	-7.796	112.045	0
+sungai raya	11	-0.127	109.404	0
+sendawar	14	-0.236	115.695	0
+bandar seri bentan	40	1.054	104.48	0
+wiralaga mulya	15	-3.843	105.494	0
+tiakur	28	-8.15	127.795	5227
+kigamani	PT	-3.961	135.944	0
+sugapa	PT	-3.743	137.05	0
+burmeso	36	-2.326	138.041	0
+kobakma	PE	-3.664	139.065	13062
+kenyam	PE	-4.6	138.384	6394
+oksibil	PE	-4.904	140.63	0
+ilaga	PT	-3.95	137.4	0
+botawa	36	-2.21	136.447	0
+sumohai	PE	-4.689	139.355	0
+elelim	PE	-3.759	139.708	5946
+ullong	39	-1.371	133.913	0
+aimas	PD	-0.957	131.335	0
+fef	PD	-0.809	132.432	966
+sigi biromaru	21	-0.95	119.918	0
+buranga	22	-4.801	122.983	0
+laworo	22	-4.783	122.525	0
+tuapejat	24	-2.028	99.589	5756
+arosuka	24	-0.952	100.621	0
+padang aro	24	-1.527	101.264	0
+lotu	26	1.43	97.354	0
+labungkari	22	-5.263	122.551	0
+jembrana subdistrict	02	-8.315	114.576	0
+amlapura city	02	-8.449	115.606	31869
+patipi pasir	39	-2.712	132.128	0
+kramongmongga	39	-2.76	132.381	0
+onimsari	39	-2.867	132.992	0
+weriagar	39	-2.271	132.891	0
+moskona barat	39	-1.63	132.956	0
+meyado	39	-1.907	133.152	0
+jagiro	39	-1.822	133.047	0
+kucir	39	-1.979	133.407	0
+masyeta	39	-1.55	133.239	0
+biscoop	39	-1.591	133.299	0
+pamolokan	08	-7.001	113.87	0
+sitimerto	08	-7.768	112.087	0
+krucil timur	08	-7.943	113.475	0
+raas	08	-5.571	114.414	0
+tambakrejo	08	-7.247	112.756	0
+buduan ghejeh	08	-7.739	113.727	0
+pemalang	07	-6.923	109.385	0
+taman	07	-6.914	109.41	0
+ranai kota	40	3.94	108.378	8735
+bugalaga	PT	-3.625	136.597	3582
+kota sambas	11	1.363	109.301	57295
+kebonan	08	-8.209	113.117	0
+bangunrejo	15	-5.108	105.077	0
+gapura	08	-6.946	113.997	0
+pidie	01	5.363	95.94	0
+dumai kota	37	1.678	101.444	0
+ulu siau	31	2.731	125.408	0
+dalung	02	-8.626	115.17	30228
+nusantara	14	-0.973	116.709	147430

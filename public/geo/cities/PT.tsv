@@ -1,0 +1,982 @@
+@	19	setubal
+@	18	santarem
+@	16	portalegre
+@	14	lisbon
+@	13	leiria
+@	09	faro
+@	08	evora
+@	06	castelo branco
+@	03	beja
+@	10	madeira
+@	22	viseu
+@	21	vila real
+@	20	viana do castelo
+@	17	porto
+@	11	guarda
+@	07	coimbra
+@	05	braganca
+@	04	braga
+@	02	aveiro
+@	23	azores
+zibreira	18	39.483	-8.61	592
+zambujeira do mar	03	37.528	-8.785	2011
+vimeiro	14	39.178	-9.317	1470
+vila vicosa	08	38.778	-7.418	8319
+vila verde dos francos	14	39.155	-9.115	1162
+vila velha de rodao	06	39.656	-7.677	3521
+vila real de santo antonio	09	37.195	-7.418	11560
+vila nova de milfontes	03	37.724	-8.783	4393
+vila nova da barquinha	18	39.461	-8.436	7322
+vila franca de xira	14	38.955	-8.99	18355
+vila flor	05	41.309	-7.154	0
+vila do bispo	09	37.083	-8.911	5717
+vila de rei	06	39.676	-8.146	3452
+vila cha de ourique	18	39.172	-8.767	2771
+vila baleira	10	33.059	-16.334	0
+vieira de leiria	13	39.869	-8.932	5807
+vidigueira	03	38.21	-7.8	5932
+vidais	13	39.369	-9.049	1155
+viana do alentejo	08	38.335	-8.004	0
+vialonga	14	38.872	-9.078	16088
+vestiaria	13	39.553	-8.998	1258
+ventosa	14	39.127	-9.084	5215
+vendas novas	08	38.677	-8.458	11248
+venda do pinheiro	14	38.924	-9.232	10000
+vale de santarem	18	39.191	-8.727	2920
+vale de figueira	18	39.306	-8.629	2000
+vale da amoreira	16	39.07	-7.698	10828
+valado de frades	13	39.584	-9.023	3109
+urra	16	39.228	-7.399	0
+unhos	14	38.82	-9.12	10712
+turquel	13	39.464	-8.977	4434
+tunes	09	37.166	-8.259	6837
+tramagal	18	39.45	-8.25	3821
+trafaria	19	38.672	-9.233	5603
+torres vedras	14	39.091	-9.259	24443
+torres novas	18	39.476	-8.543	15002
+tomar	18	39.602	-8.409	19168
+terrugem	14	38.706	-9.287	4693
+tavira	09	37.127	-7.649	15133
+souto da carpalhosa	13	39.849	-8.835	4130
+sobreda	19	38.65	-9.19	11146
+sobralinho	14	38.917	-9.027	4453
+sobral de monte agraco	14	39.02	-9.151	3406
+sintra	14	38.801	-9.378	26193
+sines	19	37.956	-8.87	12791
+silves	09	37.189	-8.438	10917
+silveira	14	39.111	-9.364	6942
+sesimbra	19	38.445	-9.101	41134
+setubal	19	38.524	-8.888	118166
+sete rios	14	38.741	-9.161	23261
+serta	06	39.802	-8.096	5636
+serra de el rei	13	39.333	-9.268	1401
+serpa	03	37.946	-7.598	6586
+senhora da luz	09	37.088	-8.726	3545
+senhora da graca dos padroes	03	37.565	-7.971	0
+seixal	19	38.64	-9.101	2776
+sarilhos pequenos	19	38.682	-8.982	2049
+sardoal	18	39.534	-8.161	3939
+sao vicente do paul	18	39.349	-8.622	2917
+sao vicente	10	32.797	-17.043	6063
+sao teotonio	03	37.513	-8.707	4936
+sao roque	10	32.667	-16.917	9385
+sao pedro da cadeira	14	39.07	-9.372	4452
+sao miguel de rio torto	18	39.433	-8.217	4881
+sao martinho do porto	13	39.514	-9.131	2868
+sao martinho	10	32.645	-16.938	26482
+sao marcos da serra	09	37.361	-8.378	1352
+sao luis	03	37.716	-8.665	1006
+sao juliao do tojal	14	38.86	-9.128	3837
+sao juliao	16	39.323	-7.311	0
+sao jorge	10	32.817	-16.9	1473
+sao joao dos montes	14	38.939	-9.019	4772
+sao joao da talha	14	38.824	-9.097	18925
+sao joao das lampas	14	38.874	-9.398	10484
+sao goncalo	10	32.658	-16.871	5806
+sao domingos de rana	14	38.702	-9.341	46718
+sao bras de alportel	09	37.153	-7.888	11153
+sao bartolomeu de messines	09	37.256	-8.287	8381
+sao bartolomeu	14	39.275	-9.279	1041
+santo antonio da charneca	19	38.626	-9.03	11143
+santo antonio	10	32.661	-16.935	25940
+santo antao do tojal	14	38.852	-9.14	4156
+santo andre	16	39.055	-8.244	11213
+santo andre	19	38.061	-8.782	10601
+santiago do cacem	19	38.017	-8.695	7797
+santarem	18	39.234	-8.686	29385
+santana	10	32.8	-16.883	8804
+santa maria maior	10	32.648	-16.891	11768
+santa margarida da coutada	18	39.45	-8.317	1788
+santa luzia	09	37.102	-7.662	1455
+santa luzia	10	32.657	-16.905	5490
+santa iria da azoia	14	38.841	-9.099	18573
+santa cruz	10	32.688	-16.794	6010
+santa catarina da serra	13	39.68	-8.687	4405
+santa barbara de nexe	09	37.106	-7.966	4087
+samouco	19	38.72	-9.005	3143
+samora correia	18	38.937	-8.872	14154
+salvaterra de magos	18	39.028	-8.793	5165
+salvada	03	37.938	-7.774	1352
+salir de matos	13	39.432	-9.095	2583
+sagres	09	37.009	-8.943	1939
+sacavem	14	38.792	-9.108	17718
+rosairinho	19	38.677	-9.008	2377
+rio maior	18	39.337	-8.939	12064
+rio de mouro	14	38.766	-9.328	54695
+ribeira brava	10	32.675	-17.063	5932
+riachos	18	39.445	-8.514	5463
+reguengos de monsaraz	08	38.425	-7.535	7217
+reguengo	16	39.298	-7.392	0
+redondo	08	38.649	-7.547	5845
+ramada	14	38.804	-9.188	17535
+quinta do anjo	19	38.568	-8.942	9124
+quinta de santo antonio	19	38.653	-9.235	5154
+queluz	14	38.757	-9.255	103399
+quelfes	09	37.06	-7.822	17253
+queijas	14	38.719	-9.263	8828
+quarteira	09	37.069	-8.101	24420
+proenca a nova	06	39.752	-7.924	4590
+praia do ribatejo	18	39.467	-8.35	1702
+pragal	19	38.675	-9.17	7701
+povoa e meadas	16	39.51	-7.518	0
+povoa de santo adriao	14	38.8	-9.167	14897
+povoa de santa iria	14	38.861	-9.065	28901
+porto salvo	14	38.723	-9.305	13867
+porto moniz	10	32.867	-17.167	2762
+porto de mos	13	39.602	-8.818	6032
+porto de mos	09	37.085	-8.684	23648
+porto da cruz	10	32.767	-16.833	2597
+porto covo	19	37.853	-8.79	1400
+portimao	09	37.139	-8.538	38487
+portel	08	38.307	-7.702	0
+portalegre	16	39.294	-7.431	22368
+porches	09	37.127	-8.402	2011
+pontinha	14	38.768	-9.199	23249
+pontevel	18	39.149	-8.839	4435
+ponte de sor	16	39.25	-8.01	11062
+ponta do sol	10	32.68	-17.1	4235
+pombal	13	39.917	-8.628	17355
+poceirao	18	38.831	-8.794	4225
+pinheiro grande	18	39.392	-8.434	1051
+pinhal novo	19	38.631	-8.914	23510
+piedade	19	38.67	-9.159	19472
+pero pinheiro	14	38.858	-9.324	4792
+pera	09	37.123	-8.341	1951
+peniche	13	39.356	-9.381	15662
+penedo gordo	03	37.985	-7.917	1167
+pego	18	39.461	-8.15	2431
+pedrogao grande	13	39.918	-8.146	3915
+pataias	13	39.67	-8.996	5510
+parede	14	38.693	-9.354	17212
+parchal	09	37.138	-8.517	5019
+palmela	19	38.569	-8.901	16934
+paialvo	18	39.562	-8.467	2599
+paderne	09	37.179	-8.201	3304
+paco de arcos	14	38.696	-9.291	25974
+ourique	03	37.654	-8.226	0
+ourem	18	39.642	-8.592	12729
+ota	14	39.112	-8.991	1289
+olival basto	14	38.791	-9.166	5959
+olival	14	38.771	-9.25	42961
+olivais	14	38.77	-9.107	33788
+olhos de agua	09	37.09	-8.192	13221
+olho marinho	13	39.328	-9.232	1158
+olhao	09	37.029	-7.841	29239
+olhalvo	14	39.099	-9.065	1806
+oleiros	06	39.919	-7.914	5721
+ulgueira	14	38.786	-9.476	1401
+oeiras	14	38.691	-9.311	35000
+odivelas	14	38.793	-9.184	54624
+odemira	03	37.598	-8.64	5830
+obidos	13	39.361	-9.157	11187
+nossa senhora do monte	10	32.667	-16.9	7444
+nisa	16	39.515	-7.649	7450
+neves	03	38.023	-7.813	1747
+nazare	13	39.603	-9.068	8993
+nadadouro	13	39.419	-9.191	1904
+mourao	08	38.384	-7.342	0
+moura	03	38.14	-7.449	9360
+moscavide e portela	14	38.779	-9.102	22488
+mora	08	38.944	-8.164	0
+montijo	19	38.707	-8.974	30011
+monte redondo	13	39.899	-8.832	4463
+monte real	13	39.852	-8.863	5756
+montemor o novo	08	38.648	-8.215	12854
+monte gordo	09	37.182	-7.452	4282
+monte estoril	14	38.706	-9.406	23375
+montargil	16	39.078	-8.17	2316
+montalvo	18	39.483	-8.3	1275
+montalvinho	18	39.484	-8.307	1275
+monsanto	18	39.462	-8.712	50000
+monforte	16	39.053	-7.437	3329
+monchique	09	37.318	-8.555	5421
+moncarapacho	09	37.084	-7.788	8545
+moita dos ferreiros	14	39.248	-9.224	1734
+moita	19	38.651	-8.99	17795
+mira	13	39.543	-8.715	3775
+minde	18	39.516	-8.688	3293
+minas de sao domingos	03	37.673	-7.498	2500
+milharado	14	38.947	-9.199	5935
+milagres	13	39.79	-8.794	1006
+mexilhoeira grande	09	37.159	-8.615	4029
+mertola	03	37.643	-7.661	7274
+mem martins	14	38.794	-9.343	9000
+meia via	18	39.475	-8.499	1667
+meca	14	39.082	-9.035	1719
+massama	14	38.753	-9.281	28112
+marvila	14	38.74	-9.102	35463
+marvao	16	39.394	-7.377	3739
+marmelete	09	37.31	-8.668	1087
+marinhais	18	39.047	-8.702	5788
+marinha grande	13	39.748	-8.932	28916
+manta rota	09	37.168	-7.518	1200
+malveira	14	38.932	-9.258	9647
+mafra	14	38.938	-9.328	12259
+madalena	18	39.571	-8.446	3466
+machico	10	32.716	-16.768	12567
+maceirinha	13	39.673	-8.901	1089
+maceira	13	39.689	-8.894	9831
+macao	18	39.556	-7.994	0
+luz	09	37.092	-7.704	3627
+lumiar	14	38.775	-9.156	46334
+lourinha	14	39.242	-9.313	9196
+lourical	13	40.004	-8.737	5085
+loures	14	38.831	-9.168	66231
+loureira	13	39.66	-8.688	1024
+loule	09	37.138	-8.02	17930
+lisbon	14	38.725	-9.15	517802
+linho	14	38.766	-9.383	1487
+linda a velha	14	38.714	-9.242	20895
+leiria	13	39.744	-8.807	128640
+lavradio	19	38.668	-9.052	21877
+laranjeiro	09	37.068	-7.808	20473
+laranjeiro	19	38.656	-9.154	20988
+lagos	09	37.102	-8.674	33494
+lagoa	09	37.135	-8.453	6301
+juncal	13	39.602	-8.899	1425
+idanha a nova	06	39.923	-7.241	0
+guia	09	37.13	-8.3	4173
+grandola	19	38.177	-8.567	10737
+golega	18	39.405	-8.486	3830
+gaviao	16	39.464	-7.934	4132
+gaeiras	13	39.374	-9.129	2363
+fuzeta	09	37.054	-7.747	9267
+funchal	10	32.666	-16.925	105795
+fronteira	16	39.056	-7.649	3410
+foz do arelho	13	39.437	-9.214	1339
+fortios	16	39.325	-7.501	0
+fontanelas	14	38.848	-9.439	6001
+figueiro dos vinhos	13	39.904	-8.275	1550
+ferrel	13	39.364	-9.315	2649
+ferreiras	09	37.129	-8.238	7267
+ferreira do zezere	18	39.694	-8.292	0
+ferreira do alentejo	03	38.06	-8.114	4689
+ferragudo	09	37.125	-8.519	1973
+fazendas de almeirim	18	39.176	-8.569	6635
+fatima	18	39.621	-8.652	11798
+faro	09	37.019	-7.927	70347
+fanhoes	14	38.882	-9.153	2639
+famoes	14	38.788	-9.21	9435
+famalicao	13	39.536	-9.083	1740
+falagueira	14	38.764	-9.228	20788
+faja da ovelha	10	32.775	-17.234	1016
+faial	10	32.783	-16.85	1567
+evora	08	38.566	-7.904	53591
+estremoz	08	38.844	-7.586	9350
+estreito de camara de lobos	10	32.661	-17	9348
+estreito da calheta	10	32.737	-17.187	1630
+estoril	14	38.706	-9.398	23700
+estombar	09	37.146	-8.485	8590
+estoi	09	37.095	-7.894	8331
+ermidas	19	38	-8.38	2020
+ericeira	14	38.963	-9.416	7538
+entroncamento	18	39.467	-8.467	19887
+elvas	16	38.882	-7.163	9904
+damaia	14	38.751	-9.212	37607
+curral das freiras	10	32.72	-16.97	1673
+cuba	03	38.165	-7.892	4878
+cova da moura	14	39.056	-9.348	6000
+costa de caparica	19	38.645	-9.236	14231
+corujeira de dentro	10	32.667	-16.917	5627
+coruche	18	38.96	-8.525	8776
+corroios	19	38.64	-9.151	52520
+constancia	18	39.478	-8.336	993
+conceicao	09	37.148	-7.604	2519
+comporta	19	38.381	-8.786	1268
+colares	14	38.799	-9.447	7905
+cobre	14	38.713	-9.435	1344
+chelas	14	38.741	-9.12	7960
+charneca	14	38.784	-9.143	10509
+charneca de caparica	19	38.62	-9.194	29763
+cercal	19	37.801	-8.674	3772
+cela	13	39.541	-9.034	3264
+caxias	14	38.703	-9.277	9007
+castro verde	03	37.698	-8.086	4857
+castro marim	09	37.221	-7.443	5089
+castelo de vide	16	39.416	-7.457	3780
+castelo branco	06	39.824	-7.491	33479
+castanheira do ribatejo	14	38.993	-8.973	7651
+castanheira de pera	13	40.007	-8.21	3331
+cascais	14	38.697	-9.421	36436
+carvoeiro	09	37.097	-8.468	10141
+cartaxo	18	39.16	-8.787	10502
+carreira	13	39.868	-8.854	1159
+carregado	14	39.024	-8.977	10474
+carnide	14	38.767	-9.183	18028
+carnaxide	14	38.727	-9.247	23698
+carcavelos	14	38.691	-9.322	20366
+caranguejeira	13	39.746	-8.707	5248
+caparica	19	38.662	-9.2	21167
+cano	16	38.962	-7.759	1057
+canico	10	32.651	-16.837	23368
+canical	10	32.738	-16.738	3893
+canhas	10	32.695	-17.113	3769
+canecas	14	38.813	-9.227	10978
+campo maior	16	39.018	-7.065	8235
+campolide	14	38.729	-9.165	14787
+campo grande	14	38.755	-9.167	15514
+campelos	14	39.197	-9.235	3667
+campanario	10	32.666	-17.036	3987
+camarate	14	38.804	-9.128	20177
+camara de lobos	10	32.65	-16.977	32209
+camacha	10	33.087	-16.343	5149
+camacha	10	32.679	-16.845	7991
+calheta	10	32.728	-17.179	1618
+caldas da rainha	13	39.403	-9.138	27378
+cadaval	14	39.243	-9.103	14228
+cadafais	14	39.005	-9.004	1687
+cacilhas	19	38.686	-9.149	6494
+cacem	14	38.767	-9.298	93982
+cabo ruivo	14	38.756	-9.097	5302
+cabeca gorda	03	37.924	-7.793	1386
+cabanas de torres	14	39.156	-9.066	1018
+buraca	14	38.733	-9.2	16081
+bucelas	14	38.902	-9.119	4614
+borba	08	38.806	-7.455	4586
+bombarral	13	39.267	-9.158	5852
+boliqueime	09	37.137	-8.158	4470
+bobadela	14	38.808	-9.099	8399
+boavista dos pinheiros	03	37.581	-8.664	1633
+boa vista	13	39.784	-8.752	1168
+boaventura	10	32.818	-16.973	1221
+beringel	03	38.057	-7.984	1301
+bensafrim	09	37.156	-8.735	2004
+benedita	13	39.425	-8.97	8556
+benavente	18	38.979	-8.808	8932
+bemfica	18	39.143	-8.687	3067
+benfica	14	38.751	-9.203	36985
+belem	14	38.699	-9.193	16546
+belas	14	38.777	-9.264	21019
+beja	03	38.015	-7.863	34760
+beato antonio	14	38.733	-9.103	12737
+batalha	13	39.66	-8.825	7910
+barreiro	19	38.663	-9.072	51280
+barrancos	03	38.134	-6.976	0
+barcarena	14	38.732	-9.28	11968
+bairro do alto da boavista	14	38.735	-9.206	3400
+bairro da madre de deus	14	38.735	-9.118	12183
+azueira	14	39.007	-9.289	4434
+azoia	14	38.776	-9.477	2276
+azinhaga	18	39.349	-8.53	1620
+azinhaga	14	39.05	-9.35	5001
+azambuja	14	39.07	-8.868	21422
+avis	16	39.054	-7.892	4571
+avelar	13	39.924	-8.358	1458
+aveiras de cima	14	39.138	-8.899	4615
+atouguia da baleia	13	39.338	-9.326	8313
+atalaia	16	39.456	-7.873	1747
+arruda dos vinhos	14	38.984	-9.077	6170
+arronches	16	39.122	-7.286	3165
+arrentela	19	38.625	-9.102	30156
+arranho	14	38.954	-9.135	2531
+arraiolos	08	38.724	-7.985	0
+armacao de pera	09	37.103	-8.357	6003
+areeiro	14	38.741	-9.138	21160
+arco da calheta	10	32.715	-17.15	3241
+apelacao	14	38.814	-9.132	7182
+ansiao	13	39.912	-8.436	1357
+amora	19	38.63	-9.116	52577
+amor	13	39.804	-8.86	4870
+amiaes de baixo	18	39.443	-8.734	1851
+amadora	14	38.754	-9.231	178858
+alvorninha	13	39.382	-9.037	2987
+alvor	09	37.13	-8.592	5272
+alvito	03	38.256	-7.992	2504
+alvide	14	38.715	-9.424	4204
+alvaiazere	13	39.823	-8.38	0
+altura	09	37.176	-7.501	2195
+alter do chao	16	39.197	-7.659	2600
+alqueidao da serra	13	39.615	-8.783	1208
+alpiarca	18	39.257	-8.582	7946
+almograve	03	37.657	-8.792	1356
+almodovar	03	37.513	-8.06	7449
+almeirim	18	39.208	-8.626	11557
+almargem	14	38.845	-9.273	8271
+almancil	09	37.087	-8.031	11291
+almada	19	38.679	-9.157	34008
+aljustrel	03	37.878	-8.165	5334
+aljubarrota	13	39.567	-8.929	6146
+aljezur	09	37.317	-8.801	5884
+alhos vedros	19	38.655	-9.024	13384
+alhandra	14	38.927	-9.009	7226
+algueirao	14	38.798	-9.344	66250
+algoz	09	37.163	-8.304	2946
+alges	14	38.702	-9.229	19327
+alfornelos	14	38.761	-9.205	27093
+alferrarede	18	39.483	-8.167	3654
+alfeizerao	13	39.5	-9.103	3854
+alfama	14	38.711	-9.128	2471
+alenquer	14	39.053	-9.009	9626
+alegrete	16	39.24	-7.323	0
+aldeia nova	03	37.926	-7.408	4040
+aldeia de paio pires	19	38.617	-9.083	12179
+alcoutim	09	37.474	-7.472	0
+alcoitao	14	38.734	-9.392	2563
+alcoentre	14	39.209	-8.96	3923
+alcochete	19	38.755	-8.961	9705
+alcobaca	13	39.552	-8.977	15800
+alcantarilha	09	37.13	-8.346	4972
+alcantara	14	38.701	-9.171	20267
+alcanhoes	18	39.296	-8.658	1469
+alcanena	18	39.459	-8.669	4408
+alcanede	18	39.415	-8.822	5020
+alcains	06	39.916	-7.457	4616
+alcacer do sal	19	38.373	-8.514	9198
+alcabideche	14	38.734	-9.409	33315
+albufeira	09	37.088	-8.25	15851
+alandroal	08	38.702	-7.403	0
+alagoa	16	39.361	-7.539	0
+ajuda	14	38.7	-9.208	14306
+agua de pena	10	32.701	-16.779	2434
+a dos francos	13	39.323	-9.047	1701
+a dos cunhados	14	39.152	-9.297	6594
+abrigada	14	39.144	-9.019	3416
+abrantes	18	39.467	-8.2	13646
+vouzela	22	40.724	-8.113	0
+vizela	04	41.391	-8.264	0
+vizela	17	41.382	-8.249	4066
+viseu	22	40.662	-7.909	103502
+vinhais	05	41.835	-7.005	9066
+vimioso	05	41.585	-6.528	0
+vilela	21	41.225	-7.603	5540
+vila verde	04	41.647	-8.437	4389
+vila seca	04	41.5	-8.685	1197
+vilarinho	17	41.36	-8.331	4177
+vila real	21	41.3	-7.743	17001
+vilar do paraiso	17	41.09	-8.621	14727
+vilar de figos	04	41.476	-8.654	2066
+vilar de andorinho	17	41.106	-8.586	18944
+vilar	02	40.627	-8.632	21227
+vila praia de ancora	20	41.811	-8.853	4987
+vila pouca de aguiar	21	41.5	-7.644	0
+vila nova da telha	17	41.257	-8.666	6004
+vila nova de paiva	22	40.853	-7.728	5176
+vila nova de gaia	17	41.124	-8.612	70811
+vila nova de foz coa	11	41.082	-7.141	7312
+vila nova de famalicao	04	41.408	-8.52	9496
+vila nova da telha	17	41.072	-8.641	5848
+vila nova de cerveira	20	41.941	-8.742	0
+vila mea	17	41.251	-8.184	5000
+vila frescainha	04	41.538	-8.64	4018
+vila do conde	17	41.353	-8.745	27642
+vila da lixa	17	41.323	-8.147	6000
+vila cova	04	41.551	-8.716	2564
+vila cova	17	41.324	-8.157	6081
+vila cha	02	40.867	-8.467	4295
+vilaca	04	41.518	-8.484	1580
+vieira do minho	04	41.633	-8.143	1687
+vidago	21	41.64	-7.572	5300
+viana do castelo	20	41.693	-8.833	36148
+vermoim	17	41.243	-8.607	15764
+varzea	04	41.515	-8.584	1904
+valpacos	21	41.607	-7.311	4573
+valongo	17	41.189	-8.499	21328
+valongo	02	40.617	-8.45	5085
+valenca	20	42.031	-8.646	0
+valega	02	40.836	-8.581	7005
+vale de cambra	02	40.85	-8.394	7649
+valbom	17	41.129	-8.562	14443
+valadares	17	41.147	-7.981	9255
+valadares	17	41.093	-8.632	22322
+vairao	17	41.333	-8.667	2643
+vagos	02	40.556	-8.682	4529
+urgeses	04	41.427	-8.298	5457
+trofa	17	41.337	-8.56	20692
+treixedo	22	40.432	-8.094	1104
+travanca	07	40.324	-8.187	1079
+trancoso	11	40.783	-7.35	0
+torre de moncorvo	05	41.175	-7.054	8572
+tondela	22	40.517	-8.081	8800
+tocha	07	40.313	-8.753	3992
+terras de bouro	04	41.718	-8.309	0
+teloes	17	41.311	-8.111	4675
+teixoso	06	40.314	-7.458	4703
+tebosa	04	41.483	-8.484	1129
+tavarede	07	40.167	-8.846	8586
+tarouca	22	41.018	-7.775	3400
+tadim	04	41.507	-8.49	1267
+tabuaco	22	41.116	-7.568	6350
+tabua	07	40.362	-8.029	12071
+souto	02	40.985	-8.622	4922
+soure	07	40.06	-8.626	8416
+sol posto	02	40.633	-8.618	8026
+sobreposta	04	41.553	-8.336	1267
+sobreira	21	41.524	-7.802	4219
+sobrado	17	41.21	-8.455	6703
+cinfaes	22	41.072	-8.09	0
+silvalde	02	40.992	-8.626	7188
+silva escura	17	41.258	-8.581	8380
+sever do vouga	02	40.735	-8.367	0
+serzedo	04	41.405	-8.229	8000
+serzedo	17	41.051	-8.616	7891
+serzedelo	04	41.401	-8.369	4020
+seroa	17	41.265	-8.429	4040
+sernancelhe	22	40.899	-7.493	5671
+sermonde	17	41.047	-8.584	1360
+sequeira	11	40.554	-7.226	28502
+senhora do porto	17	41.167	-8.633	11000
+senhora da hora	17	41.186	-8.652	28930
+sendim	05	41.387	-6.426	1487
+semelhe	04	41.554	-8.463	11700
+selho	04	41.419	-8.346	10223
+seixezelo	17	41.033	-8.55	1712
+seia	11	40.415	-7.709	7082
+satao	22	40.742	-7.733	4034
+sao tiago de custoias	17	41.2	-8.633	19000
+sao roque	02	40.872	-8.471	5575
+coronado	17	41.285	-8.563	8697
+sao romao	11	40.401	-7.715	6500
+sao pedro do sul	22	40.755	-8.073	5497
+sao pedro de alva	07	40.3	-8.166	1818
+sao pedro da cova	17	41.143	-8.5	17011
+sao paulo de frades	07	40.247	-8.394	17154
+sao miguel do couto	17	41.332	-8.462	5416
+sao martinho do bispo	07	40.21	-8.457	15315
+sao mamede de infesta	17	41.192	-8.611	25940
+sao joao de ver	02	40.955	-8.551	9568
+sao joao de areias	22	40.387	-8.068	1939
+sao joao da pesqueira	22	41.148	-7.405	7874
+sao joao da madeira	02	40.901	-8.49	22079
+sao joao	02	40.868	-8.607	6762
+sao felix da marinha	17	41.036	-8.623	11685
+santo tirso	17	41.343	-8.477	14021
+santo ovidio	17	41.114	-8.602	38544
+santo izidoro	17	41.211	-8.142	1495
+santo antonio dos olivais	07	40.218	-8.405	41150
+santa marta de penaguiao	21	41.21	-7.784	0
+santa maria de avioso	17	41.268	-8.606	5513
+santa cruz do bispo	17	41.215	-8.674	6230
+santa cruz	21	41.76	-7.468	3430
+santa comba dao	22	40.399	-8.132	11597
+santa clara	07	40.2	-8.44	9637
+sangalhos	02	40.487	-8.47	4516
+sanfins	02	40.93	-8.526	1970
+sandim	17	41.035	-8.507	6449
+sande	04	41.702	-8.392	7789
+samil	05	41.776	-6.757	1246
+salreu	02	40.74	-8.557	4141
+sabugal	11	40.351	-7.091	0
+sabrosa	21	41.267	-7.576	6361
+ronfe	04	41.441	-8.384	4888
+rio tinto	17	41.179	-8.56	49966
+rio meao	02	40.958	-8.578	4802
+rio mau	17	41.404	-8.68	2681
+rio mau	17	41.055	-8.369	1407
+rio de loba	22	40.666	-7.878	9529
+ribeirao	04	41.361	-8.568	8735
+ribeira de pena	21	41.521	-7.802	5887
+ribeira de frades	07	40.205	-8.479	15315
+riba de ave	04	41.396	-8.387	3425
+resende	22	41.106	-7.966	3166
+rendufe	04	41.629	-8.409	1124
+refojos de basto	04	41.513	-7.995	5037
+recarei	17	41.154	-8.412	4856
+rebordosa	17	41.224	-8.407	11491
+rebordoes	17	41.355	-8.424	3368
+real	04	41.558	-8.443	11700
+ramalde do meio	17	41.176	-8.64	6839
+sardao	17	41.118	-8.588	10092
+quinta do gato	02	40.63	-8.621	8026
+prado	04	41.602	-8.463	4518
+povoa de varzim	17	41.383	-8.764	29044
+povoa de lanhoso	04	41.576	-8.27	5008
+porto	17	41.149	-8.611	252687
+ponte de lima	20	41.767	-8.584	44667
+ponte da barca	20	41.805	-8.416	4372
+ponte	04	41.471	-8.33	7041
+poiares	07	40.21	-8.257	5514
+pinhel	11	40.774	-7.067	0
+pinheiro manso	17	41.162	-8.652	6900
+peso da regua	21	41.163	-7.789	5048
+perozinho	17	41.065	-8.585	6259
+perelhal	04	41.531	-8.69	1749
+pereiro	17	41.174	-8.655	6501
+perafita	17	41.183	-8.254	12538
+penela	07	40.033	-8.383	0
+penedono	22	40.989	-7.394	2952
+penamacor	06	40.169	-7.17	0
+penafiel	17	41.208	-8.283	8065
+penacova	07	40.269	-8.282	3254
+pedroucos	17	41.189	-8.586	12553
+pedroso	17	41.411	-8.749	18963
+pedras rubras	17	41.244	-8.667	6300
+paredes de coura	20	41.91	-8.561	0
+paredes	17	41.205	-8.331	19834
+pardilho	02	40.799	-8.626	4169
+paranhos	17	41.173	-8.599	45883
+pampilhosa	02	40.336	-8.427	4512
+pampilhosa da serra	07	40.046	-7.952	1389
+palmeira	04	41.591	-8.428	5700
+palhaca	02	40.526	-8.6	2664
+pacos de ferreira	17	41.277	-8.376	6782
+pacos de brandao	02	40.975	-8.583	4637
+pacos	17	41.162	-8.671	5001
+ovar	02	40.859	-8.625	18452
+oliveirinha	02	40.607	-8.592	4971
+oliveira do mondego	07	40.323	-8.224	1079
+oliveira do hospital	07	40.362	-7.86	4704
+oliveira do douro	17	41.125	-8.585	24407
+oliveira do bairro	02	40.515	-8.494	6239
+oliveira de frades	22	40.734	-8.175	0
+oliveira de azemeis	02	40.841	-8.476	11771
+oliveira	04	41.478	-8.47	6222
+olival	17	41.05	-8.544	5715
+oia	02	40.543	-8.539	7118
+nogueira da regedoura	02	41.005	-8.592	5328
+nogueira	17	41.242	-8.587	5473
+noeda	17	41.15	-8.583	6100
+nine	04	41.459	-8.546	5001
+nevogilde	17	41.165	-8.679	5018
+nelas	22	40.532	-7.852	4190
+neiral	17	41.15	-8.583	2341
+negrelos	17	41.349	-8.401	6664
+negreiros	04	41.436	-8.614	2364
+nariz	02	40.539	-8.591	1418
+murtosa	02	40.737	-8.638	8282
+murca	21	41.406	-7.455	0
+mozelos	20	41.868	-8.398	7230
+mosteiro	02	40.898	-8.532	2043
+mortagua	22	40.397	-8.232	0
+moreira de conegos	04	41.387	-8.339	5607
+moreira	17	41.248	-8.648	12890
+moreira	17	41.056	-8.389	11336
+montemor o velho	07	40.173	-8.686	3154
+montalegre	21	41.824	-7.79	0
+mondim de basto	21	41.412	-7.954	7493
+moncao	20	42.079	-8.481	19738
+moimenta da beira	22	40.984	-7.618	10212
+mogadouro	05	41.34	-6.712	3936
+mire de tibaes	04	41.556	-8.479	2344
+mirandela	05	41.487	-7.187	12504
+miranda do douro	05	41.497	-6.273	7482
+miranda do corvo	07	40.093	-8.333	7857
+miramar	17	41.068	-8.65	5360
+mira	07	40.429	-8.737	7682
+mindelo	17	41.315	-8.721	3491
+milheiros de poiares	02	40.922	-8.468	4339
+milheiros	17	41.215	-8.588	4342
+mesao frio	21	41.16	-7.89	4433
+merelim	04	41.586	-8.466	5363
+melres	17	41.07	-8.401	10328
+meinedo	17	41.248	-8.258	4416
+meda	11	40.966	-7.262	5202
+mealhada	02	40.378	-8.45	4443
+meadela	20	41.707	-8.796	9981
+matosinhos	17	41.182	-8.689	28070
+massarelos	17	41.148	-8.633	6789
+mariz	04	41.528	-8.671	1208
+marinhas	04	41.559	-8.783	6052
+margaride	17	41.365	-8.2	10652
+marco de canavezes	17	41.184	-8.149	9042
+marco da oliveirinha	02	40.615	-8.619	5273
+manteigas	11	40.403	-7.54	3900
+mangualde	22	40.604	-7.761	8895
+maia	17	41.236	-8.62	36426
+madalena	17	41.216	-8.335	9618
+madalena	17	41.102	-8.648	10551
+macieira de rates	04	41.441	-8.634	2083
+macieira de cambra	02	40.859	-8.373	5348
+macieira da maia	17	41.342	-8.665	2491
+macedo de cavaleiros	05	41.538	-6.961	6566
+lustosa	17	41.341	-8.317	4686
+luso	02	40.384	-8.378	2593
+lousada	17	41.278	-8.28	2166
+lousa	07	40.117	-8.249	11445
+lourosa	02	40.984	-8.551	9619
+lorvao	07	40.259	-8.317	4158
+loriga	11	40.325	-7.69	1053
+lordelo do ouro	17	41.151	-8.648	22270
+lordelo	04	41.374	-8.38	4560
+lordelo	17	41.235	-8.403	10035
+lobao	02	40.987	-8.486	6049
+lever	17	41.067	-8.476	2794
+leca do bailio	17	41.212	-8.634	16103
+leca da palmeira	17	41.191	-8.7	17996
+lavra	17	41.259	-8.718	9633
+lavos	07	40.094	-8.828	4164
+lamego	22	41.097	-7.81	10928
+lamas	02	40.986	-8.569	5628
+lago	04	41.621	-8.413	1910
+jovim	17	41.111	-8.519	7067
+joane	04	41.439	-8.408	7869
+ilhavo	02	40.602	-8.67	17236
+gulpilhares	17	41.076	-8.637	10660
+guisande	04	41.483	-8.446	1053
+gueifaes	17	41.217	-8.6	11964
+guimaraes	04	41.444	-8.296	40604
+guifoes	17	41.197	-8.669	9231
+gueral	04	41.459	-8.629	2568
+guarda	11	40.538	-7.266	40126
+gualtar	04	41.565	-8.385	6761
+grijo	17	41.028	-8.58	10907
+granja	17	41.15	-8.567	1009
+gondomar	17	41.145	-8.532	27691
+gondizalves	04	41.542	-8.456	9148
+gois	07	40.157	-8.11	2171
+godim	21	41.171	-7.803	4919
+godim	17	41.155	-8.589	4667
+gemunde	17	41.268	-8.645	5284
+gandra	04	41.522	-8.762	1323
+gandra	17	41.201	-8.434	6034
+galegos	04	41.563	-8.572	5404
+gafanha	02	40.636	-8.713	14840
+gafanha da encarnacao	02	40.618	-8.733	4914
+fundao	06	40.14	-7.501	9725
+frossos	04	41.566	-8.451	3726
+freixo de espada a cinta	05	41.09	-6.806	3780
+freamunde	17	41.288	-8.335	7983
+frazao	17	41.259	-8.4	4314
+francos	17	41.168	-8.638	9689
+fradelos	04	41.368	-8.599	1580
+foz do sousa	17	41.097	-8.502	6315
+foz do douro	17	41.151	-8.671	10997
+fornos de algodres	11	40.628	-7.541	0
+figueiro	17	41.299	-8.168	4579
+figueira de castelo rodrigo	11	40.893	-6.963	0
+figueira da foz	07	40.151	-8.862	46600
+fiaes	02	40.994	-8.525	8708
+ferreiros	04	41.631	-8.364	3212
+ferreiros	04	41.35	-8.55	7870
+ferreira	17	41.267	-8.344	4205
+felgueiras	17	41.368	-8.194	58065
+feira	02	40.925	-8.543	16376
+favaios	21	41.269	-7.505	1064
+faria	04	41.483	-8.672	2066
+apulia e fao	04	41.512	-8.773	7301
+fanzeres	17	41.168	-8.53	23916
+falcao	17	41.16	-8.576	2500
+fafe	04	41.451	-8.173	16868
+estela	17	41.449	-8.752	2307
+estarreja	02	40.756	-8.572	0
+esposende	04	41.536	-8.782	34625
+esporoes	04	41.51	-8.417	1709
+espinho	04	41.548	-8.362	1057
+espinho	02	41.008	-8.641	32786
+espargo	02	40.925	-8.575	1309
+esmoriz	02	40.958	-8.628	11393
+esgueira	02	40.649	-8.629	13431
+ervedosa do douro	22	41.166	-7.473	1294
+ermesinde	17	41.217	-8.553	39420
+eixo	02	40.628	-8.569	5978
+eirol	02	40.611	-8.537	6190
+eiras	07	40.248	-8.415	17154
+darque	20	41.682	-8.803	8092
+custoias	11	41.105	-7.321	19406
+cucujaes	02	40.874	-8.507	11087
+cruz	17	41.167	-8.583	5123
+cristelo	04	41.48	-8.698	1875
+crestuma	17	41.066	-8.5	2621
+covilha	06	40.281	-7.505	17610
+corujeira	17	41.158	-8.583	4200
+cortegaca	02	40.949	-8.621	4139
+contumil	17	41.166	-8.58	14000
+condeixa a nova	07	40.113	-8.498	17078
+coimbra	07	40.207	-8.42	140796
+chaves	21	41.74	-7.469	17535
+chavao	04	41.452	-8.602	2364
+celorico de basto	04	41.387	-8.001	0
+celorico da beira	11	40.637	-7.39	0
+castro daire	22	40.898	-7.934	4744
+castelo viegas	07	40.163	-8.407	11858
+casteloes de cepeda	17	41.203	-8.335	8322
+castelo de paiva	02	41.063	-8.265	0
+carvalhosa	17	41.301	-8.361	4502
+carregal do sal	22	40.433	-8	5600
+carrazeda de anciaes	05	41.242	-7.307	6373
+carapinheira	07	40.206	-8.648	2898
+cantanhede	07	40.347	-8.594	7347
+canidelo	17	41.123	-8.647	26431
+canelas	17	41.083	-8.6	14247
+candoso	04	41.428	-8.322	3893
+canas de senhorim	22	40.5	-7.899	3509
+campo de besteiros	22	40.557	-8.134	1474
+campo	17	41.185	-8.465	8916
+campo	22	40.711	-7.914	4551
+campinas	17	41.167	-8.65	1200
+campanha	17	41.157	-8.575	29666
+calendario	04	41.404	-8.53	11357
+caldelas	04	41.671	-8.381	5724
+caldas de vizela	04	41.382	-8.309	10239
+taipas	04	41.485	-8.348	5723
+cacia	02	40.684	-8.598	6830
+cabeceiras de basto	04	41.514	-7.989	16710
+cabanas de viriato	22	40.477	-7.974	1533
+buarcos	07	40.166	-8.877	7865
+brito	04	41.458	-8.361	5051
+branca	02	40.767	-8.483	5632
+braganca	05	41.807	-6.759	35341
+braga	04	41.551	-8.423	193324
+bougado	17	41.34	-8.552	21680
+boticas	21	41.689	-7.669	5750
+bonjoia	17	41.15	-8.583	7509
+bomfim	17	41.154	-8.587	22978
+belver	05	41.247	-7.276	1100
+belmonte	06	40.359	-7.349	0
+bela vista	17	41.16	-8.585	5198
+beiriz de baixo	17	41.397	-8.724	3229
+beduido	02	40.764	-8.561	8201
+barrosas	17	41.355	-8.299	5573
+barro	02	40.625	-8.623	5273
+barqueiros	04	41.491	-8.732	1957
+barcelos	04	41.532	-8.618	19085
+baltar	17	41.193	-8.388	4929
+balazar	17	41.404	-8.624	2543
+bairro silva braga	17	41.175	-8.627	5500
+bairro novo	04	41.543	-8.407	32876
+bairro do loreto	07	40.233	-8.45	5699
+baiao	17	41.163	-8.035	20522
+baguim do monte	17	41.192	-8.541	15850
+azevedo	17	41.15	-8.567	14000
+azenha	17	41.077	-8.625	12260
+avintes	17	41.107	-8.551	11577
+aves	17	41.37	-8.41	8507
+aver o mar	17	41.406	-8.78	10501
+aveleda	04	41.521	-8.467	6671
+aveiro	02	40.646	-8.646	80880
+avanca	02	40.808	-8.572	6540
+assafarge	07	40.159	-8.432	5302
+arvore	17	41.339	-8.718	5196
+arrifana	02	40.916	-8.497	6927
+arouca	02	40.931	-8.245	21146
+aroes	04	41.456	-8.214	4855
+armamar	22	41.108	-7.691	0
+argoncilhe	02	41.025	-8.539	8743
+argivai	17	41.377	-8.73	2187
+arganil	07	40.218	-8.054	11596
+areosa	20	41.718	-8.857	4626
+areosa	17	41.181	-8.588	14500
+arcozelo	17	41.062	-8.632	14352
+arcos de valdevez	20	41.847	-8.419	22847
+arcos	04	41.522	-8.422	6805
+arcos	02	40.448	-8.442	6725
+arazede	07	40.286	-8.65	5906
+aradas	02	40.621	-8.642	10087
+apulia	04	41.485	-8.764	4394
+antanhol	07	40.168	-8.463	5108
+anta	17	41.266	-8.628	10951
+angeiras	17	41.267	-8.711	5034
+anca	07	40.272	-8.521	2625
+anadia	02	40.438	-8.434	0
+amorim	17	41.405	-8.75	2856
+ameal	17	41.167	-8.6	9763
+amares	04	41.631	-8.351	0
+amarante	17	41.273	-8.082	6782
+alto da maia	17	41.211	-8.566	4762
+alpendurada	17	41.089	-8.246	8485
+alijo	21	41.276	-7.475	11942
+alhadas	07	40.186	-8.791	3768
+alfena	17	41.237	-8.525	15211
+alfarelos	07	40.151	-8.653	1439
+alfandega da fe	05	41.343	-6.961	0
+aldoar	17	41.167	-8.669	29085
+aldeia de joanes	06	40.139	-7.517	1333
+albergaria a velha	02	40.693	-8.48	7974
+aguiar da beira	11	40.817	-7.544	5473
+agueda	02	40.577	-8.444	11941
+agucadoura	17	41.431	-8.778	4521
+aguas santas	17	41.21	-8.576	27686
+agua longa	17	41.25	-8.493	2207
+aguada de cima	02	40.523	-8.427	4388
+afurada de baixo	17	41.144	-8.646	34332
+adaufe	04	41.587	-8.398	3850
+abraveses	22	40.681	-7.921	9319
+vila franca do campo	23	37.716	-25.432	5035
+velas	23	38.682	-28.209	1980
+nordeste	23	37.833	-25.15	4937
+sao vicente	23	37.818	-25.666	2361
+sao sebastiao	23	38.666	-27.09	2096
+sao roque do pico	23	38.516	-28.308	3705
+sao roque	23	37.754	-25.641	4932
+sao mateus	23	38.656	-27.269	3757
+sao bartolomeu	23	38.675	-27.293	1983
+santa cruz das flores	23	39.458	-31.13	1725
+santa cruz da graciosa	23	39.086	-28.006	1776
+santa barbara	23	38.696	-27.339	1274
+rosto de cao	23	37.744	-25.64	7880
+ribeirinha	23	38.662	-27.181	2684
+ribeira seca	23	38.6	-27.983	1025
+ribeira seca	23	37.817	-25.533	2950
+ribeira seca	23	37.722	-25.418	1106
+ribeira grande	23	38.517	-28.7	5198
+ribeira grande	23	37.822	-25.521	3968
+relva	23	37.753	-25.718	3006
+rabo de peixe	23	37.81	-25.583	7681
+praia da vitoria	23	38.733	-27.067	6061
+povoacao	23	37.75	-25.25	2161
+porto martins	23	38.681	-27.058	1001
+porto judeu	23	38.648	-27.119	2501
+ponta garca	23	37.717	-25.367	3547
+mosteiros	23	37.893	-25.821	1123
+maia	23	37.832	-25.39	1900
+madalena	23	38.536	-28.527	6136
+lajes	23	38.764	-27.103	3744
+lajes	23	38.395	-28.252	4711
+lajes das flores	23	39.377	-31.178	3907
+lagoa	23	37.745	-25.572	14442
+horta	23	38.537	-28.626	6572
+furnas	23	37.776	-25.31	1599
+fonte bastardo	23	38.692	-27.079	1278
+feteira	23	38.654	-27.15	1239
+fenais da luz	23	37.825	-25.642	2009
+fenais da ajuda	23	37.851	-25.324	1131
+faja de baixo	23	37.75	-25.65	4915
+castelo branco	23	38.522	-28.714	1309
+calheta	23	38.602	-28.018	3773
+cais do pico	23	38.525	-28.321	3388
+cabouco	23	37.767	-25.567	1921
+biscoitos	23	38.783	-27.25	1425
+arrifes	23	37.767	-25.7	6981
+angustias	23	38.525	-28.631	2418
+angra do heroismo	23	38.654	-27.218	12045
+agua de pau	23	37.721	-25.512	3058
+vilamoura	09	37.087	-8.117	2819
+vila nova de cacela	09	37.174	-7.532	3902
+quinta do conde	19	38.565	-9.043	25606
+campo pequeno	14	38.743	-9.144	9000
+prior velho	14	38.792	-9.121	6500
+valenza	20	42.024	-8.635	14172
+bairro alto	14	38.712	-9.144	9658
+alfragide	14	38.732	-9.219	17044
+alvalade	14	38.753	-9.144	31813
+graca	14	38.718	-9.129	13956
+ponta delgada	23	37.74	-25.669	20056
+anjos	14	38.726	-9.135	9361
+prazeres	14	38.708	-9.168	8096
+santa maria de belem	14	38.7	-9.2	8541
+santos o velho	14	38.707	-9.156	4013
+sao jorge de arroios	14	38.729	-9.138	22990
+sao mamede	14	38.713	-9.143	5420
+sao paulo	14	38.713	-9.143	2728
+sao sebastiao da pedreira	14	38.734	-9.154	6362
+intendente	14	38.722	-9.135	5392
+costa da caparica	19	38.641	-9.232	13968
+vila	20	42.03	-8.159	0
+cabanas de tavira	09	37.135	-7.6	1181
+santo isidoro	14	38.996	-9.399	3814
+azeitao	19	38.519	-9.014	18877
+baixa	14	38.711	-9.137	12765
+parque das nacoes	14	38.769	-9.096	22382
+cidade universitaria	14	38.752	-9.159	37000
+campo de ourique	14	38.721	-9.167	22140
+principe real	14	38.718	-9.152	9658
+restelo	14	38.7	-9.214	7287
