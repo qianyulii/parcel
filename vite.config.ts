@@ -41,5 +41,5 @@ function devApi(): Plugin {
 
 export default defineConfig({
   plugins: [react(), tailwindcss(), devApi()],
-  test: { include: process.env.PG_LIVE === '1' ? ['tests/live/**/*.test.ts'] : ['tests/unit/**/*.test.ts'], environment: 'node' },
+  test: { include: ['tests/unit/**/*.test.ts'], environment: 'node' },
 });

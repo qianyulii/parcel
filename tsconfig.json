@@ -26,6 +26,6 @@
     "tests",
     "server",
     "api",
-    "vite.config.ts"
+    "vite.config.ts", "vitest.live.config.ts"
   ]
 }
